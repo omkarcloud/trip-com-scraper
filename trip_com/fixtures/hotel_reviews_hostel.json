@@ -1,0 +1,1317 @@
+{
+ "data": {
+  "commentTagList": [
+   {
+    "id": 97,
+    "name": "Convenient location",
+    "commentCount": 7,
+    "type": 1
+   },
+   {
+    "id": 32,
+    "name": "Awesome amenities",
+    "commentCount": 5,
+    "type": 1
+   },
+   {
+    "id": 77,
+    "name": "Easy to get around",
+    "commentCount": 5,
+    "type": 1
+   },
+   {
+    "id": 58,
+    "name": "Great value for money",
+    "commentCount": 4,
+    "type": 1
+   },
+   {
+    "id": 1,
+    "name": "Classy environment",
+    "commentCount": 2,
+    "type": 1
+   },
+   {
+    "id": 29,
+    "name": "Large rooms",
+    "commentCount": 1,
+    "type": 1
+   },
+   {
+    "id": 53,
+    "name": "Many amenities",
+    "commentCount": 1,
+    "type": 1
+   },
+   {
+    "id": 95,
+    "name": "Close to train station",
+    "commentCount": 1,
+    "type": 1
+   }
+  ],
+  "travelTypeList": [
+   {
+    "name": "All Travelers",
+    "commentCount": -1
+   },
+   {
+    "id": 10,
+    "name": "Business traveler",
+    "commentCount": 5
+   },
+   {
+    "id": 30,
+    "name": "Family",
+    "commentCount": 0
+   },
+   {
+    "id": 50,
+    "name": "Solo traveler",
+    "commentCount": 20
+   },
+   {
+    "id": 60,
+    "name": "Booked for others",
+    "commentCount": 1
+   },
+   {
+    "id": 70,
+    "name": "Couple",
+    "commentCount": 0
+   },
+   {
+    "id": 40,
+    "name": "Traveling with friends",
+    "commentCount": 5
+   },
+   {
+    "id": 0,
+    "name": "Other",
+    "commentCount": 20
+   }
+  ],
+  "roomList": [
+   {
+    "name": "All Room Types",
+    "commentCount": -1
+   },
+   {
+    "id": 517418420,
+    "name": "Comfort Bed in Dormitory (Male Only)",
+    "commentCount": 51
+   }
+  ],
+  "languageTypeList": [
+   {
+    "name": "All Languages",
+    "commentCount": -1
+   },
+   {
+    "id": 2,
+    "name": "English",
+    "commentCount": 5
+   },
+   {
+    "id": 3,
+    "name": "Chinese",
+    "commentCount": 40
+   },
+   {
+    "id": 4,
+    "name": "Japanese",
+    "commentCount": 2
+   },
+   {
+    "id": 9,
+    "name": "Russian",
+    "commentCount": 1
+   },
+   {
+    "id": 11,
+    "name": "Thai",
+    "commentCount": 1
+   },
+   {
+    "id": 21,
+    "name": "Arabic",
+    "commentCount": 2
+   }
+  ],
+  "totalCountForPage": 34,
+  "groupList": [
+   {
+    "dataType": 7,
+    "commentList": [
+     {
+      "id": 2105896284,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Guest User",
+       "avatarUrl": "/1i56212000h1rgk0b6C22.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/1i56212000h1rgk0b6C22_C_130_130_Q70.jpg",
+       "regionName": "Japan",
+       "regionCode": "JP",
+       "commentCount": 5,
+       "grade": {
+        "grade": 2,
+        "title": "Review Specialist",
+        "desc": "Users with 5–29 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 3 citi(es) and reviewed 5 hotel(s)",
+       "usefulCount": 1,
+       "pictureCount": 0,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "3",
+        "curLevelName": "Platinum",
+        "levelType": "TRIP"
+       },
+       "nickNameType": 3,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#948DFF",
+       "avatorLetter": "G",
+       "memberLevelIcon": "https://dimg04.tripcdn.com/images/0233z12000nal0ol1D144.png",
+       "memberLevelDarkIcon": "https://dimg04.tripcdn.com/images/0230p12000nakzmfq568A.png"
+      },
+      "createDate": "2026-09-17 09:34:32",
+      "checkinDate": "2026-09-01 00:00:00",
+      "content": "まず、ホテルは一般アパートの中にありました。\nひとり旅行者の私にとってはホテルを見つけるのが難易度高かったです。",
+      "language": "ja",
+      "source": 1,
+      "translatedContent": "First of all, the hotel was located inside a regular apartment building.\n\nAs a solo traveler, finding the hotel was quite difficult.",
+      "translatedLanguage": "en",
+      "translatedSource": "G",
+      "translatedSourceText": "Translation provided by Google",
+      "travelType": 50,
+      "travelTypeText": "Solo traveler",
+      "rating": 2,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 2,
+       "ratingLocation": 2,
+       "ratingFacility": 2,
+       "ratingService": 2,
+       "ratingRoom": 2,
+       "commentLevel": ""
+      },
+      "recommend": false,
+      "imageList": [],
+      "imageCuttingsList": [],
+      "videoList": [],
+      "feedbackList": [],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Comfort Bed in Dormitory (Male Only)",
+      "roomID": 517418420,
+      "feedbackSecurityKey": "+//uy2pGSZvfW7pnFYmtdc/vReAmAgpjRY+s9azR/CYHR6WKZjgqKg==_review_2105896284",
+      "isTripComment": true,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "English",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 2110667241,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Guest User",
+       "avatarUrl": "/27c3j12000na9jmxj3516.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/27c3j12000na9jmxj3516_C_130_130_Q70.jpg",
+       "regionName": "China",
+       "regionCode": "CN",
+       "commentCount": 71,
+       "grade": {
+        "grade": 3,
+        "title": "Review Expert",
+        "desc": "Users with 30 reviews or more"
+       },
+       "trace": "You've left your footprints in 41 citi(es) and reviewed 21 hotel(s)",
+       "usefulCount": 3,
+       "pictureCount": 0,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "10",
+        "curLevelName": "黄金贵宾",
+        "rewardList": [
+         {
+          "rewardID": "1",
+          "categoryName": "免费早餐",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_breakfast.png"
+         },
+         {
+          "rewardID": "2",
+          "categoryName": "免费取消",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_cancel.png"
+         },
+         {
+          "rewardID": "3",
+          "categoryName": "延迟退房",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_delay.png"
+         },
+         {
+          "rewardID": "4",
+          "categoryName": "房型升级",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_update.png"
+         }
+        ],
+        "discount": 0.9,
+        "levelType": "CTRIP"
+       },
+       "nickNameType": 3,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#948DFF",
+       "avatorLetter": "G"
+      },
+      "createDate": "2026-09-21 16:11:13",
+      "checkinDate": "2026-09-01 00:00:00",
+      "content": "衹有一個房間 ，幾十個人住在裏面，非常擠，非常亂，有電梯，靠近高架橋，衞生條件非常差，離火車站不算遠，走過去二十分鐘左右",
+      "language": "zh",
+      "source": 1,
+      "translatedContent": "There's only one room, but dozens of people live in it. It's very crowded and messy. There's an elevator, and it's near an overpass. The sanitation is extremely poor. It's not far from the train station, about a 20-minute walk.",
+      "translatedLanguage": "en",
+      "translatedSource": "G",
+      "translatedSourceText": "Translation provided by Google",
+      "travelType": 0,
+      "travelTypeText": "Other",
+      "rating": 4,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 4,
+       "ratingLocation": 4,
+       "ratingFacility": 4,
+       "ratingService": 4,
+       "ratingRoom": 4,
+       "commentLevel": ""
+      },
+      "recommend": false,
+      "imageList": [],
+      "imageCuttingsList": [],
+      "videoList": [],
+      "feedbackList": [],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Comfort Bed in Dormitory (Male Only)",
+      "roomID": 517418420,
+      "feedbackSecurityKey": "IgxeA9OdwT01YryT53wphO/4cLLInTcrpEhGOQQT/nEHR6WKZjgqKg==_review_2110667241",
+      "commendableRewardList": [],
+      "isTripComment": false,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "ctrip",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 2044464494,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Anonymous User",
+       "avatarUrl": "/0AS27120009wz6aovB7AA.png",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+       "regionName": "United States",
+       "regionCode": "US",
+       "commentCount": 6,
+       "grade": {
+        "grade": 2,
+        "title": "Review Specialist",
+        "desc": "Users with 5–29 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 4 citi(es) and reviewed 5 hotel(s)",
+       "usefulCount": 0,
+       "pictureCount": 6,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": true,
+       "levelInfo": {
+        "curLevelCode": "3",
+        "curLevelName": "Platinum",
+        "levelType": "TRIP"
+       },
+       "nickNameType": 2,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#2346FF",
+       "avatorLetter": "A",
+       "memberLevelIcon": "https://dimg04.tripcdn.com/images/0233z12000nal0ol1D144.png",
+       "memberLevelDarkIcon": "https://dimg04.tripcdn.com/images/0230p12000nakzmfq568A.png"
+      },
+      "createDate": "2026-08-01 01:30:13",
+      "checkinDate": "2026-07-01 00:00:00",
+      "content": "سيء جدا ولا انصح احد به . زود شوية فلوس و اشتري راحتك و خصوصيتك..",
+      "language": "ar",
+      "source": 1,
+      "translatedContent": "It's terrible and I wouldn't recommend it to anyone. Spend a little more money and buy yourself some peace and privacy.",
+      "translatedLanguage": "en",
+      "translatedSource": "G",
+      "translatedSourceText": "Translation provided by Google",
+      "travelType": 50,
+      "travelTypeText": "Solo traveler",
+      "rating": 4.5,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 4.5,
+       "ratingLocation": 8,
+       "ratingFacility": 2,
+       "ratingService": 4,
+       "ratingRoom": 4,
+       "commentLevel": ""
+      },
+      "recommend": false,
+      "imageList": [
+       "/0237412000tcu9vfu82FF.jpg"
+      ],
+      "imageCuttingsList": [
+       {
+        "imageID": 709606710,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0237412000tcu9vfu82FF_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0237412000tcu9vfu82FF_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0237412000tcu9vfu82FF_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 5,
+        "picTypeName": "其他",
+        "qualityScore": 2.0142
+       }
+      ],
+      "videoList": [],
+      "feedbackList": [],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Comfort Bed in Dormitory (Male Only)",
+      "roomID": 517418420,
+      "feedbackSecurityKey": "EGGX/dwY/xGmTfdpFYwP3jsxODuT1gPbuUVf90hQGoMHR6WKZjgqKg==_review_2044464494",
+      "isTripComment": true,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "English",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 2021409482,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Guest User",
+       "avatarUrl": "/1i54p12000h1rhnro8066.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/1i54p12000h1rhnro8066_C_130_130_Q70.jpg",
+       "regionName": "",
+       "regionCode": "XX",
+       "commentCount": 4,
+       "grade": {
+        "grade": 1,
+        "title": "Rising review star",
+        "desc": "Users with 1–4 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 6 citi(es) and reviewed 3 hotel(s)",
+       "usefulCount": 0,
+       "pictureCount": 0,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "3",
+        "curLevelName": "Platinum",
+        "levelType": "TRIP"
+       },
+       "nickNameType": 3,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#948DFF",
+       "avatorLetter": "G",
+       "memberLevelIcon": "https://dimg04.tripcdn.com/images/0233z12000nal0ol1D144.png",
+       "memberLevelDarkIcon": "https://dimg04.tripcdn.com/images/0230p12000nakzmfq568A.png"
+      },
+      "createDate": "2026-07-14 19:29:23",
+      "checkinDate": "2026-07-01 00:00:00",
+      "content": "The room conditions so bad, 12 in a room 🫤 and so obvious they do not wash their spread with enough antibacterial detergents. I have a skin condition now because of contact(sleeping on) with the bedspread. The room Air Conditioner also inefficient. Was a very terrible 3 nights experience ngl.👎",
+      "language": "en",
+      "source": 1,
+      "travelType": 0,
+      "travelTypeText": "Other",
+      "rating": 4.5,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 4.5,
+       "ratingLocation": 8,
+       "ratingFacility": 2,
+       "ratingService": 6,
+       "ratingRoom": 2,
+       "commentLevel": ""
+      },
+      "recommend": false,
+      "imageList": [],
+      "imageCuttingsList": [],
+      "videoList": [],
+      "feedbackList": [],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Comfort Bed in Dormitory (Male Only)",
+      "roomID": 517418420,
+      "isTripComment": true,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "English",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 1930112405,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Guest User",
+       "avatarUrl": "/0a25x12000dpas3wc1615.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/0a25x12000dpas3wc1615_C_130_130_Q70.jpg",
+       "regionName": "China",
+       "regionCode": "CN",
+       "commentCount": 1,
+       "grade": {
+        "grade": 1,
+        "title": "Rising review star",
+        "desc": "Users with 1–4 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 6 citi(es) and reviewed 1 hotel(s)",
+       "usefulCount": 0,
+       "pictureCount": 0,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "3",
+        "curLevelName": "Platinum",
+        "levelType": "TRIP"
+       },
+       "nickNameType": 3,
+       "isDefaultAvatar": false,
+       "memberLevelIcon": "https://dimg04.tripcdn.com/images/0233z12000nal0ol1D144.png",
+       "memberLevelDarkIcon": "https://dimg04.tripcdn.com/images/0230p12000nakzmfq568A.png"
+      },
+      "createDate": "2026-04-30 19:01:40",
+      "checkinDate": "2026-04-01 00:00:00",
+      "content": "It’s nice to stay at place as a solo traveler",
+      "language": "en",
+      "source": 1,
+      "travelType": 50,
+      "travelTypeText": "Solo traveler",
+      "rating": 7.5,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 7.5,
+       "ratingLocation": 10,
+       "ratingFacility": 6,
+       "ratingService": 6,
+       "ratingRoom": 8,
+       "commentLevel": ""
+      },
+      "recommend": true,
+      "imageList": [],
+      "imageCuttingsList": [],
+      "videoList": [],
+      "feedbackList": [],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Comfort Bed in Dormitory (Male Only)",
+      "roomID": 517418420,
+      "isTripComment": true,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "English",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 1881953445,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Guest User",
+       "avatarUrl": "/27c1412000na9jj3x7258.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/27c1412000na9jj3x7258_C_130_130_Q70.jpg",
+       "regionName": "China",
+       "regionCode": "CN",
+       "commentCount": 76,
+       "grade": {
+        "grade": 3,
+        "title": "Review Expert",
+        "desc": "Users with 30 reviews or more"
+       },
+       "trace": "You've left your footprints in 61 citi(es) and reviewed 57 hotel(s)",
+       "usefulCount": 1,
+       "pictureCount": 8,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "10",
+        "curLevelName": "黄金贵宾",
+        "rewardList": [
+         {
+          "rewardID": "1",
+          "categoryName": "免费早餐",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_breakfast.png"
+         },
+         {
+          "rewardID": "2",
+          "categoryName": "免费取消",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_cancel.png"
+         },
+         {
+          "rewardID": "3",
+          "categoryName": "延迟退房",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_delay.png"
+         },
+         {
+          "rewardID": "4",
+          "categoryName": "房型升级",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_update.png"
+         }
+        ],
+        "discount": 0.9,
+        "levelType": "CTRIP"
+       },
+       "nickNameType": 3,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#948DFF",
+       "avatorLetter": "G"
+      },
+      "createDate": "2026-03-20 17:23:53",
+      "checkinDate": "2026-03-01 00:00:00",
+      "content": "離上海火車站很近，有電梯上樓，房間寬敞，有洗澡間和廁所，有密碼鎖。\n注意高德地圖默認魔都青年旅舍是在鎮坪路地鐵站，要從攜程複製地址搜尋高德地圖",
+      "language": "zh",
+      "source": 1,
+      "translatedContent": "It's very close to Shanghai Railway Station, with an elevator. The rooms are spacious, with a shower and toilet, and a combination lock.\n\nNote: Gaode Maps defaults to placing the hostel at Zhenping Road subway station. You need to copy the address from Ctrip and search for it on Gaode Maps.",
+      "translatedLanguage": "en",
+      "translatedSource": "G",
+      "translatedSourceText": "Translation provided by Google",
+      "travelType": 50,
+      "travelTypeText": "Solo traveler",
+      "rating": 10,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 10,
+       "ratingLocation": 10,
+       "ratingFacility": 10,
+       "ratingService": 10,
+       "ratingRoom": 10,
+       "commentLevel": "Outstanding"
+      },
+      "recommend": true,
+      "imageList": [],
+      "imageCuttingsList": [],
+      "videoList": [],
+      "feedbackList": [],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Comfort Bed in Dormitory (Male Only)",
+      "roomID": 517418420,
+      "feedbackSecurityKey": "ZbqVJL32gktP43pB6qvLquOGO5i44MErkFKVfRUEYxsHR6WKZjgqKg==_review_1881953445",
+      "commendableRewardList": [],
+      "isTripComment": false,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "ctrip",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 1832645283,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Diqiuzuihouyigeren",
+       "avatarUrl": "/27c0712000na9ji5b4486.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/27c0712000na9ji5b4486_C_130_130_Q70.jpg",
+       "regionName": "China",
+       "regionCode": "CN",
+       "commentCount": 8,
+       "grade": {
+        "grade": 2,
+        "title": "Review Specialist",
+        "desc": "Users with 5–29 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 8 citi(es) and reviewed 6 hotel(s)",
+       "usefulCount": 1,
+       "pictureCount": 0,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "10",
+        "curLevelName": "黄金贵宾",
+        "rewardList": [
+         {
+          "rewardID": "1",
+          "categoryName": "免费早餐",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_breakfast.png"
+         },
+         {
+          "rewardID": "2",
+          "categoryName": "免费取消",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_cancel.png"
+         },
+         {
+          "rewardID": "3",
+          "categoryName": "延迟退房",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_delay.png"
+         },
+         {
+          "rewardID": "4",
+          "categoryName": "房型升级",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_update.png"
+         }
+        ],
+        "discount": 0.9,
+        "levelType": "CTRIP"
+       },
+       "nickNameType": 1,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#6D4DF8",
+       "avatorLetter": "D"
+      },
+      "createDate": "2026-02-01 17:27:00",
+      "checkinDate": "2026-01-01 00:00:00",
+      "content": "非常差，第一次遇到這樣的，公共床位，誰都可以睡，亂睡，關鍵是你訂好了的床晚上過去晚了居然被別人睡了，你還找不到人，老闆也不在，睡的地方都沒了。床上都是煙尼古丁味道，估計從來不洗。建議大家慎重考慮這個地方，不信的可以去看看就知道了。",
+      "language": "zh",
+      "source": 1,
+      "translatedContent": "Extremely bad. This is the first time I've encountered anything like this. It's a public dormitory; anyone can sleep there, anywhere is fine. The worst part is that if you book a bed and go late, someone else has already taken it, and you can't find them. The owner isn't there either, and you have nowhere to sleep. The bed smells of cigarette smoke and nicotine; it's probably never washed. I strongly suggest you think carefully before buying this place. If you don't believe me, go and see for yourself.",
+      "translatedLanguage": "en",
+      "translatedSource": "G",
+      "translatedSourceText": "Translation provided by Google",
+      "travelType": 0,
+      "travelTypeText": "Other",
+      "rating": 2.5,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 2.5,
+       "ratingLocation": 2,
+       "ratingFacility": 2,
+       "ratingService": 4,
+       "ratingRoom": 2,
+       "commentLevel": ""
+      },
+      "recommend": false,
+      "imageList": [],
+      "imageCuttingsList": [],
+      "videoList": [],
+      "feedbackList": [],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Comfort Bed in Dormitory (Male Only)",
+      "roomID": 517418420,
+      "feedbackSecurityKey": "sD9973mWon4IGmF5PFzYYgON4WZfpT2aVYKGauIskAIHR6WKZjgqKg==_review_1832645283",
+      "commendableRewardList": [],
+      "isTripComment": false,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "ctrip",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 1864385469,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Anonymous User",
+       "avatarUrl": "/0AS27120009wz6aovB7AA.png",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+       "regionName": "China",
+       "regionCode": "CN",
+       "commentCount": 1,
+       "grade": {
+        "grade": 1,
+        "title": "Rising review star",
+        "desc": "Users with 1–4 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 8 citi(es) and reviewed 1 hotel(s)",
+       "usefulCount": 0,
+       "pictureCount": 0,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": true,
+       "levelInfo": {
+        "curLevelCode": "5",
+        "curLevelName": "白银贵宾",
+        "rewardList": [
+         {
+          "rewardID": "2",
+          "categoryName": "免费取消",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_cancel.png"
+         },
+         {
+          "rewardID": "3",
+          "categoryName": "延迟退房",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_delay.png"
+         }
+        ],
+        "discount": 0.95,
+        "levelType": "CTRIP"
+       },
+       "nickNameType": 2,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#2346FF",
+       "avatorLetter": "A"
+      },
+      "createDate": "2026-03-03 13:09:46",
+      "checkinDate": "2026-01-01 00:00:00",
+      "content": "設施：一般\n衞生：一般\n環境：一般\n服務：有待提高",
+      "language": "zh",
+      "source": 1,
+      "translatedContent": "Facilities: Average\nHygiene: Average\nEnvironment: Average\nService: Needs improvement",
+      "translatedLanguage": "en",
+      "translatedSource": "G",
+      "translatedSourceText": "Translation provided by Google",
+      "travelType": 50,
+      "travelTypeText": "Solo traveler",
+      "rating": 3.2,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 3.2,
+       "ratingLocation": 2,
+       "ratingFacility": 4,
+       "ratingService": 4,
+       "ratingRoom": 3,
+       "commentLevel": ""
+      },
+      "recommend": false,
+      "imageList": [],
+      "imageCuttingsList": [],
+      "videoList": [],
+      "feedbackList": [],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Comfort Bed in Dormitory (Male Only)",
+      "roomID": 517418420,
+      "feedbackSecurityKey": "leqHTopLG9N3L72sNjx4sU52W+0QSr03LTIegbU+3yEHR6WKZjgqKg==_review_1864385469",
+      "commendableRewardList": [],
+      "isTripComment": false,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "ctrip",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 1796370043,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Guest User",
+       "avatarUrl": "/1me6v224x97kujn3vF156.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/1me6v224x97kujn3vF156_C_130_130_Q70.jpg",
+       "regionName": "China",
+       "regionCode": "CN",
+       "commentCount": 5,
+       "grade": {
+        "grade": 2,
+        "title": "Review Specialist",
+        "desc": "Users with 5–29 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 5 citi(es) and reviewed 5 hotel(s)",
+       "usefulCount": 0,
+       "pictureCount": 9,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "5",
+        "curLevelName": "白银贵宾",
+        "rewardList": [
+         {
+          "rewardID": "2",
+          "categoryName": "免费取消",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_cancel.png"
+         },
+         {
+          "rewardID": "3",
+          "categoryName": "延迟退房",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_delay.png"
+         }
+        ],
+        "discount": 0.95,
+        "levelType": "CTRIP"
+       },
+       "nickNameType": 3,
+       "isDefaultAvatar": false
+      },
+      "createDate": "2025-12-28 23:58:02",
+      "checkinDate": "2025-12-01 00:00:00",
+      "content": "房間有點舊，很多設施都有問題，比如廁所門鎖不上。衞生狀況也不太好。房東規定禁止吸煙，但很多室友還是在床上抽煙，然後直接把煙頭扔在地上，看起來很臟",
+      "language": "zh",
+      "source": 1,
+      "translatedContent": "The room was a bit old, and many facilities were faulty, such as the toilet door not locking properly. The cleanliness was also poor. The landlord prohibited smoking, but many roommates still smoked in bed and then threw their cigarette butts on the floor, making it look very dirty.",
+      "translatedLanguage": "en",
+      "translatedSource": "G",
+      "translatedSourceText": "Translation provided by Google",
+      "travelType": 50,
+      "travelTypeText": "Solo traveler",
+      "rating": 6.5,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 6.5,
+       "ratingLocation": 6,
+       "ratingFacility": 6,
+       "ratingService": 10,
+       "ratingRoom": 4,
+       "commentLevel": ""
+      },
+      "recommend": true,
+      "imageList": [],
+      "imageCuttingsList": [],
+      "videoList": [],
+      "feedbackList": [],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Comfort Bed in Dormitory (Male Only)",
+      "roomID": 517418420,
+      "feedbackSecurityKey": "JRPxSFNJAn6WBbK/D43a1CKLvi6ESI0RhgLnqZsDNwoHR6WKZjgqKg==_review_1796370043",
+      "commendableRewardList": [],
+      "isTripComment": false,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "ctrip",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 1783667031,
+      "userInfo": {
+       "userId": "",
+       "nickName": "YujiY",
+       "avatarUrl": "/1h63d12000u6hfg1z70B0.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/1h63d12000u6hfg1z70B0_C_130_130_Q70.jpg",
+       "regionName": "",
+       "regionCode": "",
+       "commentCount": 113,
+       "grade": {
+        "grade": 3,
+        "title": "Review Expert",
+        "desc": "Users with 30 reviews or more"
+       },
+       "trace": "You've left your footprints in 2 citi(es) and reviewed 10 hotel(s)",
+       "usefulCount": 1,
+       "pictureCount": 327,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "20",
+        "curLevelName": "铂金贵宾",
+        "rewardList": [
+         {
+          "rewardID": "1",
+          "categoryName": "免费早餐",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_breakfast.png"
+         },
+         {
+          "rewardID": "2",
+          "categoryName": "免费取消",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_cancel.png"
+         },
+         {
+          "rewardID": "3",
+          "categoryName": "延迟退房",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_delay.png"
+         },
+         {
+          "rewardID": "4",
+          "categoryName": "房型升级",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_update.png"
+         }
+        ],
+        "discount": 0.9,
+        "levelType": "CTRIP"
+       },
+       "nickNameType": 1,
+       "isDefaultAvatar": false
+      },
+      "createDate": "2025-12-16 11:53:53",
+      "checkinDate": "2025-12-01 00:00:00",
+      "content": "二刷上海我最愛的青旅🥰55塊！值哭了😭\n魔都上海消費高得出名，很多想來玩的學生黨都會為住宿費用發愁😭\n趕快來給大家分享這家性價比超高的青旅，乾淨整潔又方便🏨\n💸價格實惠，衹要55元，完全不擔心預算問題！😊",
+      "language": "zh",
+      "source": 1,
+      "translatedContent": "Second time visiting my favorite hostel in Shanghai 🥰 55 RMB! So worth it! 😭 Shanghai is notoriously expensive, and many students planning a trip worry about accommodation costs 😭 Let me share this incredibly cost-effective hostel with you all – clean, tidy, and convenient 🏨\n\n💸 Affordable price, only 55 RMB, no budget worries at all! 😊",
+      "translatedLanguage": "en",
+      "translatedSource": "G",
+      "translatedSourceText": "Translation provided by Google",
+      "travelType": 10,
+      "travelTypeText": "Business traveler",
+      "rating": 10,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 10,
+       "ratingLocation": 10,
+       "ratingFacility": 10,
+       "ratingService": 10,
+       "ratingRoom": 10,
+       "commentLevel": "Outstanding"
+      },
+      "recommend": true,
+      "imageList": [
+       "/0235n12000qjr0uzx8544.webp",
+       "/0233s12000qjqz46k535A.webp"
+      ],
+      "imageCuttingsList": [
+       {
+        "imageID": 584744363,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0235n12000qjr0uzx8544_W_350_350_R5_Q70.webp?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0235n12000qjr0uzx8544_C_600_600_R5_Q70.webp?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0235n12000qjr0uzx8544_W_1280_853_R5_Q70.webp?proc=autoorient",
+        "picTypeId": 9,
+        "picTypeName": "房间",
+        "qualityScore": 4.1174
+       },
+       {
+        "imageID": 584744365,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0233s12000qjqz46k535A_W_350_350_R5_Q70.webp?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0233s12000qjqz46k535A_C_600_600_R5_Q70.webp?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0233s12000qjqz46k535A_W_1280_853_R5_Q70.webp?proc=autoorient",
+        "picTypeId": 9,
+        "picTypeName": "房间",
+        "qualityScore": 4.2154
+       }
+      ],
+      "videoList": [],
+      "feedbackList": [],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Comfort Bed in Dormitory (Male Only)",
+      "roomID": 517418420,
+      "feedbackSecurityKey": "bBp5IpaQfC3Uh6Pcu5GfXL92Ofdg/nxYT2dV+Zi0xm0HR6WKZjgqKg==_review_1783667031",
+      "commendableRewardList": [],
+      "isTripComment": false,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "ctrip",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     }
+    ]
+   }
+  ],
+  "repeatCommentCount": 17,
+  "tripRating": "T",
+  "tagType": "DEFAULT",
+  "ratingLevelRules": [
+   {
+    "ratingStart": 7.6,
+    "ratingEnd": 8,
+    "content": "Good"
+   },
+   {
+    "ratingStart": 8,
+    "ratingEnd": 9,
+    "content": "Very good"
+   },
+   {
+    "ratingStart": 9,
+    "ratingEnd": 9.2,
+    "content": "Great"
+   },
+   {
+    "ratingStart": 9.2,
+    "ratingEnd": 9.4,
+    "content": "Great"
+   },
+   {
+    "ratingStart": 9.4,
+    "ratingEnd": 9.6,
+    "content": "Amazing"
+   },
+   {
+    "ratingStart": 9.6,
+    "ratingEnd": 9.8,
+    "content": "Amazing"
+   },
+   {
+    "ratingStart": 9.8,
+    "ratingEnd": 99,
+    "content": "Outstanding"
+   }
+  ],
+  "bannerInfoList": [],
+  "ratingFloatingLayerInfo": {
+   "legendInfoItem": {
+    "sameTypeAvgLegendInfo": [
+     {
+      "type": 1,
+      "description": ""
+     },
+     {
+      "type": 2,
+      "description": ""
+     }
+    ],
+    "sameTypeLevelLegendInfo": [
+     {
+      "type": 1,
+      "description": ""
+     }
+    ]
+   },
+   "recommendTagList": [],
+   "negativeTagList": []
+  },
+  "aiSummaryEntities": {
+   "summaryTitleIcon": "https://dimg04.c-ctrip.com/images/0230b12000pvlbn7s1D03.png",
+   "summaryTitleText": "Review summary",
+   "summaryLabelText": "Powered by AI",
+   "summaryIcon": "https://dimg04.tripcdn.com/images/0236612000lorsved78CD.png",
+   "excitationText": "",
+   "summaryItemList": [
+    {
+     "title": "Hygiene and Cleaning",
+     "excitationText": "",
+     "conclusion": "Some rooms are clean, with daily cleaning by aunties. Beds and quilts are described as clean in some cases.(based on 7 reviews)",
+     "tagIdList": [
+      14,
+      15,
+      20
+     ],
+     "positive": true,
+     "commentNum": 7,
+     "itemId": "126577790_en_xx_e893de55-a95a-4f9a-927e-8b74b27f988a"
+    },
+    {
+     "title": "Guest Suggestion",
+     "conclusion": "Some customers suggest problems about poor room hygiene like dirty rooms and unwashed bedspreads, also difficulties in checking in and being asked to leave after one night are mentioned(based on 18 reviews)",
+     "tagIdList": [
+      5008,
+      5014,
+      5015,
+      5016,
+      5020,
+      5081
+     ],
+     "positive": false,
+     "commentNum": 18,
+     "itemId": "126577790_en_xx_5b4580bd-1aa3-4c6f-ad4e-79009c221be8"
+    }
+   ],
+   "highlightText": [
+    ""
+   ],
+   "sceneSummaryItemList": [
+    {
+     "conclusion": "Located near metro and restaurants, facilities are complete, and hygiene needs to be enhanced",
+     "tagIdList": [
+      53
+     ],
+     "positive": false,
+     "commentNum": 1,
+     "sceneId": -1
+    }
+   ],
+   "sourceTypeText": "We used AI to generate this summary based on real Trip.com reviews. AI summaries can take time to update, so the latest reviews may not be included."
+  },
+  "filteredOutCommentInfo": {
+   "collapsedCommentCount": 17,
+   "commentsBeforeDecorationCount": 0,
+   "commentsDuringTrialOperationCount": 0
+  },
+  "aiSummaryFilterListInfo": [
+   {
+    "id": "6",
+    "name": "Reviews with photos/video",
+    "commentCount": 15,
+    "type": 1
+   },
+   {
+    "id": "126577790_en_xx_e893de55-a95a-4f9a-927e-8b74b27f988a",
+    "name": "Hygiene and Cleaning",
+    "commentCount": 7,
+    "type": 2
+   },
+   {
+    "id": "3",
+    "name": "Negative reviews",
+    "commentCount": 18,
+    "type": 1
+   }
+  ],
+  "filterSequenceConfigs": [
+   "sort",
+   "imgVideo",
+   "room",
+   "travel",
+   "language",
+   "tags"
+  ],
+  "commentRating": {
+   "fullRating": 10,
+   "ratingAll": 6,
+   "ratingLocation": 5.9,
+   "ratingLocationShowItem": "Location",
+   "ratingFacility": 6,
+   "ratingFacilityShowItem": "Amenities",
+   "ratingService": 6.4,
+   "ratingServiceShowItem": "Service",
+   "ratingRoom": 5.7,
+   "ratingRoomShowItem": "Cleanliness",
+   "showCommentNum": 51,
+   "showPackageCommentNum": 0,
+   "commentLevel": "",
+   "ratingLocationExt": {
+    "sameTypeLevel": 1,
+    "sameTypeAvg": 8.4
+   },
+   "ratingFacilityExt": {
+    "sameTypeLevel": 1,
+    "sameTypeAvg": 8.4
+   },
+   "ratingServiceExt": {
+    "sameTypeLevel": 1,
+    "sameTypeAvg": 8.6
+   },
+   "ratingRoomExt": {
+    "sameTypeLevel": 1,
+    "sameTypeAvg": 8.6
+   },
+   "ratingType": 1,
+   "ratingExcitationIcon": {}
+  },
+  "similarCommentRating": {},
+  "commonStatisticList": [
+   {
+    "id": 1,
+    "name": "All reviews",
+    "commentCount": 51
+   },
+   {
+    "id": 2,
+    "name": "Positive reviews",
+    "commentCount": 33
+   },
+   {
+    "id": 3,
+    "name": "Negative reviews",
+    "commentCount": 18
+   },
+   {
+    "id": 6,
+    "name": "Reviews with photos/video",
+    "commentCount": 15
+   }
+  ],
+  "totalCount": 51,
+  "commentRatingType": "UNKNOW",
+  "staticInfo": {
+   "ratingCalculationInfo": {
+    "entranceText": "How ratings are calculated",
+    "title": "How ratings are calculated",
+    "content": "To ensure the authenticity of the ratings that are displayed, we don't simply calculate an average. Instead, we make scientific calculations based on the review credibility and the freshness of the guest's experience to get the final rating."
+   },
+   "sortItemList": [
+    {
+     "orderby": 0,
+     "name": "Most relevant"
+    },
+    {
+     "orderby": 1,
+     "name": "Most Recent"
+    },
+    {
+     "orderby": 2,
+     "name": "Rating (high to low)"
+    },
+    {
+     "orderby": 3,
+     "name": "Rating (low to high)"
+    }
+   ],
+   "commentExplainText": "Verified Reviews"
+  },
+  "abtResults": [],
+  "excitationInfoList": [],
+  "selectedCommentPhotosEntities": {}
+ },
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794045638274+800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Build": "",
+  "Version": "1.0.0",
+  "Extension": [
+   {
+    "Id": "XCtxGwTraceId",
+    "Value": "100025527-0a8f6250-498346-80381"
+   },
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Value": ""
+   },
+   {
+    "Id": "TraceLogId",
+    "Value": "100025527-0a8f6250-498346-80381"
+   },
+   {
+    "Id": "XRequestId",
+    "Value": "fdf92be6-021c-9db5-8317-2f0170d13d73"
+   },
+   {
+    "Id": "RootMessageId",
+    "Value": "100025527-0a8f6250-498346-80385"
+   }
+  ]
+ }
+}

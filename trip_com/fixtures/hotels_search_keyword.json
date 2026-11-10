@@ -1,0 +1,1018 @@
+{
+ "data": {
+  "hotelList": [
+   {
+    "hotelInfo": {
+     "summary": {
+      "hotelId": "346403",
+      "masterHotelId": "346403",
+      "hotelType": "NORMAL",
+      "isUseHomestayDetailPage": false
+     },
+     "statusInfo": {
+      "status": 1,
+      "buttonContent": "Check Availability",
+      "isCanFold": false,
+      "isCollected": false
+     },
+     "nameInfo": {
+      "name": "Grand Hyatt Shanghai",
+      "enName": "Grand Hyatt Shanghai",
+      "names": [
+       "Grand Hyatt Shanghai"
+      ]
+     },
+     "hotelCategory": {
+      "categoryName": "Hotel",
+      "categoryId": 495,
+      "isDisplay": false,
+      "isWowHotel": false,
+      "isAA": false
+     },
+     "decorator": {
+      "isHotelCardHighlight": false
+     },
+     "hotelImages": {
+      "type": 2,
+      "url": "https://ak-d.tripcdn.com/images/1mc3112000q5k2zloAA6D_R_600_600_R5_D.jpg",
+      "ubts": {
+       "pictureId": "1717686493"
+      },
+      "multiImgs": [
+       {
+        "id": 1717686493,
+        "pictureId": "1717686493",
+        "position": 28,
+        "group": 1,
+        "url": "https://ak-d.tripcdn.com/images/1mc3112000q5k2zloAA6D_R_600_600_R5_D.jpg_.webp"
+       },
+       {
+        "id": 262982664,
+        "pictureId": "262982664",
+        "position": 28,
+        "group": 1,
+        "url": "https://ak-d.tripcdn.com/images/200w0n000000e7n3c9D4A_R_600_600_R5_D.jpg_.webp"
+       },
+       {
+        "id": 262982661,
+        "pictureId": "262982661",
+        "position": 28,
+        "group": 1,
+        "url": "https://ak-d.tripcdn.com/images/200p0n000000e0hnn5D92_R_600_600_R5_D.jpg_.webp"
+       },
+       {
+        "id": 124219313,
+        "pictureId": "124219313",
+        "position": 28,
+        "group": 1,
+        "url": "https://ak-d.tripcdn.com/images/fd/hotel/g5/M08/B2/7D/CggYsVcQtpGAapJDABvOJUVp0RI198_R_600_600_R5_D.jpg_.webp"
+       },
+       {
+        "id": 124219183,
+        "pictureId": "124219183",
+        "position": 28,
+        "group": 1,
+        "url": "https://ak-d.tripcdn.com/images/fd/hotel/g5/M09/AE/15/CggYr1cQtk6AFsUzABYmpiehVUI549_R_600_600_R5_D.jpg_.webp"
+       }
+      ],
+      "hasExpLogo": "F"
+     },
+     "hotelStar": {
+      "star": 5,
+      "starType": 1
+     },
+     "advertiseInfo": {
+      "isAdHotel": false,
+      "isAdSolt": false
+     },
+     "hotelTags": {
+      "inboundTags": [
+       {
+        "tagTitle": "Hi China!",
+        "tagId": 12234,
+        "tagTemplateId": 90001,
+        "tagPosition": 202
+       }
+      ],
+      "shaPlusTags": []
+     },
+     "commentInfo": {
+      "commentScore": "9.4",
+      "commentDescription": "Outstanding",
+      "commenterNumber": "18,929 reviews",
+      "subScore": [
+       {
+        "number": "9.5",
+        "content": "Cleanliness",
+        "scoreAvg": "9.4",
+        "scoreType": 3
+       },
+       {
+        "number": "9.2",
+        "content": "Amenities",
+        "scoreAvg": "9.2",
+        "scoreType": 5
+       },
+       {
+        "number": "9.5",
+        "content": "Location",
+        "scoreAvg": "9.4",
+        "scoreType": 2
+       },
+       {
+        "number": "9.3",
+        "content": "Service",
+        "scoreAvg": "9.4",
+        "scoreType": 4
+       }
+      ],
+      "taAlt": "",
+      "taUrl": "",
+      "ugcSentence": "The view of the Bund at night is absolutely stunning.",
+      "fullRating": "10",
+      "oneSentenceComment": [
+       {
+        "tagId": 0,
+        "tagTitle": "Delicious breakfast|Friendly front desk staff",
+        "tagPosition": 0,
+        "tagTemplateId": 0,
+        "tagIcon": "",
+        "name": "OneSentenceComment"
+       }
+      ]
+     },
+     "signInNote": {},
+     "extend": {
+      "hotelUniqueKey": "H4sIAAAAAAAA_-N6yczFJMEk9YiZY9aplhmsQowGBj-ELZ4FOc6aCQTBMx08q0XWuT9sX-sQwDODcfEk0RWMjBsZW18H7pC72OCwg5HpBGM30wKmRXcWqJxiYeVosJdgucTyiSm6Wik7tVLJykRHqSSzJCdVyUopzDFESUcpJbU4GcgBshJz80vzSoBsYyM9AzOgQElihWcKWEtyYk5yaU5iSWpIZQFQq5mOUmaxc0lRZkFQam5mSUkqUFVaYk5xKkg8KLUYKJMMFlTyAxpTBBXIzM-DaDdEEQtLzClNhbgAaKFbKtQOw1odTCcHpxaVZSanKiRnJBalp2J3vYmFnqkFwvXm1Ha9ATGuN66NfcTCFB37iYXhFwtDEytDFyvDJFZWjgU6Eky7WNkcnZyBoS-laGhgYGBkampkrmuQaJGaamSZpmtiaWFsYqprZmlpbmJooPHi-5bVs02MGDyYgtgczQ0dXV2jbLiYnf0iBRnA4IO9FHNosItid87z3ys3SjlogeQMYXKBMEYkTD6JNTVPNzQ444pYAWMXo6gAowdjBGMFYwMj4wtGxg-MjL8YGd1WMTJsYGTcwfgfBhhfMYIsAQDjSh4MnAIAAA",
+      "token": "eJxFyLEOwiAUBdB/uTMDvCINb3ZhsolxMg4NxZRYoKF0aIz/7mLiGc8bc2lhcRO400bLTqDFFLY2phWsequlPinbk5UCfg7+5TIYJMkoUhK/vOztvwSBKW7rMh5DjT6AyfQCfq81ZH+AcbueIVBLSS4/C/j++HwBa88now==",
+      "attachedFilters": [],
+      "extraInfos": {
+       "FullProcessProductId": "F"
+      }
+     },
+     "positionInfo": {
+      "cityId": 2,
+      "cityName": "Shanghai",
+      "cityNameEn": "Shanghai",
+      "positionDesc": "Near The Bund | Oriental Pearl Radio & Television Tower",
+      "positionDescs": [
+       "Near The Bund",
+       "Oriental Pearl Radio & Television Tower"
+      ],
+      "zoneNames": [
+       "Lujiazui Area"
+      ],
+      "mapCoordinate": [
+       {
+        "coordinateType": 3,
+        "latitude": "31.24081",
+        "longitude": "121.51269",
+        "accuracy": 0,
+        "gcoordType": "BD09"
+       },
+       {
+        "coordinateType": 2,
+        "latitude": "31.237171770467242",
+        "longitude": "121.50165622990117",
+        "accuracy": 0,
+        "gcoordType": "WGS84"
+       },
+       {
+        "coordinateType": 1,
+        "latitude": "31.235151",
+        "longitude": "121.506082",
+        "accuracy": 0,
+        "gcoordType": "GCJ02"
+       }
+      ],
+      "isOversea": false,
+      "provinceId": 2,
+      "countryId": 1,
+      "address": "Lujiazui Area",
+      "poiId": 2
+     },
+     "topAwardInfo": {
+      "rankId": "100200078436",
+      "labelId": "10001049",
+      "rankType": 2,
+      "hotelRank": 3,
+      "tagTitle": "No. 3 of Premium Hotels in Shanghai"
+     },
+     "hotelVideo": {
+      "videoUrl": "https://video.c-ctrip.com/videos/u00m1h000001hwdkl72C7.mp4",
+      "coverUrl": "https://dimg04.c-ctrip.com/images/200s1h000001hu7osE5BF.png",
+      "shortVideoUrl": ""
+     },
+     "videoInfo": {
+      "videoUrl": "https://video.c-ctrip.com/videos/u00m1h000001hwdkl72C7.mp4",
+      "coverUrl": "https://dimg04.c-ctrip.com/images/200s1h000001hu7osE5BF.png",
+      "shortVideoUrl": ""
+     },
+     "highlightsModule": {
+      "moduleTitle": "Highlights",
+      "moduleIconPic": "",
+      "moduleScene": 0,
+      "highlightsItemList": [
+       {
+        "title": "Picture-perfect",
+        "desc": "Capture iconic skyline views of Lujiazui's \"Three Towers\" from the lobby or corridor.",
+        "tagId": "619",
+        "treeNodeId": "8935",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/27.png"
+       },
+       {
+        "title": "Scenic restaurant",
+        "desc": "Enjoy panoramic 360° city views from the top-floor restaurant, perfect for breakfast or dining.",
+        "tagId": "1625",
+        "treeNodeId": "1625",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/28.png"
+       },
+       {
+        "title": "Ideal location",
+        "desc": "The hotel's prime location offers easy access to the metro, core business districts, and scenic views. 3,699 guests were happy with the property's location.",
+        "tagId": "1701",
+        "treeNodeId": "25919",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/25919.png"
+       },
+       {
+        "title": "Oriental Pearl night scenery",
+        "desc": "Enjoy a direct view of the Oriental Pearl Tower from your room, without leaving your room.",
+        "tagId": "2272",
+        "treeNodeId": "2272",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/tagNewIcon_131.png"
+       },
+       {
+        "title": "Views of the Bund",
+        "desc": "Enjoy panoramic views of the Huangpu River and Bund, including the Oriental Pearl Tower's lights.",
+        "tagId": "400",
+        "treeNodeId": "400",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/tagNewIcon_125.png"
+       },
+       {
+        "title": "Delicious breakfast",
+        "desc": "Explore a wide variety of flavors and satisfying options for a delightful breakfast. 82% of guests were especially impressed by the breakfast here.",
+        "tagId": "1745",
+        "treeNodeId": "4785",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/4785.png"
+       },
+       {
+        "title": "Sky bar",
+        "desc": "Enjoy dining and drinks at a rooftop bar on the upper floors with great city views.",
+        "tagId": "667",
+        "treeNodeId": "667",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/29.png"
+       },
+       {
+        "title": "Japanese food",
+        "desc": "",
+        "tagId": "90147051",
+        "treeNodeId": "45203",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/161.png"
+       },
+       {
+        "title": "Sunset",
+        "desc": "Witness the golden sunset over the Huangpu River from your room or the 87th-floor bar.",
+        "tagId": "1243",
+        "treeNodeId": "1243",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/tagNewIcon_49.png"
+       },
+       {
+        "title": "Afternoon tea",
+        "desc": "Experience refined afternoon tea at the 56th or 83rd floor with stunning views and delightful flavors.",
+        "tagId": "90147003",
+        "treeNodeId": "1136",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/tagNewIcon_8.png"
+       }
+      ]
+     }
+    },
+    "roomInfo": [
+     {
+      "summary": {
+       "type": "saleRoom",
+       "roomId": "1392583962",
+       "productCode": "",
+       "saleRoomName": "",
+       "physicsName": "Club Room King Bed",
+       "shadowId": "0",
+       "encryptedRoomId": "ABCVAT",
+       "roomQuantity": 1,
+       "isCombinedRoom": false,
+       "isRanOfHouse": false,
+       "isHourRoom": false,
+       "isCaliforniaRoom": true
+      },
+      "guestInfo": {
+       "childCount": 0,
+       "adultCount": 2
+      },
+      "payInfo": {
+       "payType": 1,
+       "subPayType": 0
+      },
+      "statusInfo": {
+       "checkIn": "20261210",
+       "checkOut": "20261212"
+      },
+      "priceInfo": {
+       "priceType": 0,
+       "price": 267,
+       "currency": "USD",
+       "displayPrice": "$267",
+       "displayPriceDetail": {
+        "price": "267",
+        "unit": "$",
+        "isSpaceToConnect": false,
+        "type": 1
+       },
+       "priceExplanation": "Total price: $566\n1 room × 2 nights incl. taxes & fees",
+       "priceExplanationHighlight": "Total price: {0}$566{/0}\n1 room × 2 nights incl. taxes & fees",
+       "priceExplanationExtend": {
+        "highlight": [
+         "$566"
+        ]
+       },
+       "deletePrice": 0,
+       "isHiddenPrice": false
+      },
+      "priceInfoLayer": {
+       "titleInfo": {
+        "title": "Price Details"
+       },
+       "payInfo": {
+        "roomQuantityDays": {
+         "title": "1 room x 2 nights",
+         "content": "$485.76"
+        },
+        "payTax": {
+         "title": "Taxes & fees",
+         "content": "$80.64"
+        },
+        "total": {
+         "title": "Prepay Online",
+         "content": "$566.40"
+        }
+       },
+       "tripCoins": {
+        "title": "Receive after stay",
+        "content": "Earn 284 Trip Coins (≈$2.84)"
+       }
+      },
+      "bedInfo": {
+       "list": [
+        "ic_new_double_bed"
+       ],
+       "contentList": [
+        "1 queen bed"
+       ],
+       "cpxBedInfo": {
+        "title": "",
+        "bedDetail": [
+         {
+          "roomName": "Bedroom 1",
+          "detail": [
+           "1 queen bed (5.9 ft wide)"
+          ]
+         }
+        ]
+       }
+      },
+      "roomTags": {
+       "advantageTags": [
+        {
+         "tagTitle": "30-minute Cancellation Window",
+         "tagId": 10580,
+         "tagTemplateId": 10001,
+         "tagPosition": 2
+        }
+       ],
+       "highlightTags": [],
+       "promotionTags": [],
+       "discountTags": [],
+       "encourageTags": [
+        {
+         "tagTitle": "Last booked 15 mins ago",
+         "tagId": 20013,
+         "tagTemplateId": 10011,
+         "tagPosition": 288
+        }
+       ],
+       "noStandardTags": [],
+       "combineTags": []
+      },
+      "hourRoomInfo": {
+       "checkInTime": 0,
+       "checkOutTime": 0,
+       "duringTime": 0,
+       "isFullDay": false
+      }
+     }
+    ],
+    "slots": []
+   },
+   {
+    "hotelInfo": {
+     "summary": {
+      "hotelId": "425378",
+      "masterHotelId": "425378",
+      "hotelType": "NORMAL",
+      "isUseHomestayDetailPage": false
+     },
+     "statusInfo": {
+      "status": 1,
+      "buttonContent": "Check Availability",
+      "isCanFold": false,
+      "isCollected": false
+     },
+     "nameInfo": {
+      "name": "Hyatt On The Bund Shanghai",
+      "enName": "Hyatt On The Bund Shanghai",
+      "names": [
+       "Hyatt On The Bund Shanghai"
+      ]
+     },
+     "hotelCategory": {
+      "categoryName": "Hotel",
+      "categoryId": 495,
+      "isDisplay": false,
+      "isWowHotel": false,
+      "isAA": false
+     },
+     "decorator": {
+      "isHotelCardHighlight": false
+     },
+     "hotelImages": {
+      "type": 2,
+      "url": "https://ak-d.tripcdn.com/images/1mc4d12000g2df3oz5CD2_R_600_600_R5_D.jpg",
+      "ubts": {
+       "pictureId": "1150558259"
+      },
+      "multiImgs": [
+       {
+        "id": 1150558259,
+        "pictureId": "1150558259",
+        "position": 28,
+        "group": 1,
+        "url": "https://ak-d.tripcdn.com/images/1mc4d12000g2df3oz5CD2_R_600_600_R5_D.jpg_.webp"
+       },
+       {
+        "id": 1147527325,
+        "pictureId": "1147527325",
+        "position": 28,
+        "group": 1,
+        "url": "https://ak-d.tripcdn.com/images/0586e12000ssx2ilh87D3_R_600_600_R5_D.jpg_.webp"
+       },
+       {
+        "id": 1150558603,
+        "pictureId": "1150558603",
+        "position": 28,
+        "group": 1,
+        "url": "https://ak-d.tripcdn.com/images/1mc1112000g2dge4cF347_R_600_600_R5_D.jpg_.webp"
+       },
+       {
+        "id": 1164714069,
+        "pictureId": "1164714069",
+        "position": 28,
+        "group": 1,
+        "url": "https://ak-d.tripcdn.com/images/1mc4g12000gkdsosiCE18_R_600_600_R5_D.jpg_.webp"
+       },
+       {
+        "id": 1235501833,
+        "pictureId": "1235501833",
+        "position": 28,
+        "group": 1,
+        "url": "https://ak-d.tripcdn.com/images/1mc3r12000hfsvf0m7D7F_R_600_600_R5_D.jpg_.webp"
+       }
+      ],
+      "hasExpLogo": "F"
+     },
+     "hotelStar": {
+      "star": 5,
+      "starType": 0
+     },
+     "advertiseInfo": {
+      "isAdHotel": false,
+      "isAdSolt": false
+     },
+     "hotelTags": {
+      "inboundTags": [
+       {
+        "tagTitle": "Hi China!",
+        "tagId": 12234,
+        "tagTemplateId": 90001,
+        "tagPosition": 202
+       }
+      ],
+      "shaPlusTags": []
+     },
+     "commentInfo": {
+      "commentScore": "9.3",
+      "commentDescription": "Very Good",
+      "commenterNumber": "5,648 reviews",
+      "subScore": [
+       {
+        "number": "9.5",
+        "content": "Cleanliness",
+        "scoreAvg": "9.4",
+        "scoreType": 3
+       },
+       {
+        "number": "9.2",
+        "content": "Amenities",
+        "scoreAvg": "9.2",
+        "scoreType": 5
+       },
+       {
+        "number": "9.5",
+        "content": "Location",
+        "scoreAvg": "9.4",
+        "scoreType": 2
+       },
+       {
+        "number": "9.2",
+        "content": "Service",
+        "scoreAvg": "9.4",
+        "scoreType": 4
+       }
+      ],
+      "taAlt": "",
+      "taUrl": "",
+      "ugcSentence": "Eagerly awaited the night view of the Oriental Pearl Tower from our room.",
+      "fullRating": "10",
+      "oneSentenceComment": [
+       {
+        "tagId": 0,
+        "tagTitle": "Delicious breakfast|Fantastic river view",
+        "tagPosition": 0,
+        "tagTemplateId": 0,
+        "tagIcon": "",
+        "name": "OneSentenceComment"
+       }
+      ]
+     },
+     "signInNote": {},
+     "extend": {
+      "hotelUniqueKey": "H4sIAAAAAAAA_-N6yczFJMEk9YiZ49XVV_9YhRgNDNq5LBrDHIN2yLVmm65w8PR4WCWiZ7XHIYBnBuOi35IrGBk3Ml5fXGDLJTzBYQcj0wnG_8wLmC5PuCpzioWVY0eFBMsllk9M0dVK2amVSlYmOkolmSU5qUpWSmGOIUo6SimpxclADpCVmJtfmlcCZJsZ6hkbAAVKEis8U8BakhNzkktzEktSQyoLgFrNdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7IYpYWGJOaSrEBUAL3VKhdhjW6mA6OTi1qCwzOVUhOSOxKD0Vu-stjfQszBCuN6e26w2Icb1xbewjFqbo2E8sDL9YGJpYGbpYGSaxsnKcCZFg2sXKFhhl7hXuKqVoaGBgYGRqamSua5BokZpqZJmma2JpYWxiqmtmaWluYmig8eL7ltWzTYwYPJiC2JzcjF0c3aJsuJid_SIFGcDgg70Uc2iwi2J3zvPfKzdKOWiB5AxhcoEwRiRMPok1NU83NDjjilgBYxejqACjB2MEYwVjAyPjC0bGD4yMvxgZ3VYxMmxgZNzB-B8GGF8xgiwBAIVsaYecAgAA",
+      "token": "eJxFyLEOwiAUBdB/uTMDD0HkzS5MNTFOxqGhmDYWaCgdGuO/u5h4xvPGWFqc/QDWyhzsSaBNKa6tTwuYrNNSG3JWOSkQxhhePoOhpDqSIolfdlv7r4LAMK3L3O+XOoUINkQCYas15rCDcbueIVBLST4/C/j++HwBbwgnpA==",
+      "attachedFilters": [],
+      "extraInfos": {
+       "FullProcessProductId": "F"
+      }
+     },
+     "positionInfo": {
+      "cityId": 2,
+      "cityName": "Shanghai",
+      "cityNameEn": "Shanghai",
+      "positionDesc": "Near Nanjing Road Pedestrian Street | The Bund Area",
+      "positionDescs": [
+       "Near Nanjing Road Pedestrian Street",
+       "The Bund Area"
+      ],
+      "zoneNames": [
+       "The Bund Area"
+      ],
+      "mapCoordinate": [
+       {
+        "coordinateType": 3,
+        "latitude": "31.251136",
+        "longitude": "121.499545",
+        "accuracy": 0,
+        "gcoordType": "BD09"
+       },
+       {
+        "coordinateType": 2,
+        "latitude": "31.247449689280096",
+        "longitude": "121.48846998848028",
+        "accuracy": 0,
+        "gcoordType": "WGS84"
+       },
+       {
+        "coordinateType": 1,
+        "latitude": "31.245473",
+        "longitude": "121.492944",
+        "accuracy": 0,
+        "gcoordType": "GCJ02"
+       }
+      ],
+      "isOversea": false,
+      "provinceId": 2,
+      "countryId": 1,
+      "address": "The Bund Area",
+      "poiId": 2
+     },
+     "topAwardInfo": {
+      "rankId": "100200129041",
+      "labelId": "10006093",
+      "rankType": 2,
+      "hotelRank": 14,
+      "tagTitle": "No. 14 of Scenic Hotels in Shanghai"
+     },
+     "hotelVideo": {
+      "videoUrl": "https://video.c-ctrip.com/videos/u002cn14x9845gm3z373E.mp4",
+      "coverUrl": "https://dimg04.c-ctrip.com/images/1mc4d12000g2df3oz5CD2.jpg",
+      "shortVideoUrl": "https://video-preview.ctrip.com/videos/u002cn14x9845gm3z373E.mp4"
+     },
+     "videoInfo": {
+      "videoUrl": "https://video.c-ctrip.com/videos/u002cn14x9845gm3z373E.mp4",
+      "coverUrl": "https://dimg04.c-ctrip.com/images/1mc4d12000g2df3oz5CD2.jpg",
+      "shortVideoUrl": "https://video-preview.ctrip.com/videos/u002cn14x9845gm3z373E.mp4"
+     },
+     "highlightsModule": {
+      "moduleTitle": "Highlights",
+      "moduleIconPic": "",
+      "moduleScene": 0,
+      "highlightsItemList": [
+       {
+        "title": "Views of the Bund",
+        "desc": "Enjoy panoramic views of the Huangpu River and Bund, including the Oriental Pearl Tower's lights.",
+        "tagId": "400",
+        "treeNodeId": "400",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/tagNewIcon_125.png"
+       },
+       {
+        "title": "Acclaimed dining options",
+        "desc": "",
+        "tagId": "612",
+        "treeNodeId": "1268",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/165.png"
+       },
+       {
+        "title": "Ideal location",
+        "desc": "The hotel's prime location offers easy access to the metro, core business districts, and scenic views. 1,202 guests were happy with the property's location.",
+        "tagId": "1701",
+        "treeNodeId": "25919",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/25919.png"
+       },
+       {
+        "title": "Scenic lounge",
+        "desc": "Located on the 86th floor, the Scenic lounge offers a view.",
+        "tagId": "12623",
+        "treeNodeId": "12623",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/29.png"
+       },
+       {
+        "title": "Sky bar",
+        "desc": "Enjoy dining and drinks at a rooftop bar on the upper floors with great city views.",
+        "tagId": "667",
+        "treeNodeId": "667",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/29.png"
+       },
+       {
+        "title": "Delicious breakfast",
+        "desc": "Explore a wide variety of flavors and satisfying options for a delightful breakfast. 91% of guests were especially impressed by the breakfast here.",
+        "tagId": "1745",
+        "treeNodeId": "4785",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/4785.png"
+       },
+       {
+        "title": "Afternoon tea",
+        "desc": "Experience refined afternoon tea at the 56th or 83rd floor with stunning views and delightful flavors.",
+        "tagId": "90147003",
+        "treeNodeId": "1136",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/tagNewIcon_8.png"
+       },
+       {
+        "title": "Sunset",
+        "desc": "Witness the golden sunset over the Huangpu River from your room or the 87th-floor bar.",
+        "tagId": "1243",
+        "treeNodeId": "1243",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/tagNewIcon_49.png"
+       },
+       {
+        "title": "Scenic nightscapes",
+        "desc": "Enjoy panoramic views of the Huangpu River and Shanghai skyline from your room.",
+        "tagId": "696",
+        "treeNodeId": "807",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/158.png"
+       },
+       {
+        "title": "Butler service",
+        "desc": "Attentive butlers are available, with some dedicated to meetings, right at the first-floor lobby.",
+        "tagId": "615",
+        "treeNodeId": "258",
+        "icon": "https://pages.c-ctrip.com/wireless-app/imgs/hotel_detail/new_short_icons/t_light/23.png"
+       }
+      ]
+     }
+    },
+    "roomInfo": [
+     {
+      "summary": {
+       "type": "saleRoom",
+       "roomId": "1608166122",
+       "productCode": "",
+       "saleRoomName": "",
+       "physicsName": "Club Deluxe River View Room（2 Beds）",
+       "shadowId": "0",
+       "encryptedRoomId": "QZ7JWE",
+       "roomQuantity": 1,
+       "isCombinedRoom": false,
+       "isRanOfHouse": false,
+       "isHourRoom": false,
+       "isCaliforniaRoom": true
+      },
+      "guestInfo": {
+       "childCount": 0,
+       "adultCount": 2
+      },
+      "payInfo": {
+       "payType": 1,
+       "subPayType": 0
+      },
+      "statusInfo": {
+       "checkIn": "20261210",
+       "checkOut": "20261212"
+      },
+      "priceInfo": {
+       "priceType": 0,
+       "price": 511,
+       "currency": "USD",
+       "displayPrice": "$511",
+       "displayPriceDetail": {
+        "price": "511",
+        "unit": "$",
+        "isSpaceToConnect": false,
+        "type": 1
+       },
+       "priceExplanation": "Total price: $1,083\n1 room × 2 nights incl. taxes & fees",
+       "priceExplanationHighlight": "Total price: {0}$1,083{/0}\n1 room × 2 nights incl. taxes & fees",
+       "priceExplanationExtend": {
+        "highlight": [
+         "$1,083"
+        ]
+       },
+       "deletePrice": 0,
+       "isHiddenPrice": false
+      },
+      "priceInfoLayer": {
+       "titleInfo": {
+        "title": "Price Details"
+       },
+       "payInfo": {
+        "roomQuantityDays": {
+         "title": "1 room x 2 nights",
+         "content": "$928.64"
+        },
+        "payTax": {
+         "title": "Taxes & fees",
+         "content": "$154.16"
+        },
+        "total": {
+         "title": "Prepay Online",
+         "content": "$1,082.80"
+        }
+       },
+       "tripCoins": {
+        "title": "Receive after stay",
+        "content": "Earn 542 Trip Coins (≈$5.42)"
+       }
+      },
+      "bedInfo": {
+       "list": [
+        "ic_new_twobeds"
+       ],
+       "contentList": [
+        "2 single beds"
+       ],
+       "cpxBedInfo": {
+        "title": "",
+        "bedDetail": [
+         {
+          "roomName": "Bedroom 1",
+          "detail": [
+           "2 single beds (3.93 ft wide)"
+          ]
+         }
+        ]
+       }
+      },
+      "roomTags": {
+       "advantageTags": [
+        {
+         "tagTitle": "Free Cancellation",
+         "tagId": 10580,
+         "tagTemplateId": 10001,
+         "tagPosition": 2
+        }
+       ],
+       "highlightTags": [],
+       "promotionTags": [],
+       "discountTags": [],
+       "encourageTags": [
+        {
+         "tagTitle": "Last booked 7 mins ago",
+         "tagId": 20013,
+         "tagTemplateId": 10011,
+         "tagPosition": 288
+        }
+       ],
+       "noStandardTags": [],
+       "combineTags": []
+      },
+      "hourRoomInfo": {
+       "checkInTime": 0,
+       "checkOutTime": 0,
+       "duringTime": 0,
+       "isFullDay": false
+      }
+     }
+    ],
+    "slots": []
+   }
+  ],
+  "hotelListAddtionInfo": {
+   "queryType": "List",
+   "combineFilters": [
+    {
+     "type": "80",
+     "value": "0",
+     "filterId": "80|0|1"
+    },
+    {
+     "filterId": "29|1",
+     "type": "29",
+     "value": "1|2"
+    },
+    {
+     "type": "30",
+     "title": "grand hyatt shanghai",
+     "value": "grand hyatt shanghai",
+     "filterId": "30|grand hyatt shanghai"
+    },
+    {
+     "filterId": "2|2|25",
+     "type": "2",
+     "value": "2|25",
+     "subType": "2",
+     "title": "grand hyatt"
+    },
+    {
+     "type": "17",
+     "value": "1",
+     "filterId": "17|1"
+    }
+   ],
+   "subStamp": 1700,
+   "timeOffset": 0,
+   "sessionId": "758fdb5b26ee43d9b1b780105fb04d21",
+   "dispatchId": "",
+   "hotelTotalCount": 2,
+   "loginType": 0,
+   "isShowIntelligentSort": false,
+   "isLastPage": true,
+   "searchOneResultClueMessage": "Already showing all properties that meet your filters, you can adjust your filters and search again",
+   "isSupportWalkDriveSort": false,
+   "hotAreaFilters": [],
+   "extraInfos": {
+    "dispatchIdFilter": "",
+    "queryId": "100025527-0a8ee29f-498345-6997410",
+    "displayTotalCount": "",
+    "displayTotalRealCount": "",
+    "hitInboundScene": "T"
+   },
+   "sortScenes": [
+    {
+     "id": 34,
+     "name": "foreignUsers",
+     "score": 1,
+     "sourcetype": 0
+    },
+    {
+     "id": 45,
+     "name": "OutBound",
+     "score": 1,
+     "sourcetype": 0
+    },
+    {
+     "id": 36,
+     "name": "guestHouse",
+     "score": 0.3380469083786011,
+     "sourcetype": 1
+    }
+   ],
+   "orderCount": 0,
+   "metaHotelInfo": {
+    "clueMessage": "This hotel is in high demand!",
+    "subClueMessage": "Or check out these great hotels nearby."
+   }
+  },
+  "bannerInfo": {
+   "inbound": {
+    "index": 3,
+    "isV2": true,
+    "title": "Properties with the \"Hi China!\" label are:",
+    "detailTitle": "What makes a \"China Travel Essentials\" property?",
+    "contents": [
+     "Easy to reach",
+     "High guest rating",
+     "Experience with global visitors"
+    ],
+    "details": [
+     {
+      "icon": "https://images3.c-ctrip.com/hotel_h5_images/inbound_location.png",
+      "title": "Easy to reach",
+      "subTitle": "These properties are located in a popular area or near a subway station, train station, or airport",
+      "contents": []
+     },
+     {
+      "icon": "https://images3.c-ctrip.com/hotel_h5_images/inbound_good_reviews.png",
+      "title": "Popular with guests",
+      "subTitle": "Guest rating of 8 or higher",
+      "contents": []
+     },
+     {
+      "icon": "https://images3.c-ctrip.com/hotel_h5_images/inbound_global_users.png",
+      "title": "Experience with global visitors",
+      "subTitle": "Properties with this label offer at least one of the following:",
+      "contents": [
+       "English-speaking staff",
+       "Acceptance of most card payments",
+       "Translation tools",
+       "Currency exchanges"
+      ]
+     }
+    ]
+   },
+   "sceneFilter": {
+    "100": {
+     "title": "Popular locations"
+    },
+    "101": {
+     "title": "You May Like"
+    },
+    "104": {
+     "title": ""
+    }
+   },
+   "homestayInfo": {
+    "title": "Properties with ratings shown in this icon have been rated under our system for homes & apartments",
+    "expireDays": 3,
+    "more": "Learn more",
+    "bgUrl": "https://dimg04.tripcdn.com/images/1p12z12000gs5fh84FDCB.png",
+    "bgUrlDark": "https://dimg04.tripcdn.com/images/1p13512000gs5h6ib6CD3.png",
+    "details": {
+     "title": "Quality Ratings",
+     "contents": [
+      {
+       "title": "Homes & Apartments Rating",
+       "starType": 2,
+       "content": "Our homes & apartments rating reflects a comprehensive assessment of amenities, services, and other aspects for homestays, private apartments, and similar properties. In comparison with hotels, these properties are often small-scale, locally-run, and marked by creativity and local culture."
+      },
+      {
+       "title": "Diamond Rating",
+       "starType": 1,
+       "content": "Our diamond rating reflects a comprehensive assessment of a hotel's amenities, services, and other relevant aspects. Please be aware that it is not an official ranking."
+      },
+      {
+       "title": "Star Rating",
+       "starType": 0,
+       "content": "Star ratings are provided by third-party organizations or institutions and offer valuable insights into a hotel's amenities, services, and other relevant aspects."
+      }
+     ]
+    }
+   }
+  },
+  "ubtTraceInfo": {
+   "hotel_result_show_methodid": "getDstRankForIBU",
+   "traceLogid": "100025527-0a8ee29f-498345-6997410",
+   "decoratorCost": 15
+  },
+  "pagingInfo": {
+   "pageIndex": 1,
+   "pageSize": 10,
+   "slotToken": ""
+  },
+  "mapInfo": {
+   "showMiniMap": false
+  }
+ },
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794045197312+0800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Build": "",
+  "Version": "1.0.0",
+  "Extension": [
+   {
+    "id": "coustomFeat",
+    "value": "59"
+   },
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Value": ""
+   },
+   {
+    "Id": "TraceLogId",
+    "Value": "100025527-0a8ee29f-498345-6997410"
+   },
+   {
+    "Id": "XRequestId",
+    "Value": "eccd7ac3-3c38-96d2-bb95-9659d1d29324"
+   },
+   {
+    "Id": "RootMessageId",
+    "Value": "100025527-0a286b99-498345-2854035"
+   }
+  ]
+ }
+}

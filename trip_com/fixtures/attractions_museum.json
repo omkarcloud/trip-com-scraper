@@ -1,0 +1,2040 @@
+{
+ "props": {
+  "pageProps": {
+   "initialState": {
+    "__STATE_MAP__": {
+     "PageModel": {
+      "mixList": {
+       "all+all": {
+        "pageIndex": 1,
+        "filterAll": {
+         "quick": {
+          "tabCode": "all",
+          "fdefault": {},
+          "exclude": {},
+          "quick": [
+           {
+            "filter": {
+             "key": 0.6108338749610918
+            },
+            "name": "Sort by",
+            "server": "",
+            "quickFilterKey": "",
+            "notCancel": false
+           },
+           {
+            "filter": {
+             "key": 0.31091070570214585
+            },
+            "name": "Filters",
+            "server": "",
+            "quickFilterKey": "",
+            "notCancel": false
+           },
+           {
+            "remark": "selected",
+            "image": "https://dimg04.c-ctrip.com/images/0301n12000tpkfcq372CB.png",
+            "darkImage": "https://dimg04.c-ctrip.com/images/0305z12000tpkf88544FB.png",
+            "selectedImage": "https://dimg04.c-ctrip.com/images/0305612000tpkfl2i1A6B.png",
+            "selectedDarkImage": "https://dimg04.c-ctrip.com/images/0305w12000tpkfkvr2433.png",
+            "visualCode": "regular_black",
+            "popDesc": "",
+            "name": "Trip Select",
+            "server": "{\"typeCode\":\"Other\",\"type\":\"30\",\"value\":\"6525\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+            "type": "30",
+            "quickFilterKey": "[\"30\",\"6525\"]",
+            "notCancel": false
+           },
+           {
+            "remark": "今日可用",
+            "image": "",
+            "darkImage": "",
+            "selectedImage": "",
+            "selectedDarkImage": "",
+            "visualCode": "",
+            "popDesc": "",
+            "filterId": "DepartDate",
+            "name": "Book now for today",
+            "server": "{\"typeCode\":\"DepartDate\",\"type\":\"42\",\"value\":\"true\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+            "type": "42",
+            "quickFilterKey": "[\"42\",\"true\"]",
+            "notCancel": false
+           },
+           {
+            "remark": "明日可用",
+            "image": "",
+            "darkImage": "",
+            "selectedImage": "",
+            "selectedDarkImage": "",
+            "visualCode": "",
+            "popDesc": "",
+            "filterId": "DepartDate",
+            "name": "Book now for tomorrow",
+            "server": "{\"typeCode\":\"DepartDate\",\"type\":\"43\",\"value\":\"true\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+            "type": "43",
+            "quickFilterKey": "[\"43\",\"true\"]",
+            "notCancel": false
+           }
+          ],
+          "filters": [
+           {
+            "name": "Sort by",
+            "remark": "",
+            "filterShow": true,
+            "exclude": {},
+            "fdefault": {
+             "{\"typeCode\":\"SortingWay\",\"type\":\"1\",\"value\":\"1\",\"method\":\"Filter\",\"filterMethod\":\"\"}": true
+            },
+            "total": 19564,
+            "items": [
+             {
+              "name": "Recommended",
+              "desc": "",
+              "items": [
+               {
+                "name": "Recommended",
+                "remark": "排序",
+                "isMultiple": false,
+                "server": "{\"typeCode\":\"SortingWay\",\"type\":\"1\",\"value\":\"1\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+                "desc": "",
+                "notCancel": true,
+                "parentId": 0,
+                "filterId": "SortingWay",
+                "filterMethod": "AND",
+                "isHot": false,
+                "longCode": "DEFAULT_SORT",
+                "parentName": "Sort by",
+                "groupType": "DEFAULT_SORT"
+               },
+               {
+                "name": "Traveler rating",
+                "remark": "排序",
+                "isMultiple": false,
+                "server": "{\"typeCode\":\"SortingWay\",\"type\":\"4\",\"value\":\"4\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+                "desc": "Ranked by rating and number of reviews",
+                "notCancel": true,
+                "parentId": 0,
+                "filterId": "SortingWay",
+                "filterMethod": "AND",
+                "isHot": false,
+                "longCode": "DEFAULT_SORT",
+                "parentName": "Sort by",
+                "groupType": "DEFAULT_SORT",
+                "popDesc": "Ranked by rating and number of reviews"
+               },
+               {
+                "name": "Lowest price",
+                "remark": "排序",
+                "isMultiple": false,
+                "server": "{\"typeCode\":\"SortingWay\",\"type\":\"2\",\"value\":\"2\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+                "desc": "",
+                "notCancel": true,
+                "parentId": 0,
+                "filterId": "SortingWay",
+                "filterMethod": "AND",
+                "isHot": false,
+                "longCode": "DEFAULT_SORT",
+                "parentName": "Sort by",
+                "groupType": "DEFAULT_SORT"
+               },
+               {
+                "name": "Most booked",
+                "remark": "排序",
+                "isMultiple": false,
+                "server": "{\"typeCode\":\"SortingWay\",\"type\":\"8\",\"value\":\"8\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+                "desc": "",
+                "notCancel": true,
+                "parentId": 0,
+                "filterId": "SortingWay",
+                "filterMethod": "AND",
+                "isHot": false,
+                "longCode": "DEFAULT_SORT",
+                "parentName": "Sort by",
+                "groupType": "DEFAULT_SORT"
+               }
+              ],
+              "id": 0,
+              "showName": "T",
+              "remark": "排序",
+              "type": "DEFAULT_SORT",
+              "extras": {
+               "showCount": "4",
+               "LONG_CODE": "DEFAULT_SORT",
+               "Filter_PercentDesc": "",
+               "SHOW_NAME": "T",
+               "remark": "排序",
+               "FILTER_DESC": "",
+               "FILTER_METHOD": "AND",
+               "multiSelect": "F"
+              }
+             }
+            ],
+            "unique": 0.6108338749610918,
+            "filters": [],
+            "layout": "Single",
+            "count": 1,
+            "showButton": false,
+            "id": "SortingWay",
+            "isMultiple": false
+           },
+           {
+            "name": "Filters",
+            "remark": "",
+            "filterShow": true,
+            "exclude": {},
+            "fdefault": {},
+            "total": 19564,
+            "items": [
+             {
+              "name": "Travel date",
+              "remark": "日期",
+              "desc": "",
+              "items": [
+               {
+                "name": "Today",
+                "fakeName": "key.v.page.listpage.layer.today",
+                "server": "{\"typeCode\":\"DepartDate\",\"type\":\"42\",\"value\":\"true\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+                "cancel": false,
+                "type": "Today",
+                "typeCode": "DepartDate",
+                "aliaType": "DATE",
+                "parentId": 0,
+                "filterId": "DepartDate|reviewscore|30",
+                "parentName": "Filters",
+                "longCode": "DepartDate",
+                "remark": "日期"
+               },
+               {
+                "name": "Tomorrow",
+                "fakeName": "key.v.page.listpage.layer.tomorrow",
+                "server": "{\"typeCode\":\"DepartDate\",\"type\":\"43\",\"value\":\"true\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+                "cancel": false,
+                "type": "Tomorrow",
+                "typeCode": "DepartDate",
+                "aliaType": "DATE",
+                "parentId": 0,
+                "filterId": "DepartDate|reviewscore|30",
+                "parentName": "Filters",
+                "longCode": "DepartDate",
+                "remark": "日期"
+               },
+               {
+                "name": "select Date>",
+                "server": "",
+                "type": "Calender",
+                "typeCode": "DepartDate",
+                "aliaType": "DATE",
+                "parentId": 0,
+                "filterId": "DepartDate|reviewscore|30",
+                "parentName": "Filters",
+                "longCode": "DepartDate",
+                "remark": "日期"
+               }
+              ],
+              "id": 0,
+              "showName": "T",
+              "isMultiple": false
+             },
+             {
+              "name": "Traveler rating",
+              "desc": "",
+              "items": [
+               {
+                "name": "4.0+",
+                "remark": "点评分",
+                "isMultiple": false,
+                "server": "{\"typeCode\":\"reviewscore\",\"type\":\"120\",\"value\":\"4.0\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+                "desc": "",
+                "notCancel": false,
+                "parentId": 1,
+                "filterId": "DepartDate|reviewscore|30",
+                "filterMethod": "AND",
+                "isHot": false,
+                "longCode": "reviewscore",
+                "parentName": "Filters",
+                "groupType": "reviewscore"
+               },
+               {
+                "name": "4.5+",
+                "remark": "点评分",
+                "isMultiple": false,
+                "server": "{\"typeCode\":\"reviewscore\",\"type\":\"120\",\"value\":\"4.5\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+                "desc": "",
+                "notCancel": false,
+                "parentId": 1,
+                "filterId": "DepartDate|reviewscore|30",
+                "filterMethod": "AND",
+                "isHot": false,
+                "longCode": "reviewscore",
+                "parentName": "Filters",
+                "groupType": "reviewscore"
+               }
+              ],
+              "showRows": 2,
+              "id": 1,
+              "showName": "T",
+              "remark": "点评分",
+              "type": "reviewscore",
+              "extras": {
+               "showCount": "3",
+               "Filter_ViewTagFilterPropCode": "reviewscore",
+               "LONG_CODE": "reviewscore",
+               "Filter_PercentDesc": "",
+               "SHOW_NAME": "T",
+               "remark": "点评分",
+               "FILTER_DESC": "",
+               "FILTER_METHOD": "AND",
+               "multiSelect": "F"
+              }
+             },
+             {
+              "name": "Service guarantee",
+              "desc": "",
+              "items": [
+               {
+                "name": "Instant confirmation",
+                "remark": "服务保障",
+                "isMultiple": true,
+                "server": "{\"typeCode\":\"30\",\"type\":\"30\",\"value\":\"2\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+                "desc": "",
+                "notCancel": false,
+                "parentId": 2,
+                "filterId": "DepartDate|reviewscore|30",
+                "filterMethod": "AND",
+                "isHot": false,
+                "longCode": "servicepromise ",
+                "parentName": "Filters",
+                "groupType": "30"
+               },
+               {
+                "name": "Free cancellation",
+                "remark": "服务保障",
+                "isMultiple": true,
+                "server": "{\"typeCode\":\"30\",\"type\":\"30\",\"value\":\"18047\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+                "desc": "",
+                "notCancel": false,
+                "parentId": 2,
+                "filterId": "DepartDate|reviewscore|30",
+                "filterMethod": "AND",
+                "isHot": false,
+                "longCode": "servicepromise ",
+                "parentName": "Filters",
+                "groupType": "30"
+               }
+              ],
+              "showRows": 2,
+              "id": 2,
+              "showName": "T",
+              "remark": "服务保障",
+              "type": "30",
+              "extras": {
+               "showCount": "4",
+               "LONG_CODE": "servicepromise ",
+               "Filter_PercentDesc": "",
+               "SHOW_NAME": "T",
+               "remark": "服务保障",
+               "FILTER_DESC": "",
+               "FILTER_METHOD": "AND",
+               "multiSelect": "T"
+              }
+             }
+            ],
+            "unique": 0.31091070570214585,
+            "filters": [],
+            "layout": "TopBottom",
+            "count": 3,
+            "showButton": true,
+            "id": "DepartDate|reviewscore|30",
+            "isMultiple": true
+           }
+          ]
+         },
+         "bottom": {
+          "title": "",
+          "type": "bottomFilter",
+          "list": []
+         },
+         "tabMap": {
+          "{\"typeCode\":\"SortingWay\",\"type\":\"1\",\"value\":\"1\",\"method\":\"Filter\",\"filterMethod\":\"\"}": {
+           "name": "Recommended",
+           "remark": "排序",
+           "isMultiple": false,
+           "server": "{\"typeCode\":\"SortingWay\",\"type\":\"1\",\"value\":\"1\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+           "desc": "",
+           "notCancel": true,
+           "parentId": 0,
+           "filterId": "SortingWay",
+           "filterMethod": "AND",
+           "isHot": false,
+           "longCode": "DEFAULT_SORT",
+           "parentName": "Sort by",
+           "groupType": "DEFAULT_SORT"
+          },
+          "{\"typeCode\":\"SortingWay\",\"type\":\"4\",\"value\":\"4\",\"method\":\"Filter\",\"filterMethod\":\"\"}": {
+           "name": "Traveler rating",
+           "remark": "排序",
+           "isMultiple": false,
+           "server": "{\"typeCode\":\"SortingWay\",\"type\":\"4\",\"value\":\"4\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+           "desc": "Ranked by rating and number of reviews",
+           "notCancel": true,
+           "parentId": 0,
+           "filterId": "SortingWay",
+           "filterMethod": "AND",
+           "isHot": false,
+           "longCode": "DEFAULT_SORT",
+           "parentName": "Sort by",
+           "groupType": "DEFAULT_SORT",
+           "popDesc": "Ranked by rating and number of reviews"
+          },
+          "{\"typeCode\":\"SortingWay\",\"type\":\"2\",\"value\":\"2\",\"method\":\"Filter\",\"filterMethod\":\"\"}": {
+           "name": "Lowest price",
+           "remark": "排序",
+           "isMultiple": false,
+           "server": "{\"typeCode\":\"SortingWay\",\"type\":\"2\",\"value\":\"2\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+           "desc": "",
+           "notCancel": true,
+           "parentId": 0,
+           "filterId": "SortingWay",
+           "filterMethod": "AND",
+           "isHot": false,
+           "longCode": "DEFAULT_SORT",
+           "parentName": "Sort by",
+           "groupType": "DEFAULT_SORT"
+          },
+          "{\"typeCode\":\"SortingWay\",\"type\":\"8\",\"value\":\"8\",\"method\":\"Filter\",\"filterMethod\":\"\"}": {
+           "name": "Most booked",
+           "remark": "排序",
+           "isMultiple": false,
+           "server": "{\"typeCode\":\"SortingWay\",\"type\":\"8\",\"value\":\"8\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+           "desc": "",
+           "notCancel": true,
+           "parentId": 0,
+           "filterId": "SortingWay",
+           "filterMethod": "AND",
+           "isHot": false,
+           "longCode": "DEFAULT_SORT",
+           "parentName": "Sort by",
+           "groupType": "DEFAULT_SORT"
+          },
+          "{\"typeCode\":\"DepartDate\",\"type\":\"42\",\"value\":\"true\",\"method\":\"Filter\",\"filterMethod\":\"\"}": {
+           "name": "Today",
+           "fakeName": "key.v.page.listpage.layer.today",
+           "server": "{\"typeCode\":\"DepartDate\",\"type\":\"42\",\"value\":\"true\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+           "cancel": false,
+           "type": "Today",
+           "typeCode": "DepartDate",
+           "aliaType": "DATE",
+           "parentId": 0,
+           "filterId": "DepartDate|reviewscore|30",
+           "parentName": "Filters",
+           "longCode": "DepartDate",
+           "remark": "日期"
+          },
+          "{\"typeCode\":\"DepartDate\",\"type\":\"43\",\"value\":\"true\",\"method\":\"Filter\",\"filterMethod\":\"\"}": {
+           "name": "Tomorrow",
+           "fakeName": "key.v.page.listpage.layer.tomorrow",
+           "server": "{\"typeCode\":\"DepartDate\",\"type\":\"43\",\"value\":\"true\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+           "cancel": false,
+           "type": "Tomorrow",
+           "typeCode": "DepartDate",
+           "aliaType": "DATE",
+           "parentId": 0,
+           "filterId": "DepartDate|reviewscore|30",
+           "parentName": "Filters",
+           "longCode": "DepartDate",
+           "remark": "日期"
+          },
+          "{\"typeCode\":\"reviewscore\",\"type\":\"120\",\"value\":\"4.0\",\"method\":\"Filter\",\"filterMethod\":\"\"}": {
+           "name": "4.0+",
+           "remark": "点评分",
+           "isMultiple": false,
+           "server": "{\"typeCode\":\"reviewscore\",\"type\":\"120\",\"value\":\"4.0\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+           "desc": "",
+           "notCancel": false,
+           "parentId": 1,
+           "filterId": "DepartDate|reviewscore|30",
+           "filterMethod": "AND",
+           "isHot": false,
+           "longCode": "reviewscore",
+           "parentName": "Filters",
+           "groupType": "reviewscore"
+          },
+          "{\"typeCode\":\"reviewscore\",\"type\":\"120\",\"value\":\"4.5\",\"method\":\"Filter\",\"filterMethod\":\"\"}": {
+           "name": "4.5+",
+           "remark": "点评分",
+           "isMultiple": false,
+           "server": "{\"typeCode\":\"reviewscore\",\"type\":\"120\",\"value\":\"4.5\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+           "desc": "",
+           "notCancel": false,
+           "parentId": 1,
+           "filterId": "DepartDate|reviewscore|30",
+           "filterMethod": "AND",
+           "isHot": false,
+           "longCode": "reviewscore",
+           "parentName": "Filters",
+           "groupType": "reviewscore"
+          },
+          "{\"typeCode\":\"30\",\"type\":\"30\",\"value\":\"2\",\"method\":\"Filter\",\"filterMethod\":\"\"}": {
+           "name": "Instant confirmation",
+           "remark": "服务保障",
+           "isMultiple": true,
+           "server": "{\"typeCode\":\"30\",\"type\":\"30\",\"value\":\"2\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+           "desc": "",
+           "notCancel": false,
+           "parentId": 2,
+           "filterId": "DepartDate|reviewscore|30",
+           "filterMethod": "AND",
+           "isHot": false,
+           "longCode": "servicepromise ",
+           "parentName": "Filters",
+           "groupType": "30"
+          },
+          "{\"typeCode\":\"30\",\"type\":\"30\",\"value\":\"18047\",\"method\":\"Filter\",\"filterMethod\":\"\"}": {
+           "name": "Free cancellation",
+           "remark": "服务保障",
+           "isMultiple": true,
+           "server": "{\"typeCode\":\"30\",\"type\":\"30\",\"value\":\"18047\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+           "desc": "",
+           "notCancel": false,
+           "parentId": 2,
+           "filterId": "DepartDate|reviewscore|30",
+           "filterMethod": "AND",
+           "isHot": false,
+           "longCode": "servicepromise ",
+           "parentName": "Filters",
+           "groupType": "30"
+          },
+          "{\"typeCode\":\"Other\",\"type\":\"30\",\"value\":\"6525\",\"method\":\"Filter\",\"filterMethod\":\"\"}": {
+           "remark": "selected",
+           "image": "https://dimg04.c-ctrip.com/images/0301n12000tpkfcq372CB.png",
+           "darkImage": "https://dimg04.c-ctrip.com/images/0305z12000tpkf88544FB.png",
+           "selectedImage": "https://dimg04.c-ctrip.com/images/0305612000tpkfl2i1A6B.png",
+           "selectedDarkImage": "https://dimg04.c-ctrip.com/images/0305w12000tpkfkvr2433.png",
+           "visualCode": "regular_black",
+           "popDesc": "",
+           "name": "Trip Select",
+           "server": "{\"typeCode\":\"Other\",\"type\":\"30\",\"value\":\"6525\",\"method\":\"Filter\",\"filterMethod\":\"\"}",
+           "type": "30",
+           "quickFilterKey": "[\"30\",\"6525\"]",
+           "notCancel": false
+          }
+         },
+         "windVane": {
+          "windVane": [],
+          "fdefault": ""
+         }
+        },
+        "cardData": {
+         "isSiteNoResult": false,
+         "cardList": [
+          {
+           "type": "poi",
+           "data": {
+            "jsonStr": "{\"cardConfig\":\"{\\\"favoriteConfig\\\":{\\\"favoriteMode\\\":\\\"full\\\",\\\"position\\\":\\\"onImg\\\"},\\\"openStatusConfig\\\":{\\\"isDuringTour\\\":false,\\\"position\\\":\\\"onImg\\\"},\\\"commentConfig\\\":{\\\"hideTa\\\":false},\\\"priceConfig\\\":{\\\"priceMode\\\":\\\"normal\\\",\\\"priceShowFields\\\":[\\\"price\\\",\\\"underlinedPrice\\\",\\\"priceTag\\\",\\\"discountIntensity\\\",\\\"cardCountDesc\\\"]},\\\"tagListConfig\\\":{\\\"ignoreTypeList\\\":[]},\\\"showFields\\\":[\\\"base\\\",\\\"isJumpActivityDetail\\\",\\\"timeStamp\\\",\\\"districtName\\\",\\\"subTitleName\\\",\\\"enName\\\",\\\"introduction\\\",\\\"hotScore\\\",\\\"comment\\\",\\\"taComment\\\",\\\"feedback\\\",\\\"coverImage\\\",\\\"hasVideo\\\",\\\"ranking\\\",\\\"tagNameList\\\",\\\"marketingTag\\\",\\\"otherTagList\\\",\\\"priceInfo\\\",\\\"cardCountDesc\\\",\\\"openStatus\\\",\\\"distance\\\",\\\"sceneDescription\\\",\\\"matchInfo\\\",\\\"hotEvent\\\",\\\"favorite\\\",\\\"nearBy\\\",\\\"isInsertPoi\\\",\\\"isAdvertisement\\\",\\\"isRecommend\\\",\\\"actor\\\",\\\"parentPoi\\\",\\\"concertSaleStatusInfo\\\"]}\",\"data\":\"{\\\"abtestMap\\\":{\\\"260519_VAC_kpjz\\\":\\\"B\\\"},\\\"address\\\":\\\"Lintong District, Xi'an, Shaanxi, China\\\",\\\"businessId\\\":1444,\\\"commentInfo\\\":{\\\"commentCount\\\":150376,\\\"commentScore\\\":4.7,\\\"taCommentCount\\\":15095,\\\"taCommentUrl\\\":\\\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-64229-4.png\\\"},\\\"coordinate\\\":{\\\"coordinateType\\\":\\\"BD09\\\",\\\"latitude\\\":34.392111,\\\"longitude\\\":109.288514},\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1754,\\\"width\\\":2707},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1754,\\\"offset\\\":[-7,0],\\\"rect\\\":[819,0,4580,3509],\\\"width\\\":2707},\\\"coverImageList\\\":[{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1754,\\\"width\\\":2707},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1754,\\\"offset\\\":[-7,0],\\\"rect\\\":[819,0,4580,3509],\\\"width\\\":2707},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0104012000f6rbl4996B9.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0104012000f6rbl4996B9.jpg\\\"},{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1367,\\\"width\\\":2048},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0104112000g2ow0toAAEB.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0104112000g2ow0toAAEB.jpg\\\"}],\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0104012000f6rbl4996B9.jpg\\\",\\\"detailUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/xi-an/emperor-qinshihuang-s-mausoleum-site-museum-75682?curr=USD&locale=en-XX&poiType=3&scene=ticket\\\",\\\"distanceInfo\\\":{\\\"location\\\":\\\"China · Xi'an\\\"},\\\"districtId\\\":7,\\\"districtName\\\":\\\"Xi'an\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0104012000f6rbl4996B9.jpg\\\",\\\"extendMap\\\":[{\\\"key\\\":\\\"ticketMetricMsg\\\",\\\"value\\\":\\\"{\\\\\\\"showContestSaleStatus\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"tags\\\\\\\":[{\\\\\\\"code\\\\\\\":\\\\\\\"TomorrowCanBook\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for tomorrow\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"RefundAtAnyTime\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Cancel anytime\\\\\\\",\\\\\\\"extraList\\\\\\\":[]}],\\\\\\\"resId\\\\\\\":\\\\\\\"61057580\\\\\\\",\\\\\\\"sale\\\\\\\":18.72,\\\\\\\"disc\\\\\\\":0,\\\\\\\"date\\\\\\\":\\\\\\\"2026-11-08\\\\\\\",\\\\\\\"source\\\\\\\":\\\\\\\"cct.poi.card.info\\\\\\\",\\\\\\\"messageId\\\\\\\":\\\\\\\"100023736-0a8ebfba-498346-183287\\\\\\\"}\\\"}],\\\"fPoiJumpSightDetail\\\":false,\\\"favoriteInfo\\\":{\\\"favoriteId\\\":0,\\\"hasFavorited\\\":false,\\\"isActivityFavorite\\\":false},\\\"hasVideo\\\":false,\\\"highConcernPerformance\\\":\\\"\\\",\\\"hotScore\\\":\\\"10\\\",\\\"introduction\\\":\\\"Emperor Qinshihuang's Mausoleum Site Museum is a large site museum built on the site of the Terracotta Army pits, which are located approx. 1.5 km east of the mound of Emperor Qinshihuang's Mausoleum. In March 1974, farmers from Xiyang Village accidentally unearthed fragments of terracotta figures while digging a well, and archaeological exploration confirmed Pit 1; in 1976, Pits 2 and 3 were successively discovered to the north of Pit 1. This army, which had slumbered for over 2,000 years, was thus brought back to light, and the discovery of the Terracotta Army has been hailed as \\\\\\\"one of the great discoveries in the history of 20th-century archaeology.\\\\\\\"\\\\nPit 1 is the main military formation among the three pits, stretching over 200 m from east to west, with an estimated 6,000 pottery figurines and horses buried inside. Standing at the edge and looking down, armored warrior figurines, war chariots, and pottery horses are arrayed eastward in battle formation. A closer look at each figure reveals different facial shapes, hairstyles, beards, and even hand gestures. The figurines were originally painted all over, but most of the paint has peeled off and discolored due to fire and long burial. Pit 2 is L-shaped, with crossbowmen, cavalry, and charioteers arranged in a mixed formation; the vividly expressive kneeling archer was unearthed here. Pit 3 is small in scale, and scholars believe the ceremonial guard figurines and war chariots unearthed there indicate it served as the command center—known in ancient times as a \\\\\\\"military tent\\\\\\\"—directing the formations in Pits 1 and 2. The bronze swords, pi halberds, spears, crossbow triggers, and large quantities of arrowheads unearthed from the pits—many still sharp after more than 2,000 years—demonstrate the sophistication of Qin dynasty metallurgy.\\\\nThe Emperor Qinshihuang's Mausoleum Site Museum and the Qin Shi Huang Mausoleum at the foot of Mount Li were originally one integrated whole. After Qin Shi Huang ascended the throne at the age of 13, he began constructing the mausoleum, conscripting hundreds of thousands of laborers over a period spanning more than 30 years; the terracotta army, which replaced human sacrifice with figurines, served as the underground guard for this imperial mausoleum.\\\\nTo avoid the crowds during your visit, you might want to see Pit 3 and Pit 2 first, and then take your time to experience the awe-inspiring scene of Pit 1 last. After viewing the terracotta pits, you can also take the attraction's shuttle bus to Lishan Garden, where Emperor Qinshihuang's mausoleum is located; the Acrobats Pit, the Civil Officials Pit, and the Bronze Chariots and Horses Museum are all within the garden. The two painted bronze chariots and horses, cast at half the scale of real chariots, are exquisitely crafted with brilliantly gleaming gold and silver fittings, and are well worth a special trip to see.\\\",\\\"isActivityPoi\\\":false,\\\"isAdvertisement\\\":false,\\\"isInsertPoi\\\":false,\\\"isJumpActivityDetail\\\":false,\\\"isNearBy\\\":false,\\\"isRecommend\\\":false,\\\"isTopSort\\\":false,\\\"nameNotMatchLocale\\\":false,\\\"openStatus\\\":\\\"Closes at 7:00 PM\\\",\\\"openTimeDesc\\\":\\\"Open: 8:30 AM–7:00 PM(Tickets available until 5:00 PM. Admission ends at 5:00 PM)\\\",\\\"otherTagList\\\":[{\\\"code\\\":\\\"TomorrowCanBook\\\",\\\"name\\\":\\\"Book now for tomorrow\\\",\\\"type\\\":\\\"booking\\\"},{\\\"code\\\":\\\"RefundAtAnyTime\\\",\\\"name\\\":\\\"Cancel anytime\\\",\\\"type\\\":\\\"booking\\\"}],\\\"playSpendTime\\\":\\\"Duration:3–5 hours\\\",\\\"poiEName\\\":\\\"Emperor Qinshihuang's Mausoleum Site Museum\\\",\\\"poiId\\\":75682,\\\"poiName\\\":\\\"Emperor Qinshihuang's Mausoleum Site Museum\\\",\\\"poiSubtitleName\\\":\\\"秦始皇帝陵博物院(兵马俑)\\\",\\\"poiType\\\":3,\\\"priceInfo\\\":{\\\"marketPrice\\\":\\\"0\\\",\\\"preferentialPrice\\\":\\\"0\\\",\\\"price\\\":\\\"18.72\\\",\\\"priceInt\\\":\\\"18.72\\\",\\\"priceType\\\":\\\"2\\\",\\\"salesVolumeDesc\\\":\\\"672k+ booked\\\"},\\\"rankingInfo\\\":{\\\"rankDesc\\\":\\\"2026  Global 100 - Best Things to Do\\\",\\\"rankingCategory\\\":2,\\\"recommendReason\\\":\\\"Explore the grand ruins of a subterranean army\\\"},\\\"tagNameList\\\":[\\\"Historic landmark\\\"],\\\"timestamp\\\":1794045677324,\\\"zoneName\\\":\\\"Terracotta Army/Hua Qing Palace\\\"}\"}",
+            "id": "75682",
+            "type": "poi",
+            "currency": "USD",
+            "categoryLevel1": "",
+            "categoryLevel2": "",
+            "isSupportFavorite": true,
+            "pageId": "10650012671",
+            "districtId": "228",
+            "extParams": "",
+            "metricInfo": {
+             "ppagetab": "all",
+             "pagetab": "AllTicket",
+             "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+             "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+             "filtervalue": "",
+             "isfilter": 0
+            },
+            "abVersionMap": {
+             "250428_VAC_cardinfo": "C",
+             "260519_VAC_kpjz": "B",
+             "260821_VAC_Tmstg": ""
+            },
+            "needLazy": true,
+            "pkgp": 1,
+            "isLast": false
+           }
+          },
+          {
+           "type": "poi",
+           "data": {
+            "jsonStr": "{\"cardConfig\":\"{\\\"favoriteConfig\\\":{\\\"favoriteMode\\\":\\\"full\\\",\\\"position\\\":\\\"onImg\\\"},\\\"openStatusConfig\\\":{\\\"isDuringTour\\\":false,\\\"position\\\":\\\"onImg\\\"},\\\"commentConfig\\\":{\\\"hideTa\\\":false},\\\"priceConfig\\\":{\\\"priceMode\\\":\\\"normal\\\",\\\"priceShowFields\\\":[\\\"price\\\",\\\"underlinedPrice\\\",\\\"priceTag\\\",\\\"discountIntensity\\\",\\\"cardCountDesc\\\"]},\\\"tagListConfig\\\":{\\\"ignoreTypeList\\\":[]},\\\"showFields\\\":[\\\"base\\\",\\\"isJumpActivityDetail\\\",\\\"timeStamp\\\",\\\"districtName\\\",\\\"subTitleName\\\",\\\"enName\\\",\\\"introduction\\\",\\\"hotScore\\\",\\\"comment\\\",\\\"taComment\\\",\\\"feedback\\\",\\\"coverImage\\\",\\\"hasVideo\\\",\\\"ranking\\\",\\\"tagNameList\\\",\\\"marketingTag\\\",\\\"otherTagList\\\",\\\"priceInfo\\\",\\\"cardCountDesc\\\",\\\"openStatus\\\",\\\"distance\\\",\\\"sceneDescription\\\",\\\"matchInfo\\\",\\\"hotEvent\\\",\\\"favorite\\\",\\\"nearBy\\\",\\\"isInsertPoi\\\",\\\"isAdvertisement\\\",\\\"isRecommend\\\",\\\"actor\\\",\\\"parentPoi\\\",\\\"concertSaleStatusInfo\\\"]}\",\"data\":\"{\\\"abtestMap\\\":{\\\"260519_VAC_kpjz\\\":\\\"B\\\"},\\\"address\\\":\\\"2000 Century Avenue, Pudong New Area, Shanghai\\\",\\\"businessId\\\":18308,\\\"commentInfo\\\":{\\\"commentCount\\\":41104,\\\"commentScore\\\":4.7,\\\"taCommentCount\\\":556,\\\"taCommentUrl\\\":\\\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-64229-4.png\\\"},\\\"coordinate\\\":{\\\"coordinateType\\\":\\\"BD09\\\",\\\"latitude\\\":31.224356,\\\"longitude\\\":121.547823},\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1665,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1665,\\\"offset\\\":[-1,0],\\\"rect\\\":[467,0,2029,1665],\\\"width\\\":2500},\\\"coverImageList\\\":[{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1665,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1665,\\\"offset\\\":[-1,0],\\\"rect\\\":[467,0,2029,1665],\\\"width\\\":2500},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0103b12000lkrnxjv140B.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0103b12000lkrnxjv140B.jpg\\\"},{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":852,\\\"width\\\":1311},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0HJ1f12000ryau5blACD7.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0HJ1f12000ryau5blACD7.jpg\\\"}],\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0103b12000lkrnxjv140B.jpg\\\",\\\"detailUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/shanghai/shanghai-science-and-technology-museum-80261?curr=USD&locale=en-XX&poiType=3&scene=ticket\\\",\\\"distanceInfo\\\":{\\\"location\\\":\\\"China · Shanghai\\\"},\\\"districtId\\\":2,\\\"districtName\\\":\\\"Shanghai\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0103b12000lkrnxjv140B.jpg\\\",\\\"extendMap\\\":[{\\\"key\\\":\\\"ticketMetricMsg\\\",\\\"value\\\":\\\"{\\\\\\\"showContestSaleStatus\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"tags\\\\\\\":[{\\\\\\\"code\\\\\\\":\\\\\\\"TomorrowCanBook\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for tomorrow\\\\\\\",\\\\\\\"extraList\\\\\\\":[]}],\\\\\\\"resId\\\\\\\":\\\\\\\"111072513\\\\\\\",\\\\\\\"sale\\\\\\\":6.74,\\\\\\\"disc\\\\\\\":0,\\\\\\\"date\\\\\\\":\\\\\\\"2026-11-08\\\\\\\",\\\\\\\"source\\\\\\\":\\\\\\\"cct.poi.card.info\\\\\\\",\\\\\\\"messageId\\\\\\\":\\\\\\\"100023736-0a8ebfba-498346-183287\\\\\\\"}\\\"}],\\\"fPoiJumpSightDetail\\\":false,\\\"favoriteInfo\\\":{\\\"favoriteId\\\":0,\\\"hasFavorited\\\":false,\\\"isActivityFavorite\\\":false},\\\"hasVideo\\\":false,\\\"highConcernPerformance\\\":\\\"\\\",\\\"hotScore\\\":\\\"7.0\\\",\\\"introduction\\\":\\\"Shanghai Science and Technology Museum, located on Century Avenue in Pudong, is one of Shanghai's premier science education destinations. Here, visitors can explore natural sciences through various modern facilities and interactive exhibits, along with an immersive science theater featuring stunning audiovisual effects. If you're visiting Shanghai with children, this is a must-visit spot for fun learning. The museum boasts an extensive collection, including hundreds of exquisite wildlife and geological specimens, diverse robot performances, models of electronic and aerospace equipment, and displays of technological innovations. Its strong interactive elements make it particularly popular among young visitors, who can engage with hands-on installations.\\\",\\\"isActivityPoi\\\":false,\\\"isAdvertisement\\\":false,\\\"isInsertPoi\\\":false,\\\"isJumpActivityDetail\\\":false,\\\"isNearBy\\\":false,\\\"isRecommend\\\":false,\\\"isTopSort\\\":false,\\\"nameNotMatchLocale\\\":false,\\\"openStatus\\\":\\\"Closes at 8:00 PM\\\",\\\"openTimeDesc\\\":\\\"Open: 9:00 AM–8:00 PM(Admission ends at 7:00 PM)\\\",\\\"otherTagList\\\":[{\\\"code\\\":\\\"TomorrowCanBook\\\",\\\"name\\\":\\\"Book now for tomorrow\\\",\\\"type\\\":\\\"booking\\\"}],\\\"playSpendTime\\\":\\\"Duration:3–5 hours\\\",\\\"poiEName\\\":\\\"Shanghai Science and Technology Museum\\\",\\\"poiId\\\":80261,\\\"poiName\\\":\\\"Shanghai Science and Technology Museum\\\",\\\"poiSubtitleName\\\":\\\"上海科技馆\\\",\\\"poiType\\\":3,\\\"priceInfo\\\":{\\\"marketPrice\\\":\\\"0\\\",\\\"preferentialPrice\\\":\\\"0\\\",\\\"price\\\":\\\"6.74\\\",\\\"priceInt\\\":\\\"6.74\\\",\\\"priceType\\\":\\\"2\\\",\\\"salesVolumeDesc\\\":\\\"81k+ booked\\\"},\\\"rankingInfo\\\":{\\\"rankDesc\\\":\\\"No. 13 of Family-friendly Attractions in Shanghai\\\",\\\"rankingCategory\\\":1,\\\"recommendReason\\\":\\\"Explore a variety of exhibits for a fun and educational experience\\\"},\\\"tagNameList\\\":[\\\"Science & technology museums\\\",\\\"Exhibitions\\\",\\\"Night view\\\"],\\\"timestamp\\\":1794045677324,\\\"zoneName\\\":\\\"Pudong New International Expo Center/World Expo Area\\\"}\"}",
+            "id": "80261",
+            "type": "poi",
+            "currency": "USD",
+            "categoryLevel1": "",
+            "categoryLevel2": "",
+            "isSupportFavorite": true,
+            "pageId": "10650012671",
+            "districtId": "228",
+            "extParams": "",
+            "metricInfo": {
+             "ppagetab": "all",
+             "pagetab": "AllTicket",
+             "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+             "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+             "filtervalue": "",
+             "isfilter": 0
+            },
+            "abVersionMap": {
+             "250428_VAC_cardinfo": "C",
+             "260519_VAC_kpjz": "B",
+             "260821_VAC_Tmstg": ""
+            },
+            "pkgp": 2,
+            "isLast": false
+           }
+          },
+          {
+           "type": "poi",
+           "data": {
+            "jsonStr": "{\"cardConfig\":\"{\\\"favoriteConfig\\\":{\\\"favoriteMode\\\":\\\"full\\\",\\\"position\\\":\\\"onImg\\\"},\\\"openStatusConfig\\\":{\\\"isDuringTour\\\":false,\\\"position\\\":\\\"onImg\\\"},\\\"commentConfig\\\":{\\\"hideTa\\\":false},\\\"priceConfig\\\":{\\\"priceMode\\\":\\\"normal\\\",\\\"priceShowFields\\\":[\\\"price\\\",\\\"underlinedPrice\\\",\\\"priceTag\\\",\\\"discountIntensity\\\",\\\"cardCountDesc\\\"]},\\\"tagListConfig\\\":{\\\"ignoreTypeList\\\":[]},\\\"showFields\\\":[\\\"base\\\",\\\"isJumpActivityDetail\\\",\\\"timeStamp\\\",\\\"districtName\\\",\\\"subTitleName\\\",\\\"enName\\\",\\\"introduction\\\",\\\"hotScore\\\",\\\"comment\\\",\\\"taComment\\\",\\\"feedback\\\",\\\"coverImage\\\",\\\"hasVideo\\\",\\\"ranking\\\",\\\"tagNameList\\\",\\\"marketingTag\\\",\\\"otherTagList\\\",\\\"priceInfo\\\",\\\"cardCountDesc\\\",\\\"openStatus\\\",\\\"distance\\\",\\\"sceneDescription\\\",\\\"matchInfo\\\",\\\"hotEvent\\\",\\\"favorite\\\",\\\"nearBy\\\",\\\"isInsertPoi\\\",\\\"isAdvertisement\\\",\\\"isRecommend\\\",\\\"actor\\\",\\\"parentPoi\\\",\\\"concertSaleStatusInfo\\\"]}\",\"data\":\"{\\\"abtestMap\\\":{\\\"260519_VAC_kpjz\\\":\\\"B\\\"},\\\"address\\\":\\\"No. 4, Jingshanqian Street, Dongcheng District, Beijing\\\",\\\"businessId\\\":229,\\\"commentInfo\\\":{\\\"commentCount\\\":204706,\\\"commentScore\\\":4.9,\\\"taCommentCount\\\":14319,\\\"taCommentUrl\\\":\\\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-64229-4.png\\\"},\\\"coordinate\\\":{\\\"coordinateType\\\":\\\"BD09\\\",\\\"latitude\\\":39.924091,\\\"longitude\\\":116.403414},\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1051,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1051,\\\"offset\\\":[48,0],\\\"rect\\\":[517,0,2079,1051],\\\"width\\\":2500},\\\"coverImageList\\\":[{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1051,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1051,\\\"offset\\\":[48,0],\\\"rect\\\":[517,0,2079,1051],\\\"width\\\":2500},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/010671200087d4o7zEA88.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/010671200087d4o7zEA88.jpg\\\"},{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":2662,\\\"width\\\":4000},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100k0q000000gqnh8EE78.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100k0q000000gqnh8EE78.jpg\\\"}],\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/010671200087d4o7zEA88.jpg\\\",\\\"detailUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/beijing/the-palace-museum-75595?curr=USD&locale=en-XX&poiType=3&scene=ticket\\\",\\\"distanceInfo\\\":{\\\"location\\\":\\\"China · Beijing\\\"},\\\"districtId\\\":1,\\\"districtName\\\":\\\"Beijing\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/010671200087d4o7zEA88.jpg\\\",\\\"explainDesc\\\":\\\"Selling fast\\\",\\\"explainType\\\":\\\"HOT_SALE\\\",\\\"extendMap\\\":[{\\\"key\\\":\\\"ticketMetricMsg\\\",\\\"value\\\":\\\"{\\\\\\\"showContestSaleStatus\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"tags\\\\\\\":[],\\\\\\\"resId\\\\\\\":\\\\\\\"95695136\\\\\\\",\\\\\\\"sale\\\\\\\":13.93,\\\\\\\"disc\\\\\\\":0,\\\\\\\"date\\\\\\\":\\\\\\\"2026-11-15\\\\\\\",\\\\\\\"source\\\\\\\":\\\\\\\"cct.poi.card.info\\\\\\\",\\\\\\\"messageId\\\\\\\":\\\\\\\"100023736-0a8ebfba-498346-183287\\\\\\\"}\\\"}],\\\"fPoiJumpSightDetail\\\":false,\\\"favoriteInfo\\\":{\\\"favoriteId\\\":0,\\\"hasFavorited\\\":false,\\\"isActivityFavorite\\\":false},\\\"hasVideo\\\":false,\\\"highConcernPerformance\\\":\\\"\\\",\\\"hotEventInfo\\\":{\\\"name\\\":\\\"Fall ginkgo by Forbidden City corner tower—free, no reservation\\\",\\\"recommendText\\\":\\\"702.4k watching\\\"},\\\"hotScore\\\":\\\"10\\\",\\\"introduction\\\":\\\"The Forbidden City, also known as the Imperial Palace, was the imperial palace of the Ming and Qing dynasties, and is also the symbol of ancient China. When you are in the majestic and orderly high walls and deep courtyards, you can truly feel its former glory.\\\\n▲The long history has left behind large-scale precious buildings and countless cultural relics, which have also become the main attraction of visiting the Forbidden City today.\\\\n▲Classic attractions: The Forbidden City Corner Tower is a polygonal building with a convex plane on all four sides. It is located in Dongcheng District, Beijing. The roof has three layers. The upper layer is a hip roof with vertical and horizontal intersections. It is composed of a gable roof with flowing water on two slopes and a hip roof with four slopes. Because there are nine main ridges on this roof, it is called the Nine-ridge Hall.\\\\n▲Sundials are divided into two types according to their installation principle: equatorial and horizontal. The sundial installed using the equatorial principle is called an equatorial sundial. The key points of its production are that it must have a time plate, a latitude arc and a gnomon. When operating, the time plate must be parallel to the equatorial plane of the earth, the gnomon must be in the same direction as the earth's axis, and the shadow cast by the gnomon on the gnomon is the desired time.\\\\n▲The Treasure House is located in the Ningshou Palace area. It has a rich collection of treasures, including Buddhist supplies, ornaments, daily utensils, and treasures for appreciation. Among them, the red coral lion about 14 cm high, the Dongzhu court beads about 130 cm long, and the gold \\\\\\\"Fengtianzhibao\\\\\\\" seal are all rare treasures.\\\\n▲The Clock and Watch Museum is located in the Fengxian Hall in the palace. Most of the clocks on display are British products, but there are also clocks from other countries such as France and Switzerland. In addition to the timing function, these clocks are decorated with figures, birds, beasts, flowers, etc., which can also make various different movements. They are very delicately made. Among them, the copper-plated gilded writing clock, the copper-plated gilded enamel gourd-top fishing and woodcutting farming clock, and the copper-plated gilded rotating flower running man rhinoceros carrying clock are very rare.\\\",\\\"isActivityPoi\\\":false,\\\"isAdvertisement\\\":false,\\\"isInsertPoi\\\":false,\\\"isJumpActivityDetail\\\":false,\\\"isNearBy\\\":false,\\\"isRecommend\\\":false,\\\"isTopSort\\\":false,\\\"nameNotMatchLocale\\\":false,\\\"openTimeDesc\\\":\\\"TomorrowOpen: 8:30 AM–4:30 PM(Admission ends at 3:30 PM)\\\",\\\"playSpendTime\\\":\\\"Duration:4–6 hours\\\",\\\"poiEName\\\":\\\"The Palace Museum\\\",\\\"poiId\\\":75595,\\\"poiName\\\":\\\"The Palace Museum\\\",\\\"poiSubtitleName\\\":\\\"故宫博物院\\\",\\\"poiType\\\":3,\\\"priceInfo\\\":{\\\"marketPrice\\\":\\\"0\\\",\\\"preferentialPrice\\\":\\\"0\\\",\\\"price\\\":\\\"13.93\\\",\\\"priceInt\\\":\\\"13.93\\\",\\\"priceType\\\":\\\"2\\\",\\\"salesVolumeDesc\\\":\\\"289k+ booked\\\"},\\\"rankingInfo\\\":{\\\"rankDesc\\\":\\\"2026  Global 100 - Best Things to Do\\\",\\\"rankingCategory\\\":2,\\\"recommendReason\\\":\\\"Stroll past the red walls and yellow tiles to experience the majesty of the Imperial City\\\"},\\\"tagNameList\\\":[\\\"Historic landmark\\\",\\\"Exhibitions\\\"],\\\"timestamp\\\":1794045677324,\\\"zoneName\\\":\\\"Tian'anmen Square and Wangfujing Area\\\"}\"}",
+            "id": "75595",
+            "type": "poi",
+            "currency": "USD",
+            "categoryLevel1": "",
+            "categoryLevel2": "",
+            "isSupportFavorite": true,
+            "pageId": "10650012671",
+            "districtId": "228",
+            "extParams": "",
+            "metricInfo": {
+             "ppagetab": "all",
+             "pagetab": "AllTicket",
+             "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+             "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+             "filtervalue": "",
+             "isfilter": 0
+            },
+            "abVersionMap": {
+             "250428_VAC_cardinfo": "C",
+             "260519_VAC_kpjz": "B",
+             "260821_VAC_Tmstg": ""
+            },
+            "pkgp": 3,
+            "isLast": false
+           }
+          },
+          {
+           "type": "poi",
+           "data": {
+            "jsonStr": "{\"cardConfig\":\"{\\\"favoriteConfig\\\":{\\\"favoriteMode\\\":\\\"full\\\",\\\"position\\\":\\\"onImg\\\"},\\\"openStatusConfig\\\":{\\\"isDuringTour\\\":false,\\\"position\\\":\\\"onImg\\\"},\\\"commentConfig\\\":{\\\"hideTa\\\":false},\\\"priceConfig\\\":{\\\"priceMode\\\":\\\"normal\\\",\\\"priceShowFields\\\":[\\\"price\\\",\\\"underlinedPrice\\\",\\\"priceTag\\\",\\\"discountIntensity\\\",\\\"cardCountDesc\\\"]},\\\"tagListConfig\\\":{\\\"ignoreTypeList\\\":[]},\\\"showFields\\\":[\\\"base\\\",\\\"isJumpActivityDetail\\\",\\\"timeStamp\\\",\\\"districtName\\\",\\\"subTitleName\\\",\\\"enName\\\",\\\"introduction\\\",\\\"hotScore\\\",\\\"comment\\\",\\\"taComment\\\",\\\"feedback\\\",\\\"coverImage\\\",\\\"hasVideo\\\",\\\"ranking\\\",\\\"tagNameList\\\",\\\"marketingTag\\\",\\\"otherTagList\\\",\\\"priceInfo\\\",\\\"cardCountDesc\\\",\\\"openStatus\\\",\\\"distance\\\",\\\"sceneDescription\\\",\\\"matchInfo\\\",\\\"hotEvent\\\",\\\"favorite\\\",\\\"nearBy\\\",\\\"isInsertPoi\\\",\\\"isAdvertisement\\\",\\\"isRecommend\\\",\\\"actor\\\",\\\"parentPoi\\\",\\\"concertSaleStatusInfo\\\"]}\",\"data\":\"{\\\"abtestMap\\\":{\\\"260519_VAC_kpjz\\\":\\\"B\\\"},\\\"address\\\":\\\"75001 Paris, France\\\",\\\"businessId\\\":12908,\\\"commentInfo\\\":{\\\"commentCount\\\":10347,\\\"commentScore\\\":4.7,\\\"taCommentCount\\\":104661,\\\"taCommentUrl\\\":\\\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-64229-4.png\\\"},\\\"coordinate\\\":{\\\"coordinateType\\\":\\\"WGS84\\\",\\\"latitude\\\":48.860611,\\\"longitude\\\":2.337644},\\\"coverImageCenterCropParam\\\":{\\\"height\\\":2600,\\\"width\\\":4624},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":2600,\\\"offset\\\":[0,0],\\\"rect\\\":[578,0,4046,2600],\\\"width\\\":4624},\\\"coverImageList\\\":[{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":2600,\\\"width\\\":4624},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":2600,\\\"offset\\\":[0,0],\\\"rect\\\":[578,0,4046,2600],\\\"width\\\":4624},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100t0p000000fiqix4C01.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100t0p000000fiqix4C01.jpg\\\"},{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1333,\\\"width\\\":2000},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/350t1b000001b4z4vD0CB.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/350t1b000001b4z4vD0CB.jpg\\\"}],\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100t0p000000fiqix4C01.jpg\\\",\\\"detailUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/paris/louvre-museum-78773?curr=USD&locale=en-XX&poiType=3&scene=ticket\\\",\\\"distanceInfo\\\":{\\\"location\\\":\\\"France · Paris\\\"},\\\"districtId\\\":308,\\\"districtName\\\":\\\"Paris\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100t0p000000fiqix4C01.jpg\\\",\\\"extendMap\\\":[{\\\"key\\\":\\\"ticketMetricMsg\\\",\\\"value\\\":\\\"{\\\\\\\"showContestSaleStatus\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"tags\\\\\\\":[],\\\\\\\"resId\\\\\\\":\\\\\\\"102920880\\\\\\\",\\\\\\\"sale\\\\\\\":39.02,\\\\\\\"disc\\\\\\\":0,\\\\\\\"date\\\\\\\":\\\\\\\"2026-11-13\\\\\\\",\\\\\\\"source\\\\\\\":\\\\\\\"cct.poi.card.info\\\\\\\",\\\\\\\"messageId\\\\\\\":\\\\\\\"100023736-0a8ebfba-498346-183287\\\\\\\"}\\\"}],\\\"fPoiJumpSightDetail\\\":false,\\\"favoriteInfo\\\":{\\\"favoriteId\\\":0,\\\"hasFavorited\\\":false,\\\"isActivityFavorite\\\":false},\\\"hasVideo\\\":false,\\\"highConcernPerformance\\\":\\\"\\\",\\\"hotScore\\\":\\\"10\\\",\\\"introduction\\\":\\\"Experience the charm of the filming locations for movies like \\\\\\\"The Louvre\\\\\\\" and \\\\\\\"The Da Vinci Code\\\\\\\".\\\\n• Appreciate the magnificent presentation of the treasures of ancient Greek, Roman, and Egyptian civilizations here.\\\\n• Visit the giant glass pyramid that combines classical palace and modern architectural styles.\\\\nThe Louvre was founded in 1204. This castle underwent several expansions and was converted into a museum after the French Revolution. The museum's collection encompasses art treasures from ancient Egypt, ancient Greece, ancient Rome, and various periods of Europe. The collection is quantity, and only a small portion is usually on display, yet it already constitutes an art journey spanning thousands of years.\\\\nThe museum boasts numerous treasures, among which the \\\\\\\"Three Treasures of the Louvre\\\\\\\" are most famous: the Venus de Milo, the Mona Lisa, and the Winged Victory of Samothrace.\\\\n△The marble of the Venus de Milos is so pure and white, yet so moving.\\\\nIs it Aphrodite? Or Amphitrite?\\\\nWhen the Venus de Milo was brought to the museum, the art restorers' first thought was to restore Venus's missing arms. However, in order to avoid distorting the work's authenticity, they ultimately abandoned this idea.\\\\nThe missing arms pose a significant challenge to identifying the figure in the statue. In ancient Greek art, the identification of deities is typically based on the objects held or iconic elements. Initially, there were many questions regarding the goddess's identity. Could she be Amphitrite, the sea goddess particularly revered on the island of Milos? Or, as her semi-nude, sensual body suggests, could she be Aphrodite, the goddess of beauty? The fact that she wore jewelry tilts the scales of identification towards Aphrodite, the Venus of Roman mythology. Later, near the statue's excavation site, a hand holding an apple was discovered—an element in the artistic depiction of Venus, and moreover, the hand sculpted with the apple is made of the same Paros marble as the statue.\\\\n△ For centuries, Mona Lisa's famous enigmatic smile has captivated and inspired countless sighs. Mona Lisa gazes upon the viewer with her legendary smile, behind her a beautiful natural landscape stretching into the distance.\\\\nThe Mona Lisa painting theft of the century\\\\nOn August 21, 1911, panic gripped the museum! The Mona Lisa had vanished! Newspapers across the country published reports and offered a reward for its discovery. For over two years, the Mona Lisa remained untraceable. Then one day, an Italian art dealer contacted the authorities, and someone had delivered the famous painting, sought by the entire world, to him! The visitor was Vincenzo Perugia, a glass craftsman who had previously worked at the museum. The Mona Lisa was recovered, and her fame soared even higher.\\\\n△The Winged Victory of Samothrace appears to float in mid-air, its form light and graceful. Originally offered as a tribute to the gods, it stood high in a temple on the Greek island of Samothrace, just as it now stands atop the Daru Steps. The statue depicts the moment when the winged goddess Nike, the goddess of victory, descends upon the bow of a ship.\\\\n\\\\\\\"Clubbing Hall Star\\\\\\\"\\\\nWhen the Winged Victory of Samothrace was installed on the Daru Steps in 1883, the background decorations designed for it were far more elaborate than they are today, with the dome covered in glittering mosaic patterns. However, these decorations failed to win favor, with some critics even comparing the Winged Victory to a cabaret star. Finally, in 1934, faux stone wallpaper covered the original decorations, creating a solemn and elegant atmosphere.\\\",\\\"isActivityPoi\\\":false,\\\"isAdvertisement\\\":false,\\\"isInsertPoi\\\":false,\\\"isJumpActivityDetail\\\":false,\\\"isNearBy\\\":false,\\\"isRecommend\\\":false,\\\"isTopSort\\\":false,\\\"nameNotMatchLocale\\\":false,\\\"openTimeDesc\\\":\\\"Open: 9:00 AM–6:00 PM(Admission ends at 5:00 PM)\\\",\\\"playSpendTime\\\":\\\"Duration:3–5 hours\\\",\\\"poiEName\\\":\\\"Louvre Museum\\\",\\\"poiId\\\":78773,\\\"poiName\\\":\\\"Louvre Museum\\\",\\\"poiSubtitleName\\\":\\\"Musée du Louvre\\\",\\\"poiType\\\":3,\\\"priceInfo\\\":{\\\"marketPrice\\\":\\\"0\\\",\\\"preferentialPrice\\\":\\\"0\\\",\\\"price\\\":\\\"39.02\\\",\\\"priceInt\\\":\\\"39.02\\\",\\\"priceType\\\":\\\"2\\\",\\\"salesVolumeDesc\\\":\\\"83k+ booked\\\"},\\\"rankingInfo\\\":{\\\"rankDesc\\\":\\\"2026  Global 100 - Best Things to Do\\\",\\\"rankingCategory\\\":2,\\\"recommendReason\\\":\\\"Wander through the Louvre's galleries and admire its art treasures\\\"},\\\"tagNameList\\\":[\\\"Historic landmark\\\",\\\"Night view\\\"],\\\"timestamp\\\":1794045677324}\"}",
+            "id": "78773",
+            "type": "poi",
+            "currency": "USD",
+            "categoryLevel1": "",
+            "categoryLevel2": "",
+            "isSupportFavorite": true,
+            "pageId": "10650012671",
+            "districtId": "228",
+            "extParams": "",
+            "metricInfo": {
+             "ppagetab": "all",
+             "pagetab": "AllTicket",
+             "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+             "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+             "filtervalue": "",
+             "isfilter": 0
+            },
+            "abVersionMap": {
+             "250428_VAC_cardinfo": "C",
+             "260519_VAC_kpjz": "B",
+             "260821_VAC_Tmstg": ""
+            },
+            "pkgp": 4,
+            "isLast": false
+           }
+          },
+          {
+           "type": "poi",
+           "data": {
+            "jsonStr": "{\"cardConfig\":\"{\\\"favoriteConfig\\\":{\\\"favoriteMode\\\":\\\"full\\\",\\\"position\\\":\\\"onImg\\\"},\\\"openStatusConfig\\\":{\\\"isDuringTour\\\":false,\\\"position\\\":\\\"onImg\\\"},\\\"commentConfig\\\":{\\\"hideTa\\\":false},\\\"priceConfig\\\":{\\\"priceMode\\\":\\\"normal\\\",\\\"priceShowFields\\\":[\\\"price\\\",\\\"underlinedPrice\\\",\\\"priceTag\\\",\\\"discountIntensity\\\",\\\"cardCountDesc\\\"]},\\\"tagListConfig\\\":{\\\"ignoreTypeList\\\":[]},\\\"showFields\\\":[\\\"base\\\",\\\"isJumpActivityDetail\\\",\\\"timeStamp\\\",\\\"districtName\\\",\\\"subTitleName\\\",\\\"enName\\\",\\\"introduction\\\",\\\"hotScore\\\",\\\"comment\\\",\\\"taComment\\\",\\\"feedback\\\",\\\"coverImage\\\",\\\"hasVideo\\\",\\\"ranking\\\",\\\"tagNameList\\\",\\\"marketingTag\\\",\\\"otherTagList\\\",\\\"priceInfo\\\",\\\"cardCountDesc\\\",\\\"openStatus\\\",\\\"distance\\\",\\\"sceneDescription\\\",\\\"matchInfo\\\",\\\"hotEvent\\\",\\\"favorite\\\",\\\"nearBy\\\",\\\"isInsertPoi\\\",\\\"isAdvertisement\\\",\\\"isRecommend\\\",\\\"actor\\\",\\\"parentPoi\\\",\\\"concertSaleStatusInfo\\\"]}\",\"data\":\"{\\\"abtestMap\\\":{\\\"260519_VAC_kpjz\\\":\\\"B\\\"},\\\"address\\\":\\\"Place d'Armes, 78000 Versailles, France\\\",\\\"businessId\\\":12900,\\\"commentInfo\\\":{\\\"commentCount\\\":3782,\\\"commentScore\\\":4.7,\\\"taCommentCount\\\":28279,\\\"taCommentUrl\\\":\\\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-64229-4.png\\\"},\\\"coordinate\\\":{\\\"coordinateType\\\":\\\"WGS84\\\",\\\"latitude\\\":48.804865,\\\"longitude\\\":2.120355},\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1667,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1667,\\\"offset\\\":[0,0],\\\"rect\\\":[625,0,1875,1667],\\\"width\\\":2500},\\\"coverImageList\\\":[{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1667,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1667,\\\"offset\\\":[0,0],\\\"rect\\\":[625,0,1875,1667],\\\"width\\\":2500},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0100212000ipt8ibt6715.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0100212000ipt8ibt6715.jpg\\\"},{\\\"coverImageCenterCropParam\\\":{\\\"cropHeight\\\":1255,\\\"cropWidth\\\":2000,\\\"height\\\":1335,\\\"operation\\\":\\\"manual\\\",\\\"width\\\":2000,\\\"x\\\":1000,\\\"y\\\":708},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0106612000f6t2np3E788.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0106612000f6t2np3E788.jpg\\\"}],\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0100212000ipt8ibt6715.jpg\\\",\\\"detailUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/versailles/palace-of-versailles-78771?curr=USD&locale=en-XX&poiType=3&scene=ticket\\\",\\\"distanceInfo\\\":{\\\"location\\\":\\\"France · Versailles\\\"},\\\"districtId\\\":11305,\\\"districtName\\\":\\\"Versailles\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0100212000ipt8ibt6715.jpg\\\",\\\"extendMap\\\":[{\\\"key\\\":\\\"ticketMetricMsg\\\",\\\"value\\\":\\\"{\\\\\\\"showContestSaleStatus\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"tags\\\\\\\":[{\\\\\\\"code\\\\\\\":\\\\\\\"TodayCanBook\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for today\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"TodayEnter\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for today\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"TomorrowCanBook\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for tomorrow\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"ReadyToUse\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Immediate access\\\\\\\",\\\\\\\"extraList\\\\\\\":[]}],\\\\\\\"resId\\\\\\\":\\\\\\\"103157422\\\\\\\",\\\\\\\"sale\\\\\\\":16.73,\\\\\\\"disc\\\\\\\":1.34,\\\\\\\"date\\\\\\\":\\\\\\\"2026-11-07\\\\\\\",\\\\\\\"source\\\\\\\":\\\\\\\"cct.poi.card.info\\\\\\\",\\\\\\\"messageId\\\\\\\":\\\\\\\"100023736-0a8ebfba-498346-183287\\\\\\\"}\\\"}],\\\"fPoiJumpSightDetail\\\":false,\\\"favoriteInfo\\\":{\\\"favoriteId\\\":0,\\\"hasFavorited\\\":false,\\\"isActivityFavorite\\\":false},\\\"hasVideo\\\":false,\\\"highConcernPerformance\\\":\\\"\\\",\\\"hotEventInfo\\\":{\\\"name\\\":\\\"Equestrian Academy of Versailles Show: La Voie de lÉcuyère\\\",\\\"recommendText\\\":\\\"687.9k watching\\\"},\\\"hotScore\\\":\\\"10\\\",\\\"introduction\\\":\\\"·Admire the ornate and imaginative architectural design of the Palace of Versailles\\\\n·Step into one of Europe's beautiful palace gardens and encounter forests, flower-lined paths, greenhouses, colonnades, temples, a village, and numerous marble statues scattered throughout\\\\n·Don't miss the Hall of Abundance, the Hall of Mars, the Hall of Peace, the Chapel, the Theater, and the King's and Queen's State Apartments.\\\\nThe Palace of Versailles was built during the reign of Louis XIV of France (1643-1715) and consists of the main palace castle, the gardens, the Grand Trianon, the Petit Trianon, and the Queen's Hamlet of Marie Antoinette. On the first floor of the Palace of Versailles, there are the suites of the Dauphin and princesses, the chapel, and the palace history gallery. Its main views are concentrated on the second floor of the main building and in the gardens.\\\\nGrand Trianon: Although it is much plainer than the main palace castle, it is the most elegant and refined of all the buildings in the Palace of Versailles. This palace, which is heavily influenced by Italian architectural styles, has only one floor. It is situated between courtyards and gardens, and is covered with a flat roof surrounded by a balustrade.\\\\nPetit Trianon: This is a typical classical-style building, featuring a studio, bedroom, dressing room, and more.\\\\nThe Queen's Grove: The layout here reveals the Queen's wide-ranging interests and elegant taste, far from the extravagance of Versailles and not without traces of Enlightenment thought.\\\\n△ The garden is bisected by a central east-west axis, with flowerbeds, tree-lined avenues, pools, and several fountains arranged on either side. Among them, the Latona Fountain and the Apollo Fountain lie on the central axis, featuring exquisite sculptures.\\\\n△ The palace was decorated magnificently, with colorful marble walls dazzling to the eye and giant crystal chandeliers cascading down like waterfalls.\\\\n△ The inner walls and dome are covered with murals, and the mythological stories depicted are so vivid that they seem to recount the glorious military achievements of the kings of the past.\\\",\\\"isActivityPoi\\\":false,\\\"isAdvertisement\\\":false,\\\"isInsertPoi\\\":false,\\\"isJumpActivityDetail\\\":false,\\\"isNearBy\\\":false,\\\"isRecommend\\\":false,\\\"isTopSort\\\":false,\\\"nameNotMatchLocale\\\":false,\\\"openTimeDesc\\\":\\\"Open: 9:00 AM–5:30 PM(Tickets available until 4:30 PM. Admission ends at 4:45 PM)\\\",\\\"otherTagList\\\":[{\\\"code\\\":\\\"ReadyToUse\\\",\\\"name\\\":\\\"Immediate access\\\",\\\"type\\\":\\\"booking\\\"},{\\\"code\\\":\\\"TodayCanBook\\\",\\\"name\\\":\\\"Book now for today\\\",\\\"type\\\":\\\"booking\\\"}],\\\"playSpendTime\\\":\\\"Duration:0.5–1 day\\\",\\\"poiEName\\\":\\\"Palace of Versailles\\\",\\\"poiId\\\":78771,\\\"poiName\\\":\\\"Palace of Versailles\\\",\\\"poiSubtitleName\\\":\\\"Château de Versailles\\\",\\\"poiType\\\":3,\\\"priceInfo\\\":{\\\"discountIntensity\\\":\\\"8% off\\\",\\\"marketPrice\\\":\\\"0\\\",\\\"preferentialPrice\\\":\\\"1.34\\\",\\\"price\\\":\\\"15.39\\\",\\\"priceInt\\\":\\\"15.39\\\",\\\"priceType\\\":\\\"2\\\",\\\"salesVolumeDesc\\\":\\\"43k+ booked\\\",\\\"shelfPopoverData\\\":\\\"{\\\\\\\"minPriceResourceId\\\\\\\":103157422,\\\\\\\"displayPriceType\\\\\\\":\\\\\\\"2\\\\\\\",\\\\\\\"displayPrice\\\\\\\":15.39,\\\\\\\"displayPriceInt\\\\\\\":\\\\\\\"15.39\\\\\\\",\\\\\\\"preferentialAmount\\\\\\\":1.34,\\\\\\\"salePrice\\\\\\\":16.73,\\\\\\\"marketPrice\\\\\\\":0,\\\\\\\"marketOriginPrice\\\\\\\":0,\\\\\\\"marketPriceCurrency\\\\\\\":\\\\\\\"USD\\\\\\\",\\\\\\\"marketOriginPriceCurrency\\\\\\\":\\\\\\\"CNY\\\\\\\",\\\\\\\"peoplePropertyName\\\\\\\":\\\\\\\"Adult\\\\\\\",\\\\\\\"costPrice\\\\\\\":14.54819,\\\\\\\"underLinedPrice\\\\\\\":16.73,\\\\\\\"underLinedPriceInt\\\\\\\":\\\\\\\"16.73\\\\\\\",\\\\\\\"discountIntensity\\\\\\\":0.08,\\\\\\\"discountType\\\\\\\":2,\\\\\\\"promotions\\\\\\\":[{\\\\\\\"type\\\\\\\":1,\\\\\\\"reductionMode\\\\\\\":1,\\\\\\\"minustype\\\\\\\":1,\\\\\\\"promotionstatus\\\\\\\":0,\\\\\\\"amount\\\\\\\":1.34,\\\\\\\"descriptions\\\\\\\":[\\\\\\\"8% off\\\\\\\"],\\\\\\\"extInfos\\\\\\\":[]}],\\\\\\\"descInfoList\\\\\\\":[{\\\\\\\"type\\\\\\\":0,\\\\\\\"desc\\\\\\\":\\\\\\\"The discount starting price applies to the following: Palace of Versailles (Palace+Estate of Trianon+the Gardens)1-Day Passport (Without Shows) Afternoon Entry Ticket-15:30 for Nov 7. Prices may vary by option and date.\\\\\\\"},{\\\\\\\"type\\\\\\\":0,\\\\\\\"desc\\\\\\\":\\\\\\\"The available discount varies depending on the selected date, Event time, and other options. The exact discount amount will be displayed on the payment page\\\\\\\"}]}\\\",\\\"underlinedPrice\\\":\\\"16.73\\\",\\\"underlinedPriceInt\\\":\\\"16.73\\\"},\\\"rankingInfo\\\":{\\\"rankDesc\\\":\\\"2026  Global 100 - Best Things to Do\\\",\\\"rankingCategory\\\":2,\\\"recommendReason\\\":\\\"The summer music fountain show is endlessly captivating\\\"},\\\"tagNameList\\\":[\\\"Historic landmark\\\",\\\"Night view\\\"],\\\"timestamp\\\":1794045677324}\"}",
+            "id": "78771",
+            "type": "poi",
+            "currency": "USD",
+            "categoryLevel1": "",
+            "categoryLevel2": "",
+            "isSupportFavorite": true,
+            "pageId": "10650012671",
+            "districtId": "228",
+            "extParams": "",
+            "metricInfo": {
+             "ppagetab": "all",
+             "pagetab": "AllTicket",
+             "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+             "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+             "filtervalue": "",
+             "isfilter": 0
+            },
+            "abVersionMap": {
+             "250428_VAC_cardinfo": "C",
+             "260519_VAC_kpjz": "B",
+             "260821_VAC_Tmstg": ""
+            },
+            "pkgp": 5,
+            "isLast": false
+           }
+          },
+          {
+           "type": "poi",
+           "data": {
+            "jsonStr": "{\"cardConfig\":\"{\\\"favoriteConfig\\\":{\\\"favoriteMode\\\":\\\"full\\\",\\\"position\\\":\\\"onImg\\\"},\\\"openStatusConfig\\\":{\\\"isDuringTour\\\":false,\\\"position\\\":\\\"onImg\\\"},\\\"commentConfig\\\":{\\\"hideTa\\\":false},\\\"priceConfig\\\":{\\\"priceMode\\\":\\\"normal\\\",\\\"priceShowFields\\\":[\\\"price\\\",\\\"underlinedPrice\\\",\\\"priceTag\\\",\\\"discountIntensity\\\",\\\"cardCountDesc\\\"]},\\\"tagListConfig\\\":{\\\"ignoreTypeList\\\":[]},\\\"showFields\\\":[\\\"base\\\",\\\"isJumpActivityDetail\\\",\\\"timeStamp\\\",\\\"districtName\\\",\\\"subTitleName\\\",\\\"enName\\\",\\\"introduction\\\",\\\"hotScore\\\",\\\"comment\\\",\\\"taComment\\\",\\\"feedback\\\",\\\"coverImage\\\",\\\"hasVideo\\\",\\\"ranking\\\",\\\"tagNameList\\\",\\\"marketingTag\\\",\\\"otherTagList\\\",\\\"priceInfo\\\",\\\"cardCountDesc\\\",\\\"openStatus\\\",\\\"distance\\\",\\\"sceneDescription\\\",\\\"matchInfo\\\",\\\"hotEvent\\\",\\\"favorite\\\",\\\"nearBy\\\",\\\"isInsertPoi\\\",\\\"isAdvertisement\\\",\\\"isRecommend\\\",\\\"actor\\\",\\\"parentPoi\\\",\\\"concertSaleStatusInfo\\\"]}\",\"data\":\"{\\\"abtestMap\\\":{\\\"260519_VAC_kpjz\\\":\\\"B\\\"},\\\"address\\\":\\\"Sultan Ahmet, Ayasofya Meydanı No:1, 34122 Fatih/İstanbul, Türkiye\\\",\\\"businessId\\\":18563,\\\"commentInfo\\\":{\\\"commentCount\\\":3960,\\\"commentScore\\\":4.7,\\\"taCommentCount\\\":46163,\\\"taCommentUrl\\\":\\\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-64229-4.png\\\"},\\\"coordinate\\\":{\\\"coordinateType\\\":\\\"WGS84\\\",\\\"latitude\\\":41.008583,\\\"longitude\\\":28.980175},\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1508,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1508,\\\"offset\\\":[-4,78],\\\"rect\\\":[88,164,2405,1500],\\\"width\\\":2500},\\\"coverImageList\\\":[{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1508,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1508,\\\"offset\\\":[-4,78],\\\"rect\\\":[88,164,2405,1500],\\\"width\\\":2500},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0103j12000ubsgckk9264.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0103j12000ubsgckk9264.jpg\\\"},{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":5137,\\\"width\\\":7706},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/1lo4y12000s5h6jgi0F67.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/1lo4y12000s5h6jgi0F67.jpg\\\"}],\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0103j12000ubsgckk9264.jpg\\\",\\\"detailUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/istanbul/hagia-sophia-80382?curr=USD&locale=en-XX&poiType=3&scene=ticket\\\",\\\"distanceInfo\\\":{\\\"location\\\":\\\"Türkiye · Istanbul\\\"},\\\"districtId\\\":258,\\\"districtName\\\":\\\"Istanbul\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0103j12000ubsgckk9264.jpg\\\",\\\"extendMap\\\":[{\\\"key\\\":\\\"ticketMetricMsg\\\",\\\"value\\\":\\\"{\\\\\\\"showContestSaleStatus\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"tags\\\\\\\":[{\\\\\\\"code\\\\\\\":\\\\\\\"TodayCanBook\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for today\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"TodayEnter\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for today\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"TomorrowCanBook\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for tomorrow\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"ReadyToUse\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Immediate access\\\\\\\",\\\\\\\"extraList\\\\\\\":[]}],\\\\\\\"resId\\\\\\\":\\\\\\\"64945393\\\\\\\",\\\\\\\"sale\\\\\\\":32.89,\\\\\\\"disc\\\\\\\":0,\\\\\\\"date\\\\\\\":\\\\\\\"2026-11-07\\\\\\\",\\\\\\\"source\\\\\\\":\\\\\\\"cct.poi.card.info\\\\\\\",\\\\\\\"messageId\\\\\\\":\\\\\\\"100023736-0a8ebfba-498346-183287\\\\\\\"}\\\"}],\\\"fPoiJumpSightDetail\\\":false,\\\"favoriteInfo\\\":{\\\"favoriteId\\\":0,\\\"hasFavorited\\\":false,\\\"isActivityFavorite\\\":false},\\\"hasVideo\\\":false,\\\"highConcernPerformance\\\":\\\"\\\",\\\"hotEventInfo\\\":{\\\"name\\\":\\\"Turkey's Winter Magic: Christmas & New Year's Attractions\\\"},\\\"hotScore\\\":\\\"10\\\",\\\"introduction\\\":\\\"Hagia Sophia faces the Blue Mosque across the street. It was originally the main cathedral of the Byzantine Empire in the 6th century AD, and was converted into a mosque in 1453 after the Ottoman Empire conquered Constantinople. This building blends the cultural imprints of both Byzantine and Islamic traditions and is one of Istanbul's landmark structures. Externally, the iconic great dome and four minarets added in different periods are visible; in front of the entrance stands an ablution fountain, beside which rises a stone column carved with patterns at its top. Passing through nine doors from the inner narthex leads into the central hall, where the central \\\\\\\"Imperial Door\\\\\\\" was once used by Byzantine emperors and empresses, and above the door is a mosaic depicting an emperor prostrate before Christ. The floor and walls of the hall's interior are adorned with polychrome marble, with windows at varying heights and low-hanging chandeliers modulating the light, creating an extraordinarily grand sense of space beneath the lofty dome. The pendentives of the dome retain Byzantine-era mosaics of six-winged seraphim, one of whose faces was revealed after restoration while the others remain covered by golden star ornaments. On the semi-dome of the apse is a 9th-century mosaic of the Virgin and Child, looking down from above. Between the columns of the nave hang eight giant circular discs with gold Arabic calligraphy on a black background, bearing the names of Allah, the Prophet Muhammad, the four caliphs, and Muhammad's two grandsons, added as Islamic decorative elements during the Ottoman period. Toward the altar is the mihrab (prayer niche) oriented toward Mecca, with the minbar (pulpit) to its right, and in the floor beneath the central dome is embedded a marble disc called the \\\\\\\"Omphalion,\\\\\\\" the site of Byzantine emperors' coronations. A ramp at the end of the corridor beside the hall leads up to the second-floor gallery, which was once the place of worship for dignitaries and women of the court. The gallery walls preserve numerous Byzantine mosaics, among which the Deesis mosaic depicting Christ with the Virgin Mary and St. John the Baptist is highly acclaimed. On the right side of the gallery is the \\\\\\\"Empress's Box,\\\\\\\" directly above the ground-floor \\\\\\\"Imperial Door.\\\\\\\" Standing on the second floor overlooking the entire hall, one can better appreciate the magnificent design of the domed space; the junctions of capitals, column bases, and shafts are adorned with vivid patterns on gold and blue grounds, finely carved.\\\",\\\"isActivityPoi\\\":false,\\\"isAdvertisement\\\":false,\\\"isInsertPoi\\\":false,\\\"isJumpActivityDetail\\\":false,\\\"isNearBy\\\":false,\\\"isRecommend\\\":false,\\\"isTopSort\\\":false,\\\"nameNotMatchLocale\\\":false,\\\"openTimeDesc\\\":\\\"Open: 9:00 AM–5:00 PM(Admission ends at 4:30 PM)\\\",\\\"otherTagList\\\":[{\\\"code\\\":\\\"ReadyToUse\\\",\\\"name\\\":\\\"Immediate access\\\",\\\"type\\\":\\\"booking\\\"},{\\\"code\\\":\\\"TodayCanBook\\\",\\\"name\\\":\\\"Book now for today\\\",\\\"type\\\":\\\"booking\\\"}],\\\"parentPoiInfo\\\":{\\\"poiId\\\":98458,\\\"businessId\\\":137039,\\\"poiType\\\":3,\\\"poiName\\\":\\\"Historic Areas of Istanbul\\\",\\\"poiAddress\\\":\\\"Binbirdirek, Sultan Ahmet Parkı, 34122 Fatih/İstanbul, Türkiye\\\",\\\"detailUrl\\\":{\\\"appUrl\\\":\\\"/rn_ibu_traveling/_crn_config?CRNModuleName=RN_Product_IBU_Traveling&CRNType=1&transparentstatusbar=1&initialPage=POIDetail&sightId=98458&poiType=3\\\",\\\"newAppUrl\\\":\\\"/rn_ibu_traveling/_crn_config?CRNModuleName=RN_Product_IBU_Traveling&CRNType=1&transparentstatusbar=1&initialPage=POIDetail&sightId=98458&poiType=3\\\",\\\"h5Url\\\":\\\"https://www.trip.com/travel-guide/attraction/istanbul/historic-areas-of-istanbul-98458?curr=USD&locale=en-US&poiType=3\\\",\\\"onlineUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/istanbul/historic-areas-of-istanbul-98458?curr=USD&locale=en-US&poiType=3\\\",\\\"alipayUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/istanbul/historic-areas-of-istanbul-98458?curr=USD&locale=en-US&poiType=3\\\"}},\\\"playSpendTime\\\":\\\"Duration:1–3 hours\\\",\\\"poiEName\\\":\\\"Hagia Sophia\\\",\\\"poiId\\\":80382,\\\"poiName\\\":\\\"Hagia Sophia\\\",\\\"poiSubtitleName\\\":\\\"Ayasofya-i Kebir Cami-i Şerifi\\\",\\\"poiType\\\":3,\\\"priceInfo\\\":{\\\"marketPrice\\\":\\\"0\\\",\\\"preferentialPrice\\\":\\\"0\\\",\\\"price\\\":\\\"32.89\\\",\\\"priceInt\\\":\\\"32.89\\\",\\\"priceType\\\":\\\"2\\\",\\\"salesVolumeDesc\\\":\\\"16k+ booked\\\"},\\\"rankingInfo\\\":{\\\"rankDesc\\\":\\\"2026  Global 100 - Best Things to Do\\\",\\\"rankingCategory\\\":2,\\\"recommendReason\\\":\\\"Byzantine murals & balcony view\\\"},\\\"tagNameList\\\":[\\\"Historic landmark\\\",\\\"Night view\\\"],\\\"timestamp\\\":1794045677324,\\\"zoneName\\\":\\\"Old City Sultanahmet\\\"}\"}",
+            "id": "80382",
+            "type": "poi",
+            "currency": "USD",
+            "categoryLevel1": "",
+            "categoryLevel2": "",
+            "isSupportFavorite": true,
+            "pageId": "10650012671",
+            "districtId": "228",
+            "extParams": "",
+            "metricInfo": {
+             "ppagetab": "all",
+             "pagetab": "AllTicket",
+             "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+             "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+             "filtervalue": "",
+             "isfilter": 0
+            },
+            "abVersionMap": {
+             "250428_VAC_cardinfo": "C",
+             "260519_VAC_kpjz": "B",
+             "260821_VAC_Tmstg": ""
+            },
+            "pkgp": 6,
+            "isLast": false
+           }
+          },
+          {
+           "type": "poi",
+           "data": {
+            "jsonStr": "{\"cardConfig\":\"{\\\"favoriteConfig\\\":{\\\"favoriteMode\\\":\\\"full\\\",\\\"position\\\":\\\"onImg\\\"},\\\"openStatusConfig\\\":{\\\"isDuringTour\\\":false,\\\"position\\\":\\\"onImg\\\"},\\\"commentConfig\\\":{\\\"hideTa\\\":false},\\\"priceConfig\\\":{\\\"priceMode\\\":\\\"normal\\\",\\\"priceShowFields\\\":[\\\"price\\\",\\\"underlinedPrice\\\",\\\"priceTag\\\",\\\"discountIntensity\\\",\\\"cardCountDesc\\\"]},\\\"tagListConfig\\\":{\\\"ignoreTypeList\\\":[]},\\\"showFields\\\":[\\\"base\\\",\\\"isJumpActivityDetail\\\",\\\"timeStamp\\\",\\\"districtName\\\",\\\"subTitleName\\\",\\\"enName\\\",\\\"introduction\\\",\\\"hotScore\\\",\\\"comment\\\",\\\"taComment\\\",\\\"feedback\\\",\\\"coverImage\\\",\\\"hasVideo\\\",\\\"ranking\\\",\\\"tagNameList\\\",\\\"marketingTag\\\",\\\"otherTagList\\\",\\\"priceInfo\\\",\\\"cardCountDesc\\\",\\\"openStatus\\\",\\\"distance\\\",\\\"sceneDescription\\\",\\\"matchInfo\\\",\\\"hotEvent\\\",\\\"favorite\\\",\\\"nearBy\\\",\\\"isInsertPoi\\\",\\\"isAdvertisement\\\",\\\"isRecommend\\\",\\\"actor\\\",\\\"parentPoi\\\",\\\"concertSaleStatusInfo\\\"]}\",\"data\":\"{\\\"abtestMap\\\":{\\\"260519_VAC_kpjz\\\":\\\"B\\\"},\\\"address\\\":\\\"Esplanade Valéry Giscard d'Estaing, 75007 Paris, France\\\",\\\"businessId\\\":46716,\\\"commentInfo\\\":{\\\"commentCount\\\":5042,\\\"commentScore\\\":4.8,\\\"taCommentCount\\\":68005,\\\"taCommentUrl\\\":\\\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-64229-4.png\\\"},\\\"coordinate\\\":{\\\"coordinateType\\\":\\\"WGS84\\\",\\\"latitude\\\":48.859961,\\\"longitude\\\":2.326561},\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1875,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1875,\\\"offset\\\":[30,-230],\\\"rect\\\":[60,150,2500,1266],\\\"width\\\":2500},\\\"coverImageList\\\":[{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1875,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1875,\\\"offset\\\":[30,-230],\\\"rect\\\":[60,150,2500,1266],\\\"width\\\":2500},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0101112000ubru7ys974A.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0101112000ubru7ys974A.jpg\\\"},{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1667,\\\"width\\\":2500},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0105x12000ubs4fy663AA.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0105x12000ubs4fy663AA.jpg\\\"}],\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0101112000ubru7ys974A.jpg\\\",\\\"detailUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/paris/musee-d-orsay-82451?curr=USD&locale=en-XX&poiType=3&scene=ticket\\\",\\\"distanceInfo\\\":{\\\"location\\\":\\\"France · Paris\\\"},\\\"districtId\\\":308,\\\"districtName\\\":\\\"Paris\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0101112000ubru7ys974A.jpg\\\",\\\"extendMap\\\":[{\\\"key\\\":\\\"ticketMetricMsg\\\",\\\"value\\\":\\\"{\\\\\\\"showContestSaleStatus\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"tags\\\\\\\":[{\\\\\\\"code\\\\\\\":\\\\\\\"TomorrowCanBook\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for tomorrow\\\\\\\",\\\\\\\"extraList\\\\\\\":[]}],\\\\\\\"resId\\\\\\\":\\\\\\\"104398329\\\\\\\",\\\\\\\"sale\\\\\\\":14.5,\\\\\\\"disc\\\\\\\":0.73,\\\\\\\"date\\\\\\\":\\\\\\\"2026-11-12\\\\\\\",\\\\\\\"source\\\\\\\":\\\\\\\"cct.poi.card.info\\\\\\\",\\\\\\\"messageId\\\\\\\":\\\\\\\"100023736-0a8ebfba-498346-183287\\\\\\\"}\\\"}],\\\"fPoiJumpSightDetail\\\":false,\\\"favoriteInfo\\\":{\\\"favoriteId\\\":0,\\\"hasFavorited\\\":false,\\\"isActivityFavorite\\\":false},\\\"hasVideo\\\":false,\\\"highConcernPerformance\\\":\\\"\\\",\\\"hotEventInfo\\\":{\\\"name\\\":\\\"More Than Van Gogh: Reasons to Visit Musée d'Orsay\\\",\\\"recommendText\\\":\\\"674.9k watching\\\"},\\\"hotScore\\\":\\\"10\\\",\\\"introduction\\\":\\\"The Musee d'Orsay, hailed as the \\\\\\\"temple of Impressionism,\\\\\\\" offers visitors the chance to admire numerous Impressionist masterpieces by great artists and experience the magic of color and light. In the museum square, six bronze statues represent the six continents of the world; inside the museum, beneath the large glass dome, natural light pours through the glass onto each painting. Bathed in this natural light, one can more vividly experience the charm of the artworks and the creative passion of the artists.\\\\nThe palace of art, the holy land of \\\\\\\"Impressionism\\\\\\\"\\\\nAcross the river from the Louvre, the Musee d'Orsay houses a collection of approx. over 4,000 artworks, including a vast array of French art created between 1848 and 1914, spanning painting, sculpture, decorative arts, and photography. Its collection of Impressionist and Post-Impressionist paintings enjoys worldwide renown—masterpieces such as Monet's \\\\\\\"Gare Saint-Lazare,\\\\\\\" Renoir's \\\\\\\"Bal du moulin de la Galette,\\\\\\\" Van Gogh's \\\\\\\"Starry Night Over the Rhône,\\\\\\\" and Manet's \\\\\\\"Olympia\\\\\\\" are all displayed here. Locals often say that for art created before 1848, one should go to the Louvre, and for modern art after 1914, one should go to the Centre Pompidou—and this museum bridges the two periods perfectly.\\\\nStepping inside, traces of the former railway station are still faintly discernible. At the center of the ground-floor hall runs a sculpture promenade, with exhibition rooms on both sides mainly displaying paintings and sculptures from the mid-19th century. At the far end stands a large cutaway model of the Paris Opera (Palais Garnier), meticulously revealing the opera house's interior structure. Impressionist and Post-Impressionist paintings are concentrated on the top floor, converted from the hotel rooms on the upper level of the former railway station. The space feels more intimate, and the natural light from the south-facing skylights evokes the lighting conditions under which the painters created their works. Six bronze statues stand in the square, each representing one of the world's six continents—relics of the original 1878 Exposition Universelle.\\\\nGet a close-up view of the iconic clock at Musee d'Orsay\\\",\\\"isActivityPoi\\\":false,\\\"isAdvertisement\\\":false,\\\"isInsertPoi\\\":false,\\\"isJumpActivityDetail\\\":false,\\\"isNearBy\\\":false,\\\"isRecommend\\\":false,\\\"isTopSort\\\":false,\\\"nameNotMatchLocale\\\":false,\\\"openTimeDesc\\\":\\\"Open: 9:30 AM–6:00 PM(Admission ends at 5:00 PM)\\\",\\\"otherTagList\\\":[{\\\"code\\\":\\\"TomorrowCanBook\\\",\\\"name\\\":\\\"Book now for tomorrow\\\",\\\"type\\\":\\\"booking\\\"}],\\\"playSpendTime\\\":\\\"Duration:3–5 hours\\\",\\\"poiEName\\\":\\\"Musee d'Orsay\\\",\\\"poiId\\\":82451,\\\"poiName\\\":\\\"Musee d'Orsay\\\",\\\"poiSubtitleName\\\":\\\"Musée d'Orsay\\\",\\\"poiType\\\":3,\\\"priceInfo\\\":{\\\"discountDesc\\\":\\\"Save 0.73\\\",\\\"discountIntensity\\\":\\\"5% off\\\",\\\"discountPrice\\\":\\\"0.73\\\",\\\"marketPrice\\\":\\\"14.5\\\",\\\"preferentialPrice\\\":\\\"0.73\\\",\\\"price\\\":\\\"13.77\\\",\\\"priceInt\\\":\\\"13.77\\\",\\\"priceType\\\":\\\"2\\\",\\\"salesVolumeDesc\\\":\\\"69k+ booked\\\",\\\"shelfPopoverData\\\":\\\"{\\\\\\\"minPriceResourceId\\\\\\\":104398329,\\\\\\\"displayPriceType\\\\\\\":\\\\\\\"2\\\\\\\",\\\\\\\"displayPrice\\\\\\\":13.77,\\\\\\\"displayPriceInt\\\\\\\":\\\\\\\"13.77\\\\\\\",\\\\\\\"preferentialAmount\\\\\\\":0.73,\\\\\\\"salePrice\\\\\\\":14.5,\\\\\\\"marketPrice\\\\\\\":14.5,\\\\\\\"marketOriginPrice\\\\\\\":13.0000,\\\\\\\"marketPriceCurrency\\\\\\\":\\\\\\\"USD\\\\\\\",\\\\\\\"marketOriginPriceCurrency\\\\\\\":\\\\\\\"EUR\\\\\\\",\\\\\\\"peoplePropertyName\\\\\\\":\\\\\\\"Adult\\\\\\\",\\\\\\\"marketDiscountAmount\\\\\\\":0.73,\\\\\\\"costPrice\\\\\\\":13.11009,\\\\\\\"underLinedPrice\\\\\\\":14.5,\\\\\\\"underLinedPriceInt\\\\\\\":\\\\\\\"14.5\\\\\\\",\\\\\\\"discountIntensity\\\\\\\":0.05,\\\\\\\"discountType\\\\\\\":2,\\\\\\\"promotions\\\\\\\":[{\\\\\\\"type\\\\\\\":1,\\\\\\\"reductionMode\\\\\\\":1,\\\\\\\"minustype\\\\\\\":1,\\\\\\\"promotionstatus\\\\\\\":0,\\\\\\\"amount\\\\\\\":0.73,\\\\\\\"descriptions\\\\\\\":[\\\\\\\"5% off\\\\\\\"],\\\\\\\"extInfos\\\\\\\":[]}],\\\\\\\"descInfoList\\\\\\\":[{\\\\\\\"type\\\\\\\":0,\\\\\\\"desc\\\\\\\":\\\\\\\"The discount starting price applies to the following: Musee d'Orsay Thursdays Night Session Ticket(Fixed Timeslot, Limited to Thursdays after 18:00)-18:30 for Nov 12. Prices may vary by option and date.\\\\\\\"},{\\\\\\\"type\\\\\\\":0,\\\\\\\"desc\\\\\\\":\\\\\\\"The available discount varies depending on the selected date, Event time, and other options. The exact discount amount will be displayed on the payment page\\\\\\\"}]}\\\",\\\"underlinedPrice\\\":\\\"14.5\\\",\\\"underlinedPriceInt\\\":\\\"14.5\\\"},\\\"rankingInfo\\\":{\\\"rankDesc\\\":\\\"2026  Global 100 - Best Things to Do\\\",\\\"rankingCategory\\\":2,\\\"recommendReason\\\":\\\"Feel the magic of light and shadow in the Impressionist palace\\\"},\\\"tagNameList\\\":[\\\"Historic landmark\\\",\\\"Night view\\\"],\\\"timestamp\\\":1794045677324}\"}",
+            "id": "82451",
+            "type": "poi",
+            "currency": "USD",
+            "categoryLevel1": "",
+            "categoryLevel2": "",
+            "isSupportFavorite": true,
+            "pageId": "10650012671",
+            "districtId": "228",
+            "extParams": "",
+            "metricInfo": {
+             "ppagetab": "all",
+             "pagetab": "AllTicket",
+             "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+             "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+             "filtervalue": "",
+             "isfilter": 0
+            },
+            "abVersionMap": {
+             "250428_VAC_cardinfo": "C",
+             "260519_VAC_kpjz": "B",
+             "260821_VAC_Tmstg": ""
+            },
+            "pkgp": 7,
+            "isLast": false
+           }
+          },
+          {
+           "type": "poi",
+           "data": {
+            "jsonStr": "{\"cardConfig\":\"{\\\"favoriteConfig\\\":{\\\"favoriteMode\\\":\\\"full\\\",\\\"position\\\":\\\"onImg\\\"},\\\"openStatusConfig\\\":{\\\"isDuringTour\\\":false,\\\"position\\\":\\\"onImg\\\"},\\\"commentConfig\\\":{\\\"hideTa\\\":false},\\\"priceConfig\\\":{\\\"priceMode\\\":\\\"normal\\\",\\\"priceShowFields\\\":[\\\"price\\\",\\\"underlinedPrice\\\",\\\"priceTag\\\",\\\"discountIntensity\\\",\\\"cardCountDesc\\\"]},\\\"tagListConfig\\\":{\\\"ignoreTypeList\\\":[]},\\\"showFields\\\":[\\\"base\\\",\\\"isJumpActivityDetail\\\",\\\"timeStamp\\\",\\\"districtName\\\",\\\"subTitleName\\\",\\\"enName\\\",\\\"introduction\\\",\\\"hotScore\\\",\\\"comment\\\",\\\"taComment\\\",\\\"feedback\\\",\\\"coverImage\\\",\\\"hasVideo\\\",\\\"ranking\\\",\\\"tagNameList\\\",\\\"marketingTag\\\",\\\"otherTagList\\\",\\\"priceInfo\\\",\\\"cardCountDesc\\\",\\\"openStatus\\\",\\\"distance\\\",\\\"sceneDescription\\\",\\\"matchInfo\\\",\\\"hotEvent\\\",\\\"favorite\\\",\\\"nearBy\\\",\\\"isInsertPoi\\\",\\\"isAdvertisement\\\",\\\"isRecommend\\\",\\\"actor\\\",\\\"parentPoi\\\",\\\"concertSaleStatusInfo\\\"]}\",\"data\":\"{\\\"abtestMap\\\":{\\\"260519_VAC_kpjz\\\":\\\"B\\\"},\\\"address\\\":\\\"Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy\\\",\\\"businessId\\\":12023,\\\"commentInfo\\\":{\\\"commentCount\\\":1784,\\\"commentScore\\\":4.7,\\\"taCommentCount\\\":39754,\\\"taCommentUrl\\\":\\\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-64229-4.png\\\"},\\\"coordinate\\\":{\\\"coordinateType\\\":\\\"WGS84\\\",\\\"latitude\\\":43.767786,\\\"longitude\\\":11.255311},\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1663,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1663,\\\"offset\\\":[1,-22],\\\"rect\\\":[2,0,2500,1620],\\\"width\\\":2500},\\\"coverImageList\\\":[{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1663,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1663,\\\"offset\\\":[1,-22],\\\"rect\\\":[2,0,2500,1620],\\\"width\\\":2500},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0100212000ubsmc7xA24E.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0100212000ubsmc7xA24E.jpg\\\"},{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1527,\\\"width\\\":2289},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100111000000rij9v7F8F.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100111000000rij9v7F8F.jpg\\\"}],\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0100212000ubsmc7xA24E.jpg\\\",\\\"detailUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/florence/uffizi-gallery-78594?curr=USD&locale=en-XX&poiType=3&scene=ticket\\\",\\\"distanceInfo\\\":{\\\"location\\\":\\\"Italy · Florence\\\"},\\\"districtId\\\":341,\\\"districtName\\\":\\\"Florence\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0100212000ubsmc7xA24E.jpg\\\",\\\"extendMap\\\":[{\\\"key\\\":\\\"ticketMetricMsg\\\",\\\"value\\\":\\\"{\\\\\\\"showContestSaleStatus\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"tags\\\\\\\":[],\\\\\\\"resId\\\\\\\":\\\\\\\"115553051\\\\\\\",\\\\\\\"sale\\\\\\\":22.3,\\\\\\\"disc\\\\\\\":0,\\\\\\\"date\\\\\\\":\\\\\\\"2026-11-08\\\\\\\",\\\\\\\"source\\\\\\\":\\\\\\\"cct.poi.card.info\\\\\\\",\\\\\\\"messageId\\\\\\\":\\\\\\\"100023736-0a8ebfba-498346-183287\\\\\\\"}\\\"}],\\\"fPoiJumpSightDetail\\\":false,\\\"favoriteInfo\\\":{\\\"favoriteId\\\":0,\\\"hasFavorited\\\":false,\\\"isActivityFavorite\\\":false},\\\"hasVideo\\\":false,\\\"highConcernPerformance\\\":\\\"\\\",\\\"hotScore\\\":\\\"9.9\\\",\\\"introduction\\\":\\\"• Exhibits the private collection of the Medici family, including Botticelli's “Birth of Venus” and “Springtime”, Leonardo da Vinci's “Annunciation”, Raphael's “Virgin and Child with Saint Anna” and other works\\\\n• Collect more than 100,000 precious exhibits, covering almost the entire history of art, from ancient Greek sculptures to 18th-century Venetian oil paintings\\\\n• Learn about Renaissance works and review Italian classics\\\\n△The Uffizi Gallery displays the private collection of the Medici family. The Medici family was an Italian aristocratic family with a long history. They collected many important Italian Renaissance works of art and donated them to the Uffizi Gallery, which became part of the Uffizi Gallery.\\\\n△This is a gathering place for Renaissance paintings, including works by famous painters such as Botticelli, Raphael, Leonardo da Vinci, and Michelangelo. They are divided into more than 90 exhibition halls according to creation time and creative genre.\\\",\\\"isActivityPoi\\\":false,\\\"isAdvertisement\\\":false,\\\"isInsertPoi\\\":false,\\\"isJumpActivityDetail\\\":false,\\\"isNearBy\\\":false,\\\"isRecommend\\\":false,\\\"isTopSort\\\":false,\\\"nameNotMatchLocale\\\":false,\\\"openTimeDesc\\\":\\\"Open: 8:15 AM–6:30 PM(Tickets available until 5:30 PM. Admission ends at 5:30 PM)\\\",\\\"playSpendTime\\\":\\\"Duration:3–5 hours\\\",\\\"poiEName\\\":\\\"Uffizi Gallery\\\",\\\"poiId\\\":78594,\\\"poiName\\\":\\\"Uffizi Gallery\\\",\\\"poiSubtitleName\\\":\\\"Le Galleria degli Uffizi\\\",\\\"poiType\\\":3,\\\"priceInfo\\\":{\\\"marketPrice\\\":\\\"0\\\",\\\"preferentialPrice\\\":\\\"0\\\",\\\"price\\\":\\\"22.3\\\",\\\"priceInt\\\":\\\"22.3\\\",\\\"priceType\\\":\\\"2\\\",\\\"salesVolumeDesc\\\":\\\"26k+ booked\\\"},\\\"rankingInfo\\\":{\\\"rankDesc\\\":\\\"2026  Global 100 - Best Things to Do\\\",\\\"rankingCategory\\\":2,\\\"recommendReason\\\":\\\"Admire masterpieces by Botticelli and Da Vinci\\\"},\\\"tagNameList\\\":[\\\"Themed exhibition halls\\\"],\\\"timestamp\\\":1794045677324,\\\"zoneName\\\":\\\"Florence Historic Center\\\"}\"}",
+            "id": "78594",
+            "type": "poi",
+            "currency": "USD",
+            "categoryLevel1": "",
+            "categoryLevel2": "",
+            "isSupportFavorite": true,
+            "pageId": "10650012671",
+            "districtId": "228",
+            "extParams": "",
+            "metricInfo": {
+             "ppagetab": "all",
+             "pagetab": "AllTicket",
+             "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+             "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+             "filtervalue": "",
+             "isfilter": 0
+            },
+            "abVersionMap": {
+             "250428_VAC_cardinfo": "C",
+             "260519_VAC_kpjz": "B",
+             "260821_VAC_Tmstg": ""
+            },
+            "pkgp": 8,
+            "isLast": false
+           }
+          },
+          {
+           "type": "poi",
+           "data": {
+            "jsonStr": "{\"cardConfig\":\"{\\\"favoriteConfig\\\":{\\\"favoriteMode\\\":\\\"full\\\",\\\"position\\\":\\\"onImg\\\"},\\\"openStatusConfig\\\":{\\\"isDuringTour\\\":false,\\\"position\\\":\\\"onImg\\\"},\\\"commentConfig\\\":{\\\"hideTa\\\":false},\\\"priceConfig\\\":{\\\"priceMode\\\":\\\"normal\\\",\\\"priceShowFields\\\":[\\\"price\\\",\\\"underlinedPrice\\\",\\\"priceTag\\\",\\\"discountIntensity\\\",\\\"cardCountDesc\\\"]},\\\"tagListConfig\\\":{\\\"ignoreTypeList\\\":[]},\\\"showFields\\\":[\\\"base\\\",\\\"isJumpActivityDetail\\\",\\\"timeStamp\\\",\\\"districtName\\\",\\\"subTitleName\\\",\\\"enName\\\",\\\"introduction\\\",\\\"hotScore\\\",\\\"comment\\\",\\\"taComment\\\",\\\"feedback\\\",\\\"coverImage\\\",\\\"hasVideo\\\",\\\"ranking\\\",\\\"tagNameList\\\",\\\"marketingTag\\\",\\\"otherTagList\\\",\\\"priceInfo\\\",\\\"cardCountDesc\\\",\\\"openStatus\\\",\\\"distance\\\",\\\"sceneDescription\\\",\\\"matchInfo\\\",\\\"hotEvent\\\",\\\"favorite\\\",\\\"nearBy\\\",\\\"isInsertPoi\\\",\\\"isAdvertisement\\\",\\\"isRecommend\\\",\\\"actor\\\",\\\"parentPoi\\\",\\\"concertSaleStatusInfo\\\"]}\",\"data\":\"{\\\"abtestMap\\\":{\\\"260519_VAC_kpjz\\\":\\\"B\\\"},\\\"address\\\":\\\"Pg. de Gràcia, 92, L'Eixample, 08008 Barcelona, Spain\\\",\\\"businessId\\\":54680,\\\"commentInfo\\\":{\\\"commentCount\\\":2273,\\\"commentScore\\\":4.6,\\\"taCommentCount\\\":24260,\\\"taCommentUrl\\\":\\\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-64229-4.png\\\"},\\\"coordinate\\\":{\\\"coordinateType\\\":\\\"WGS84\\\",\\\"latitude\\\":41.395216,\\\"longitude\\\":2.161902},\\\"coverImageCenterCropParam\\\":{\\\"height\\\":5123,\\\"width\\\":7680},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":5123,\\\"offset\\\":[-584,727],\\\"rect\\\":[1467,1455,5046,5123],\\\"width\\\":7680},\\\"coverImageList\\\":[{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":5123,\\\"width\\\":7680},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":5123,\\\"offset\\\":[-584,727],\\\"rect\\\":[1467,1455,5046,5123],\\\"width\\\":7680},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/1lo2h12000t0d7yzqD4EC.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/1lo2h12000t0d7yzqD4EC.jpg\\\"},{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":4948,\\\"width\\\":7418},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/1lo6n12000t0d7u2g3EBD.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/1lo6n12000t0d7u2g3EBD.jpg\\\"}],\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/1lo2h12000t0d7yzqD4EC.jpg\\\",\\\"detailUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/barcelona/la-pedrera-casa-mil-84956?curr=USD&locale=en-XX&poiType=3&scene=ticket\\\",\\\"distanceInfo\\\":{\\\"location\\\":\\\"Spain · Barcelona\\\"},\\\"districtId\\\":381,\\\"districtName\\\":\\\"Barcelona\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/1lo2h12000t0d7yzqD4EC.jpg\\\",\\\"extendMap\\\":[{\\\"key\\\":\\\"ticketMetricMsg\\\",\\\"value\\\":\\\"{\\\\\\\"showContestSaleStatus\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"tags\\\\\\\":[{\\\\\\\"code\\\\\\\":\\\\\\\"TodayCanBook\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for today\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"TodayEnter\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for today\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"TomorrowCanBook\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for tomorrow\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"ReadyToUse\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Immediate access\\\\\\\",\\\\\\\"extraList\\\\\\\":[]}],\\\\\\\"resId\\\\\\\":\\\\\\\"110557520\\\\\\\",\\\\\\\"sale\\\\\\\":30.1,\\\\\\\"disc\\\\\\\":0,\\\\\\\"date\\\\\\\":\\\\\\\"2026-12-28\\\\\\\",\\\\\\\"source\\\\\\\":\\\\\\\"cct.poi.card.info\\\\\\\",\\\\\\\"messageId\\\\\\\":\\\\\\\"100023736-0a8ebfba-498346-183287\\\\\\\"}\\\"}],\\\"fPoiJumpSightDetail\\\":false,\\\"favoriteInfo\\\":{\\\"favoriteId\\\":0,\\\"hasFavorited\\\":false,\\\"isActivityFavorite\\\":false},\\\"hasVideo\\\":false,\\\"highConcernPerformance\\\":\\\"\\\",\\\"hotScore\\\":\\\"10\\\",\\\"introduction\\\":\\\"• Enter the world of Antoni Gaudi, and a UNESCO World Heritage Site\\\\n• Named after its spectacular stone façade, and is a huge work of sculpture, 30 metres high and 84 metres long\\\\n• A Barcelona icon from where you can see spectacular 360º views of the city\\\\n△Warrior Rooftop, a unique achievement that defies classification. The chimneys stand in hierarchical lines of warriors turned to stone. Guardians of the building since time immemorial, they come to life to tell us about the origin of the building.\\\\n△The Flower Courtyard, The walls of the Flower Courtyard, in Passeig de Gràcia, are a real spectacle of shapes, light and colours contrasting with the sober facade.\\\\n△La Pedrera Night Experience. Over the course of the tour, you will be able to watch a number of audio-visual presentations, culminating in the video mapping of the Roof-terrace of Gaudí's building, which makes the most of the remarkable architecture of this space to take you on a journey back to the origins of life.\\\",\\\"isActivityPoi\\\":false,\\\"isAdvertisement\\\":false,\\\"isInsertPoi\\\":false,\\\"isJumpActivityDetail\\\":false,\\\"isNearBy\\\":false,\\\"isRecommend\\\":false,\\\"isTopSort\\\":false,\\\"nameNotMatchLocale\\\":false,\\\"openTimeDesc\\\":\\\"Open: 9:00 AM–6:30 PM;Open: 7:00 PM–11:00 PM\\\",\\\"otherTagList\\\":[{\\\"code\\\":\\\"ReadyToUse\\\",\\\"name\\\":\\\"Immediate access\\\",\\\"type\\\":\\\"booking\\\"},{\\\"code\\\":\\\"TodayCanBook\\\",\\\"name\\\":\\\"Book now for today\\\",\\\"type\\\":\\\"booking\\\"}],\\\"playSpendTime\\\":\\\"Duration:1.5–3 hours\\\",\\\"poiEName\\\":\\\"La Pedrera – Casa Milà\\\",\\\"poiId\\\":84956,\\\"poiName\\\":\\\"La Pedrera – Casa Milà\\\",\\\"poiSubtitleName\\\":\\\"La Pedrera - Casa Milà\\\",\\\"poiType\\\":3,\\\"priceInfo\\\":{\\\"marketPrice\\\":\\\"0\\\",\\\"preferentialPrice\\\":\\\"0\\\",\\\"price\\\":\\\"30.1\\\",\\\"priceInt\\\":\\\"30.1\\\",\\\"priceType\\\":\\\"2\\\",\\\"salesVolumeDesc\\\":\\\"26k+ booked\\\"},\\\"rankingInfo\\\":{\\\"rankDesc\\\":\\\"2026  Global 100 - Best Things to Do\\\",\\\"rankingCategory\\\":2,\\\"recommendReason\\\":\\\"Panoramic views of Barcelona from the terrace at La Pedrera – Casa Milà\\\"},\\\"tagNameList\\\":[\\\"Historic landmark\\\",\\\"Night view\\\"],\\\"timestamp\\\":1794045677324,\\\"zoneName\\\":\\\"Barcelona City Centre\\\"}\"}",
+            "id": "84956",
+            "type": "poi",
+            "currency": "USD",
+            "categoryLevel1": "",
+            "categoryLevel2": "",
+            "isSupportFavorite": true,
+            "pageId": "10650012671",
+            "districtId": "228",
+            "extParams": "",
+            "metricInfo": {
+             "ppagetab": "all",
+             "pagetab": "AllTicket",
+             "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+             "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+             "filtervalue": "",
+             "isfilter": 0
+            },
+            "abVersionMap": {
+             "250428_VAC_cardinfo": "C",
+             "260519_VAC_kpjz": "B",
+             "260821_VAC_Tmstg": ""
+            },
+            "pkgp": 9,
+            "isLast": false
+           }
+          },
+          {
+           "type": "poi",
+           "data": {
+            "jsonStr": "{\"cardConfig\":\"{\\\"favoriteConfig\\\":{\\\"favoriteMode\\\":\\\"full\\\",\\\"position\\\":\\\"onImg\\\"},\\\"openStatusConfig\\\":{\\\"isDuringTour\\\":false,\\\"position\\\":\\\"onImg\\\"},\\\"commentConfig\\\":{\\\"hideTa\\\":false},\\\"priceConfig\\\":{\\\"priceMode\\\":\\\"normal\\\",\\\"priceShowFields\\\":[\\\"price\\\",\\\"underlinedPrice\\\",\\\"priceTag\\\",\\\"discountIntensity\\\",\\\"cardCountDesc\\\"]},\\\"tagListConfig\\\":{\\\"ignoreTypeList\\\":[]},\\\"showFields\\\":[\\\"base\\\",\\\"isJumpActivityDetail\\\",\\\"timeStamp\\\",\\\"districtName\\\",\\\"subTitleName\\\",\\\"enName\\\",\\\"introduction\\\",\\\"hotScore\\\",\\\"comment\\\",\\\"taComment\\\",\\\"feedback\\\",\\\"coverImage\\\",\\\"hasVideo\\\",\\\"ranking\\\",\\\"tagNameList\\\",\\\"marketingTag\\\",\\\"otherTagList\\\",\\\"priceInfo\\\",\\\"cardCountDesc\\\",\\\"openStatus\\\",\\\"distance\\\",\\\"sceneDescription\\\",\\\"matchInfo\\\",\\\"hotEvent\\\",\\\"favorite\\\",\\\"nearBy\\\",\\\"isInsertPoi\\\",\\\"isAdvertisement\\\",\\\"isRecommend\\\",\\\"actor\\\",\\\"parentPoi\\\",\\\"concertSaleStatusInfo\\\"]}\",\"data\":\"{\\\"abtestMap\\\":{\\\"260519_VAC_kpjz\\\":\\\"B\\\"},\\\"address\\\":\\\"Museumplein 6, 1071 DJ Amsterdam, Netherlands\\\",\\\"businessId\\\":62540,\\\"commentInfo\\\":{\\\"commentCount\\\":2095,\\\"commentScore\\\":4.8,\\\"taCommentCount\\\":64737,\\\"taCommentUrl\\\":\\\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64229-4.png\\\"},\\\"coordinate\\\":{\\\"coordinateType\\\":\\\"WGS84\\\",\\\"latitude\\\":52.358076,\\\"longitude\\\":4.881205},\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1667,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1667,\\\"offset\\\":[-68,0],\\\"rect\\\":[556,0,1806,1667],\\\"width\\\":2500},\\\"coverImageList\\\":[{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1667,\\\"width\\\":2500},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":1667,\\\"offset\\\":[-68,0],\\\"rect\\\":[556,0,1806,1667],\\\"width\\\":2500},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0101512000ipv0zp03236.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0101512000ipv0zp03236.jpg\\\"},{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":3264,\\\"width\\\":4912},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/10010b0000005btnpF5CF.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/10010b0000005btnpF5CF.jpg\\\"}],\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0101512000ipv0zp03236.jpg\\\",\\\"detailUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/amsterdam/van-gogh-museum-87106?curr=USD&locale=en-XX&poiType=3&scene=ticket\\\",\\\"distanceInfo\\\":{\\\"location\\\":\\\"Netherlands · Amsterdam\\\"},\\\"districtId\\\":299,\\\"districtName\\\":\\\"Amsterdam\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/0101512000ipv0zp03236.jpg\\\",\\\"extendMap\\\":[{\\\"key\\\":\\\"ticketMetricMsg\\\",\\\"value\\\":\\\"{\\\\\\\"showContestSaleStatus\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"tags\\\\\\\":[],\\\\\\\"resId\\\\\\\":\\\\\\\"85564653\\\\\\\",\\\\\\\"sale\\\\\\\":30.1,\\\\\\\"disc\\\\\\\":0,\\\\\\\"date\\\\\\\":\\\\\\\"2026-11-18\\\\\\\",\\\\\\\"source\\\\\\\":\\\\\\\"cct.poi.card.info\\\\\\\",\\\\\\\"messageId\\\\\\\":\\\\\\\"100023736-0a8ebfba-498346-183287\\\\\\\"}\\\"}],\\\"fPoiJumpSightDetail\\\":false,\\\"favoriteInfo\\\":{\\\"favoriteId\\\":0,\\\"hasFavorited\\\":false,\\\"isActivityFavorite\\\":false},\\\"hasVideo\\\":false,\\\"highConcernPerformance\\\":\\\"\\\",\\\"hotScore\\\":\\\"10\\\",\\\"introduction\\\":\\\"The Van Gogh Museum is located on Museumplein in Amsterdam and is a national art museum centered on Van Gogh's works, holding more than 200 of his oil paintings, hundreds of drawings, and a large number of letters exchanged between him and his brother Theo, a collection that ranks among the foremost of its kind worldwide. The origin of this collection is itself a story: after Van Gogh's death in 1890, the paintings were kept by his brother Theo; Theo passed away shortly afterward, and his widow, Johanna van Gogh-Bonger, devoted her life to organizing and exhibiting these works, which had received little attention during Van Gogh's lifetime, ultimately bringing them together into this museum.\\\\nThe permanent exhibition lays out a clear viewing route in chronological order of creation: from the dark-toned \\\\\\\"The Potato Eaters\\\\\\\" of the Nuenen period in the Netherlands, to the numerous self-portraits of the Paris period, then to \\\\\\\"The Yellow House,\\\\\\\" \\\\\\\"The Bedroom,\\\\\\\" and \\\\\\\"Sunflowers\\\\\\\" of the Arles period, and finally to \\\\\\\"Almond Blossom\\\\\\\" and \\\\\\\"Wheatfield with Crows\\\\\\\" created in the last stage of his life in Saint-Rémy and Auvers-sur-Oise, making Van Gogh's creative trajectory over a brief ten years clear at a glance. In addition to his own works, the museum also displays paintings and sculptures by contemporary artists such as Monet, Gauguin, and Rodin, many of which were personally collected by Van Gogh and Theo at the time; in Gauguin's \\\\\\\"The Painter of Sunflowers,\\\\\\\" the protagonist is none other than Van Gogh, the painter of sunflowers.\\\\nThe building itself is also worth a closer look: the main building was designed by the Dutch De Stijl architect Rietveld and opened in 1973, with exhibition galleries unfolding layer by layer around an open atrium; the oval wing designed by the Japanese architect Kisho Kurokawa was completed in 1999 and is dedicated to large-scale temporary exhibitions; and the all-glass entrance building opened in 2015 connects the old and new wings into one. The museum is consistently popular, with dense crowds during peak hours, so if you plan to take a close look at the permanent collection, it is recommended to allow ample visiting time.\\\",\\\"isActivityPoi\\\":false,\\\"isAdvertisement\\\":false,\\\"isInsertPoi\\\":false,\\\"isJumpActivityDetail\\\":false,\\\"isNearBy\\\":false,\\\"isRecommend\\\":false,\\\"isTopSort\\\":false,\\\"nameNotMatchLocale\\\":false,\\\"openTimeDesc\\\":\\\"Open: 9:00 AM–6:00 PM\\\",\\\"parentPoiInfo\\\":{\\\"poiId\\\":13530000,\\\"businessId\\\":1414635,\\\"poiType\\\":3,\\\"poiName\\\":\\\"Museum Square\\\",\\\"poiAddress\\\":\\\"Amsterdam, Netherlands\\\",\\\"detailUrl\\\":{\\\"appUrl\\\":\\\"/rn_ibu_traveling/_crn_config?CRNModuleName=RN_Product_IBU_Traveling&CRNType=1&transparentstatusbar=1&initialPage=POIDetail&sightId=13530000&poiType=3\\\",\\\"newAppUrl\\\":\\\"/rn_ibu_traveling/_crn_config?CRNModuleName=RN_Product_IBU_Traveling&CRNType=1&transparentstatusbar=1&initialPage=POIDetail&sightId=13530000&poiType=3\\\",\\\"h5Url\\\":\\\"https://www.trip.com/travel-guide/attraction/amsterdam/museum-square-13530000?curr=USD&locale=en-US&poiType=3\\\",\\\"onlineUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/amsterdam/museum-square-13530000?curr=USD&locale=en-US&poiType=3\\\",\\\"alipayUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/amsterdam/museum-square-13530000?curr=USD&locale=en-US&poiType=3\\\"}},\\\"playSpendTime\\\":\\\"Duration:2–4 hours\\\",\\\"poiEName\\\":\\\"Van Gogh Museum\\\",\\\"poiId\\\":87106,\\\"poiName\\\":\\\"Van Gogh Museum\\\",\\\"poiType\\\":3,\\\"priceInfo\\\":{\\\"marketPrice\\\":\\\"0\\\",\\\"preferentialPrice\\\":\\\"0\\\",\\\"price\\\":\\\"30.1\\\",\\\"priceInt\\\":\\\"30.1\\\",\\\"priceType\\\":\\\"2\\\",\\\"salesVolumeDesc\\\":\\\"23k+ booked\\\"},\\\"rankingInfo\\\":{\\\"rankDesc\\\":\\\"2026  Global 100 - Best Things to Do\\\",\\\"rankingCategory\\\":2,\\\"recommendReason\\\":\\\"Interactive experiences in a high-tech digital exhibition hall\\\"},\\\"tagNameList\\\":[\\\"Themed exhibition halls\\\"],\\\"timestamp\\\":1794045677324,\\\"zoneName\\\":\\\"Museum Quarter\\\"}\"}",
+            "id": "87106",
+            "type": "poi",
+            "currency": "USD",
+            "categoryLevel1": "",
+            "categoryLevel2": "",
+            "isSupportFavorite": true,
+            "pageId": "10650012671",
+            "districtId": "228",
+            "extParams": "",
+            "metricInfo": {
+             "ppagetab": "all",
+             "pagetab": "AllTicket",
+             "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+             "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+             "filtervalue": "",
+             "isfilter": 0
+            },
+            "abVersionMap": {
+             "250428_VAC_cardinfo": "C",
+             "260519_VAC_kpjz": "B",
+             "260821_VAC_Tmstg": ""
+            },
+            "pkgp": 10,
+            "isLast": false
+           }
+          },
+          {
+           "data": {
+            "userBehaviorTag": {
+             "type": "POSITIVE_REVIEW",
+             "text": "24 consecutive positive reviews"
+            },
+            "id": "50618334",
+            "isPoi": false,
+            "title": "VISIT BUSAN PASS",
+            "score": "4.9",
+            "reviews": "3.1k reviews",
+            "reviewsCount": 3073,
+            "sales": "124.1k booked",
+            "imageInfo": {
+             "url": "https://ak-d.tripcdn.com/images/0350a12000tawkfbi5E97_C_568_320.jpg?proc=crop/m_c,w_1214,h_910,x_5,y_26,g_center,4048"
+            },
+            "image": "https://ak-d.tripcdn.com/images/0350a12000tawkfbi5E97_C_568_320.jpg?proc=crop/m_c,w_1214,h_910,x_5,y_26,g_center,4048",
+            "priceInfo": {
+             "price": [
+              {
+               "type": "symbol",
+               "text": "US$"
+              },
+              {
+               "type": "price",
+               "text": "33.03"
+              }
+             ],
+             "prefix": "From",
+             "deletePrice": "",
+             "currency": "USD",
+             "priceIsZero": false
+            },
+            "discountTag": "",
+            "promotionTags": [],
+            "newTags": [
+             {
+              "type": "solid_blue",
+              "text": "Official partner"
+             },
+             {
+              "type": "green",
+              "text": "Free cancellation"
+             },
+             {
+              "type": "divider_grey",
+              "text": "Book now for today"
+             }
+            ],
+            "activityTags": [
+             "English"
+            ],
+            "poiTags": [],
+            "url": "https://www.trip.com/things-to-do/detail/50618334?locale=en-XX&curr=USD&departureid=432",
+            "metric": {
+             "productname": "VISIT BUSAN PASS",
+             "pkgid": "50618334",
+             "poiid": "",
+             "lob": "act",
+             "pkgposition": 11,
+             "categoryid_l1": "246",
+             "categoryid_l2": "301",
+             "bargainprice": "false",
+             "cardsales": "false",
+             "tripselected": 1,
+             "channel": "pc",
+             "pageId": "10650012671",
+             "page_name": "",
+             "locale": "en-XX",
+             "pkgcount": 19564,
+             "aitraceid": "",
+             "relatedpkgid": "",
+             "relatedpkgctgl1": "",
+             "relatedpkgctgl2": "",
+             "discountType": "",
+             "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+             "ppagetab": "all",
+             "pagetab": "AllTicket",
+             "productsnum": "",
+             "tipType": "userdata",
+             "tipSubtype": "reviews",
+             "tipvalue": "24 consecutive positive reviews",
+             "brandtag": "select",
+             "ic_traceid": "",
+             "pageid": "10650012671",
+             "localdistrictid": "",
+             "geo_lat": "",
+             "geo_lon": "",
+             "currency": "USD",
+             "gsdistrictid": "",
+             "gsdistrictname": "",
+             "gsmodifydistrictid": "228",
+             "gsmodifydistrictname": "museum",
+             "kwd": "museum",
+             "kwdfrom": "unknown",
+             "searchtype": "d",
+             "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+             "ipcityid": "",
+             "analyzeddistrictid": "",
+             "analyzedType": "{\"name\":\"museum\",\"bizLine\":8,\"termTypes\":[{\"id\":83,\"code\":\"\",\"name\":\"museum\",\"type\":\"keyword\",\"locale\":\"en-xx\"}]}",
+             "termTypes": "{\"name\":\"museum\",\"bizLine\":8,\"termTypes\":[{\"id\":83,\"code\":\"\",\"name\":\"museum\",\"type\":\"theme\",\"bizLineSupport\":1,\"localeSupport\":1,\"locale\":\"en-xx\"}]}",
+             "kwdtype": "",
+             "isfilter": 0,
+             "filtervalue": "",
+             "sortby": "1",
+             "fxbvalue": "",
+             "issublist": 1
+            },
+            "flashSale": "",
+            "brandTag": {
+             "type": "TRIP_SELECT",
+             "text": "Trip Select"
+            },
+            "lightspot": "Busan pass | Busan pass | Busan pass | Busan pass | Busan pass | Busan city pass",
+            "highLightTag": {
+             "tagType": "userTag",
+             "value": {
+              "type": "comment",
+              "text": "24 consecutive positive reviews"
+             }
+            },
+            "isFavorite": false,
+            "location": "Busan",
+            "abtest": "E",
+            "favoriteInfo": {
+             "favorite": "Added to Saved",
+             "unfavorite": "Removed from Saved"
+            },
+            "isSupportFavorite": true,
+            "extParams": "",
+            "pkgp": 11,
+            "isLast": false
+           }
+          },
+          {
+           "type": "poi",
+           "data": {
+            "jsonStr": "{\"cardConfig\":\"{\\\"favoriteConfig\\\":{\\\"favoriteMode\\\":\\\"full\\\",\\\"position\\\":\\\"onImg\\\"},\\\"openStatusConfig\\\":{\\\"isDuringTour\\\":false,\\\"position\\\":\\\"onImg\\\"},\\\"commentConfig\\\":{\\\"hideTa\\\":false},\\\"priceConfig\\\":{\\\"priceMode\\\":\\\"normal\\\",\\\"priceShowFields\\\":[\\\"price\\\",\\\"underlinedPrice\\\",\\\"priceTag\\\",\\\"discountIntensity\\\",\\\"cardCountDesc\\\"]},\\\"tagListConfig\\\":{\\\"ignoreTypeList\\\":[]},\\\"showFields\\\":[\\\"base\\\",\\\"isJumpActivityDetail\\\",\\\"timeStamp\\\",\\\"districtName\\\",\\\"subTitleName\\\",\\\"enName\\\",\\\"introduction\\\",\\\"hotScore\\\",\\\"comment\\\",\\\"taComment\\\",\\\"feedback\\\",\\\"coverImage\\\",\\\"hasVideo\\\",\\\"ranking\\\",\\\"tagNameList\\\",\\\"marketingTag\\\",\\\"otherTagList\\\",\\\"priceInfo\\\",\\\"cardCountDesc\\\",\\\"openStatus\\\",\\\"distance\\\",\\\"sceneDescription\\\",\\\"matchInfo\\\",\\\"hotEvent\\\",\\\"favorite\\\",\\\"nearBy\\\",\\\"isInsertPoi\\\",\\\"isAdvertisement\\\",\\\"isRecommend\\\",\\\"actor\\\",\\\"parentPoi\\\",\\\"concertSaleStatusInfo\\\"]}\",\"data\":\"{\\\"abtestMap\\\":{\\\"260519_VAC_kpjz\\\":\\\"B\\\"},\\\"address\\\":\\\"Centro, 28071 Madrid, Spain\\\",\\\"businessId\\\":12674,\\\"commentInfo\\\":{\\\"commentCount\\\":1992,\\\"commentScore\\\":4.6,\\\"taCommentCount\\\":35998,\\\"taCommentUrl\\\":\\\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64229-4.png\\\"},\\\"coordinate\\\":{\\\"coordinateType\\\":\\\"WGS84\\\",\\\"latitude\\\":40.417955,\\\"longitude\\\":-3.714312},\\\"coverImageCenterCropParam\\\":{\\\"height\\\":2000,\\\"width\\\":3000},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":2000,\\\"offset\\\":[0,-33],\\\"rect\\\":[390,0,2609,1933],\\\"width\\\":3000},\\\"coverImageList\\\":[{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":2000,\\\"width\\\":3000},\\\"coverImageCropParam\\\":{\\\"disableDynamic\\\":false,\\\"disableProc\\\":false,\\\"height\\\":2000,\\\"offset\\\":[0,-33],\\\"rect\\\":[390,0,2609,1933],\\\"width\\\":3000},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100f050000000pvpl70F1.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100f050000000pvpl70F1.jpg\\\"},{\\\"coverImageCenterCropParam\\\":{\\\"height\\\":1653,\\\"width\\\":2480},\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100b0z000000nesxk5731.jpg\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100b0z000000nesxk5731.jpg\\\"}],\\\"coverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100f050000000pvpl70F1.jpg\\\",\\\"detailUrl\\\":\\\"https://www.trip.com/travel-guide/attraction/madrid/royal-palace-of-madrid-78738?curr=USD&locale=en-XX&poiType=3&scene=ticket\\\",\\\"distanceInfo\\\":{\\\"location\\\":\\\"Spain · Madrid\\\"},\\\"districtId\\\":378,\\\"districtName\\\":\\\"Madrid\\\",\\\"dynamicCoverImageUrl\\\":\\\"https://ak-d.tripcdn.com/images/100f050000000pvpl70F1.jpg\\\",\\\"extendMap\\\":[{\\\"key\\\":\\\"ticketMetricMsg\\\",\\\"value\\\":\\\"{\\\\\\\"showContestSaleStatus\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"tags\\\\\\\":[{\\\\\\\"code\\\\\\\":\\\\\\\"TodayCanBook\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for today\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"TodayEnter\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for today\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"TomorrowCanBook\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Book now for tomorrow\\\\\\\",\\\\\\\"extraList\\\\\\\":[]},{\\\\\\\"code\\\\\\\":\\\\\\\"ReadyToUse\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Immediate access\\\\\\\",\\\\\\\"extraList\\\\\\\":[]}],\\\\\\\"resId\\\\\\\":\\\\\\\"94868208\\\\\\\",\\\\\\\"sale\\\\\\\":20.93,\\\\\\\"disc\\\\\\\":0,\\\\\\\"date\\\\\\\":\\\\\\\"2026-11-30\\\\\\\",\\\\\\\"source\\\\\\\":\\\\\\\"cct.poi.card.info\\\\\\\",\\\\\\\"messageId\\\\\\\":\\\\\\\"100023736-0a8ebfba-498346-183287\\\\\\\"}\\\"}],\\\"fPoiJumpSightDetail\\\":false,\\\"favoriteInfo\\\":{\\\"favoriteId\\\":0,\\\"hasFavorited\\\":false,\\\"isActivityFavorite\\\":false},\\\"hasVideo\\\":false,\\\"highConcernPerformance\\\":\\\"\\\",\\\"hotScore\\\":\\\"10\\\",\\\"introduction\\\":\\\"• Witness the history and royal anecdotes of Spain\\\\n• Approx. 2 million travelers visit annually\\\\n• Combining traditional Spanish royal architectural style with Baroque style, it covers a total area of approx. 130,000 m² with over 3,000 rooms\\\\n△In the 9th century, this was once the castle of Arab rulers. After being recaptured by Christians, it became the residence of successive kings. A fire in 1734 destroyed the castle, and the royal palace seen today was rebuilt in 1764.\\\\n△The Royal Palace of Madrid is an exquisitely crafted architectural marvel and one of the best-preserved palaces in the world. The entire palace is magnificent, with over 3,000 rooms in total, though only around fifty are open for travelers to visit. Particularly noteworthy is the palace's preserved set of five Stradivarius string instruments—two violins, one viola, and two cellos.\\\\n△Adorned with golden ornaments, royal red velvet floors and walls, and chandeliers as magnificent as the room itself, while admiring the ceiling painted by Tiepolo. Marvel at the grand staircase designed by Sabatini, with over 70 steps in total.\\\",\\\"isActivityPoi\\\":false,\\\"isAdvertisement\\\":false,\\\"isInsertPoi\\\":false,\\\"isJumpActivityDetail\\\":false,\\\"isNearBy\\\":false,\\\"isRecommend\\\":false,\\\"isTopSort\\\":false,\\\"nameNotMatchLocale\\\":false,\\\"openTimeDesc\\\":\\\"Open: 10:00 AM–6:00 PM(Admission ends at 3:00 PM)\\\",\\\"otherTagList\\\":[{\\\"code\\\":\\\"ReadyToUse\\\",\\\"name\\\":\\\"Immediate access\\\",\\\"type\\\":\\\"booking\\\"},{\\\"code\\\":\\\"TodayCanBook\\\",\\\"name\\\":\\\"Book now for today\\\",\\\"type\\\":\\\"booking\\\"}],\\\"playSpendTime\\\":\\\"Duration:1.5–3 hours\\\",\\\"poiEName\\\":\\\"Royal Palace of Madrid\\\",\\\"poiId\\\":78738,\\\"poiName\\\":\\\"Royal Palace of Madrid\\\",\\\"poiSubtitleName\\\":\\\"Palacio Real de Madrid\\\",\\\"poiType\\\":3,\\\"priceInfo\\\":{\\\"marketPrice\\\":\\\"0\\\",\\\"preferentialPrice\\\":\\\"0\\\",\\\"price\\\":\\\"20.93\\\",\\\"priceInt\\\":\\\"20.93\\\",\\\"priceType\\\":\\\"2\\\",\\\"salesVolumeDesc\\\":\\\"33k+ booked\\\"},\\\"rankingInfo\\\":{\\\"rankDesc\\\":\\\"2026  Global 100 - Best Things to Do\\\",\\\"rankingCategory\\\":2,\\\"recommendReason\\\":\\\"Europe's 3rd largest royal palace\\\"},\\\"tagNameList\\\":[\\\"Historic landmark\\\",\\\"Night view\\\"],\\\"timestamp\\\":1794045677324,\\\"zoneName\\\":\\\"Austrias\\\"}\"}",
+            "id": "78738",
+            "type": "poi",
+            "currency": "USD",
+            "categoryLevel1": "",
+            "categoryLevel2": "",
+            "isSupportFavorite": true,
+            "pageId": "10650012671",
+            "districtId": "228",
+            "extParams": "",
+            "metricInfo": {
+             "ppagetab": "all",
+             "pagetab": "AllTicket",
+             "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+             "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+             "filtervalue": "",
+             "isfilter": 0
+            },
+            "abVersionMap": {
+             "250428_VAC_cardinfo": "C",
+             "260519_VAC_kpjz": "B",
+             "260821_VAC_Tmstg": ""
+            },
+            "pkgp": 12,
+            "isLast": true
+           }
+          }
+         ],
+         "isNextPage": true,
+         "total": 19564,
+         "totalDesc": "10k+",
+         "metricInfo": {
+          "pkgcount": 19564,
+          "ic_traceid": "",
+          "channel": "pc",
+          "pageid": "10650012671",
+          "pageId": "10650012671",
+          "localdistrictid": "",
+          "geo_lat": "",
+          "geo_lon": "",
+          "locale": "en-XX",
+          "currency": "USD",
+          "gsdistrictid": "",
+          "gsdistrictname": "",
+          "gsmodifydistrictid": "228",
+          "gsmodifydistrictname": "museum",
+          "kwd": "museum",
+          "kwdfrom": "unknown",
+          "searchtype": "d",
+          "ppagetab": "all",
+          "pagetab": "AllTicket",
+          "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+          "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+          "ipcityid": "",
+          "analyzeddistrictid": "",
+          "analyzedType": "{\"name\":\"museum\",\"bizLine\":8,\"termTypes\":[{\"id\":83,\"code\":\"\",\"name\":\"museum\",\"type\":\"keyword\",\"locale\":\"en-xx\"}]}",
+          "termTypes": "{\"name\":\"museum\",\"bizLine\":8,\"termTypes\":[{\"id\":83,\"code\":\"\",\"name\":\"museum\",\"type\":\"theme\",\"bizLineSupport\":1,\"localeSupport\":1,\"locale\":\"en-xx\"}]}",
+          "kwdtype": "",
+          "isfilter": 0,
+          "filtervalue": "",
+          "sortby": "1",
+          "fxbvalue": "",
+          "issublist": 1
+         },
+         "isBigCard": false,
+         "isFoodBigCard": false
+        }
+       }
+      },
+      "isRequesting": false,
+      "listHeight": 0,
+      "isShowTop": false,
+      "scrollEnable": true,
+      "isStickyTop": false,
+      "scrollEnabled": true,
+      "headCardHight": 0,
+      "MainTabHeight": 0,
+      "MainSearchTop": 0,
+      "filtersHeight": [],
+      "topHeight": 0,
+      "mixListKey": "",
+      "keyword": "",
+      "noSecondBreath": false,
+      "inited": false,
+      "hasClickMoreTips": false,
+      "commonHeaderData": {
+       "group": "Trip",
+       "currency": "USD",
+       "locale": "en-XX",
+       "lang": "en",
+       "site": "EN"
+      },
+      "header": {
+       "id": "228",
+       "currency": "USD",
+       "pagetype": "city",
+       "cityType": "dt",
+       "keyword": "museum",
+       "cityName": "",
+       "hotelCityID": ""
+      },
+      "category": {
+       "fdefault": "all",
+       "defaultCategoryCode": "all",
+       "list": [
+        {
+         "name": "All types",
+         "type": "all"
+        },
+        {
+         "name": "Recommended",
+         "type": "all"
+        },
+        {
+         "name": "Attractions",
+         "type": "attractionsAndTickets"
+        },
+        {
+         "name": "Experiences",
+         "type": "experienceAndTours"
+        },
+        {
+         "name": "Must-have",
+         "type": "toolsAndService"
+        }
+       ],
+       "listIsEmpty": false
+      },
+      "headerCard": {
+       "region": "1",
+       "analyzeResultType": 0,
+       "totalProduct": 93066,
+       "name": "museum",
+       "isEmpty": false
+      },
+      "mainTab": {
+       "fdefault": "all",
+       "list": [
+        {
+         "name": "Recommended",
+         "type": "all",
+         "icon": {
+          "default": "https://dimg04.c-ctrip.com/images/0302m12000tq9g3364C4F.png",
+          "selected": "https://dimg04.tripcdn.com/images/1o54112000sogvh7uBAAE.png",
+          "dark": "https://dimg04.c-ctrip.com/images/0301t12000tq9g65f7A5F.png",
+          "darkSelected": "https://dimg04.tripcdn.com/images/1o55m12000sogvyos88CF.png"
+         },
+         "fdefault": "all",
+         "children": [],
+         "isFeaturedTab": false,
+         "upgrade": false,
+         "itemProps": {
+          "accessible": true
+         }
+        },
+        {
+         "name": "Attractions",
+         "type": "attractionsAndTickets",
+         "icon": {
+          "default": "https://dimg04.c-ctrip.com/images/0306z12000tsdxcqeB942.png",
+          "selected": "https://dimg04.tripcdn.com/images/1o54112000sogvh7uBAAE.png",
+          "dark": "https://dimg04.c-ctrip.com/images/0302k12000tsdy0y52F48.png",
+          "darkSelected": "https://dimg04.tripcdn.com/images/1o55m12000sogvyos88CF.png"
+         },
+         "fdefault": "Ticket2",
+         "children": [
+          {
+           "name": "Attractions",
+           "type": "Ticket2",
+           "groupName": "Attractions",
+           "groupType": "attractionsAndTickets",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0303012000f9mmp1kED87.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0306n12000f9mn0li14ED.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0301o12000f9mmxlv4C38.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0300c12000f9mmlfvE187.png"
+           },
+           "isFeaturedTab": false,
+           "count": 174243,
+           "itemProps": {
+            "accessible": true
+           }
+          }
+         ],
+         "isFeaturedTab": false,
+         "upgrade": false,
+         "itemProps": {
+          "accessible": true
+         }
+        },
+        {
+         "name": "Experiences",
+         "type": "experienceAndTours",
+         "icon": {
+          "default": "https://dimg04.c-ctrip.com/images/0304812000ts5dpew4F13.png",
+          "selected": "https://dimg04.tripcdn.com/images/1o54112000sogvh7uBAAE.png",
+          "dark": "https://dimg04.c-ctrip.com/images/0302y12000ts5df7y9558.png",
+          "darkSelected": "https://dimg04.tripcdn.com/images/1o55m12000sogvyos88CF.png"
+         },
+         "fdefault": "",
+         "children": [
+          {
+           "name": "Day tours",
+           "type": "1daytrip",
+           "groupName": "Experiences",
+           "groupType": "experienceAndTours",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0300712000f9mswix83CE.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0306412000f9mt6u1E6EB.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0305012000f9mtocxC220.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0301x12000f9msvj2D953.png"
+           },
+           "isFeaturedTab": false,
+           "count": 7375,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Food & drink",
+           "type": "FoodDrink",
+           "groupName": "Experiences",
+           "groupType": "experienceAndTours",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0302z12000f9wmted09D2.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0305912000f9wm9ud31E0.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0300r12000f9wmiol3C7F.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0301f12000f9wmvfr37F9.png"
+           },
+           "isFeaturedTab": false,
+           "count": 587,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Shows & events",
+           "type": "showexhibition",
+           "groupName": "Experiences",
+           "groupType": "experienceAndTours",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0303g12000tnwclojFF1D.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0302z12000tnwdhx8636C.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0302q12000tnwds1x3A87.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0302f12000tnwcpkl4A8C.png"
+           },
+           "isFeaturedTab": false,
+           "count": 268,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Water activities",
+           "type": "WaterActivities",
+           "groupName": "Experiences",
+           "groupType": "experienceAndTours",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0302q12000uavdt3sFD81.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0305t12000uavdphd8018.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0306d12000uave751BC98.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0304u12000uave5ug287D.png"
+           },
+           "isFeaturedTab": false,
+           "count": 49,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Boat tours",
+           "type": "BoatExperiences",
+           "groupName": "Experiences",
+           "groupType": "experienceAndTours",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0304312000f9n078v4F5B.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0305i12000f9wkzus535F.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0300s12000f9wkcav4D5C.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0301o12000f9wkcax3AE4.png"
+           },
+           "isFeaturedTab": false,
+           "count": 590,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Spa & wellness",
+           "type": "WellnessSpa",
+           "groupName": "Experiences",
+           "groupType": "experienceAndTours",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0303y12000sgunaur12CE.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0301d12000sgunbzs9BA1.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0306r12000sgunc0e3AEF.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0301b12000sgunauw420C.png"
+           },
+           "isFeaturedTab": false,
+           "count": 62,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Outdoor & sports",
+           "type": "OutdoorExperiences",
+           "groupName": "Experiences",
+           "groupType": "experienceAndTours",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0301i12000tsdqfjy5682.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0303r12000tsdpw022359.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0302l12000tsdpp5eD5D5.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0303d12000tsdqlt54E21.png"
+           },
+           "isFeaturedTab": false,
+           "count": 289,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Culture & history",
+           "type": "CulturalExperiences",
+           "groupName": "Experiences",
+           "groupType": "experienceAndTours",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0301612000sgunxb858F7.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0304g12000sguncq96096.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0301s12000sgunhus5EE6.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0306w12000sguo2oxBEC8.png"
+           },
+           "isFeaturedTab": false,
+           "count": 6414,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "City sightseeing",
+           "type": "citysightseeing",
+           "groupName": "Experiences",
+           "groupType": "experienceAndTours",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0303212000t4umfyy3A7D.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0306s12000t4uly8e8EED.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0301i12000t4um2mwF589.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0303o12000t4umsxf9739.png"
+           },
+           "isFeaturedTab": false,
+           "count": 2414,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Nature & wildlife",
+           "type": "natureanimals",
+           "groupName": "Experiences",
+           "groupType": "experienceAndTours",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0301v12000tv19bo34553.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0302112000tv198p48458.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0300g12000tv19gu3DB4C.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0304j12000tv19n9p87B2.png"
+           },
+           "isFeaturedTab": false,
+           "count": 330,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Travel photography",
+           "type": "photographytrip",
+           "groupName": "Experiences",
+           "groupType": "experienceAndTours",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0304312000f9muftnEDEB.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0301012000f9mto8e25C9.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0306l12000f9mt497C774.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0301p12000f9mtv2u1E28.png"
+           },
+           "isFeaturedTab": false,
+           "count": 372,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Aerial tours",
+           "type": "AerialTours",
+           "groupName": "Experiences",
+           "groupType": "experienceAndTours",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0302o12000f9wlsph956C.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0301d12000f9wlrn2DBE9.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0301f12000f9wlro048C1.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0302h12000f9wm3px5394.png"
+           },
+           "isFeaturedTab": false,
+           "count": 16,
+           "itemProps": {
+            "accessible": true
+           }
+          }
+         ],
+         "isFeaturedTab": false,
+         "upgrade": false,
+         "itemProps": {
+          "accessible": true
+         }
+        },
+        {
+         "name": "Must-have",
+         "type": "toolsAndService",
+         "icon": {
+          "default": "https://dimg04.c-ctrip.com/images/0305b12000tq9h6hf7AC3.png",
+          "selected": "https://dimg04.tripcdn.com/images/1o54112000sogvh7uBAAE.png",
+          "dark": "https://dimg04.c-ctrip.com/images/0306a12000tq9hasu1E45.png",
+          "darkSelected": "https://dimg04.tripcdn.com/images/1o55m12000sogvyos88CF.png"
+         },
+         "fdefault": "",
+         "children": [
+          {
+           "name": "Tourist pass",
+           "type": "CityPass",
+           "groupName": "Must-have",
+           "groupType": "toolsAndService",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0303y12000f9wox67C7E1.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0304412000f9wo5t7CC1B.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0302012000f9wor68110E.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0305r12000f9woyx0095B.png"
+           },
+           "isFeaturedTab": false,
+           "count": 258,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Shuttle bus",
+           "type": "buspiao",
+           "groupName": "Must-have",
+           "groupType": "toolsAndService",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0302v12000f9mqf6z525B.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0305r12000f9mq9xv39E9.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0301l12000f9mq59l2FB1.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0305n12000f9mpwz37EE9.png"
+           },
+           "isFeaturedTab": false,
+           "count": 229,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Travel extras",
+           "type": "travelextra",
+           "groupName": "Must-have",
+           "groupType": "toolsAndService",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0303k12000mliskhf492E.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0302l12000mlj56h43533.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0300112000mlj75teA895.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0300812000mlj4yte557B.png"
+           },
+           "isFeaturedTab": false,
+           "count": 13,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Airport express",
+           "type": "AirportExpress",
+           "groupName": "Must-have",
+           "groupType": "toolsAndService",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0303u12000f9wor792FAA.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0304u12000f9woesh0D9A.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0304712000f9woo43F730.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0305z12000f9wp8c87249.png"
+           },
+           "isFeaturedTab": false,
+           "count": 6,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Eurail pass",
+           "type": "Eurail",
+           "groupName": "Must-have",
+           "groupType": "toolsAndService",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0306z12000f9wo7hs05DE.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0306012000f9wodhb7ABA.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0306p12000f9woo1h5697.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0300v12000f9wn2pzBE27.png"
+           },
+           "isFeaturedTab": false,
+           "count": 4,
+           "itemProps": {
+            "accessible": true
+           }
+          },
+          {
+           "name": "Equipment rental",
+           "type": "equipmentrent",
+           "groupName": "Must-have",
+           "groupType": "toolsAndService",
+           "icon": {
+            "default": "https://dimg04.c-ctrip.com/images/0303g12000f9mrlj7229F.png",
+            "selected": "https://dimg04.c-ctrip.com/images/0305512000f9mrl5i9B75.png",
+            "dark": "https://dimg04.c-ctrip.com/images/0303p12000f9mru7uA873.png",
+            "darkSelected": "https://dimg04.c-ctrip.com/images/0300l12000f9mrzv8D924.png"
+           },
+           "isFeaturedTab": false,
+           "count": 4,
+           "itemProps": {
+            "accessible": true
+           }
+          }
+         ],
+         "isFeaturedTab": false,
+         "upgrade": false,
+         "itemProps": {
+          "accessible": true
+         }
+        }
+       ],
+       "listIsEmpty": false,
+       "isFeatured": false,
+       "showTransportSku": false,
+       "moreGroups": []
+      },
+      "seo": {
+       "title": "Popular local attractions & tours, attraction tickets, unique experiences, and activities in  | Trip.com",
+       "keyword": "Local experiences in ,  attraction tickets,  activity ticket discounts,  activity ticket reservations, and unique experiences and activities in ",
+       "desc": ""
+      },
+      "isLastRequestNoResult": false,
+      "quickTabs": true,
+      "request": {
+       "pageid": "10650012671",
+       "pagetype": "city",
+       "cityType": "dt",
+       "keyword": "museum",
+       "id": "228",
+       "name": "Tokyo",
+       "extParams": "",
+       "sourceFrom": "",
+       "tangramTraceId": "",
+       "pshowcode": "all",
+       "defaultCategoryCode": "all",
+       "header": {
+        "clientInfo": {
+         "currency": "USD",
+         "locale": "en-XX",
+         "pageId": "10650010429",
+         "channelId": 120,
+         "platformId": 24,
+         "channel": "",
+         "extension": [],
+         "cid": "09034118211063242685",
+         "oriSyscode": "09",
+         "syscode": "09",
+         "allianceId": "",
+         "siteId": "",
+         "ouid": "",
+         "location": {
+          "lat": "0.0",
+          "lon": "0.0",
+          "cityId": 0,
+          "locatedCityId": 0
+         }
+        },
+        "enviroment": "PROD"
+       },
+       "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+       "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+       "needUpStream": false,
+       "extrasConfigData": {},
+       "requestSource": "activity",
+       "firstTab": "all",
+       "filtered": {
+        "items": [],
+        "pageIndex": 1,
+        "pageSize": 12,
+        "sort": "1",
+        "tab": "",
+        "extras": {
+         "MAIN_TAB_SCENE_CODE": ""
+        }
+       },
+       "isInit": true,
+       "isNewBVersion": true,
+       "isTrafficPathV3": true,
+       "ctx": {
+        "cargoContext": {
+         "group": "Trip",
+         "currency": "USD",
+         "locale": "en-XX",
+         "lang": "en",
+         "site": "EN"
+        }
+       },
+       "isPackageTourVersion": false,
+       "returnModes": [
+        "topDestination",
+        "tab",
+        "filter",
+        "product",
+        "count"
+       ],
+       "tabParams": {
+        "all-all": {
+         "traceid": "8713bcb7-1950-e30c-dc49-17949af76869",
+         "searchaddinfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+         "ServerInfo_Extra_SearchToken": "75682_2,80261_2,75595_2,78773_2,78771_2,80382_2,82451_2,78594_2,84956_2,87106_2,50618334_0,78738_2"
+        }
+       },
+       "recallContext": "{\"removeTerm\":false}",
+       "needOperation": "",
+       "recallStrategy": "",
+       "originSiteDistrictId": "",
+       "showTransportSku": false,
+       "disPlayKeyword": "museum",
+       "scenetype": 0
+      },
+      "ds": {
+       "response": {
+        "tabs": [
+         {
+          "type": "all",
+          "name": "Recommended",
+          "extras": {
+           "tUnSelectedTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0302m12000tq9g3364C4F.png\",\"height\":120}",
+           "name": "Recommended",
+           "tUnSelectedDarkTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0301t12000tq9g65f7A5F.png\",\"height\":120}",
+           "tSelectedDarkTabIcon": "{}",
+           "tSelectedTabIcon": "{}"
+          }
+         },
+         {
+          "type": "attractionsAndTickets",
+          "name": "Attractions",
+          "extras": {
+           "tUnSelectedTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0306z12000tsdxcqeB942.png\",\"height\":120}",
+           "tUnSelectedDarkTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0302k12000tsdy0y52F48.png\",\"height\":120}",
+           "tSelectedDarkTabIcon": "{}",
+           "tBizTabIcon": "{\"width\":231,\"url\":\"https://dimg04.c-ctrip.com/images/0303k12000eyblo4dC033.png\",\"height\":129}",
+           "name": "Attractions",
+           "bizIconBgColor": "{\"color\":[254,241,239,1],\"type\":\"pure\"}",
+           "tBizTabDarkIcon": "{\"width\":231,\"url\":\"https://dimg04.c-ctrip.com/images/0303k12000eyblo4dC033.png\",\"height\":129}",
+           "tSelectedTabIcon": "{}"
+          },
+          "childItems": [
+           {
+            "type": "Ticket2",
+            "name": "Attractions",
+            "count": 174243,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0303012000f9mmp1kED87.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301o12000f9mmxlv4C38.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0300c12000f9mmlfvE187.png\",\"height\":42}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0306n12000f9mn0li14ED.png\",\"height\":42}"
+            }
+           }
+          ]
+         },
+         {
+          "type": "experienceAndTours",
+          "name": "Experiences",
+          "extras": {
+           "tUnSelectedTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0304812000ts5dpew4F13.png\",\"height\":120}",
+           "tUnSelectedDarkTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0302y12000ts5df7y9558.png\",\"height\":120}",
+           "tSelectedDarkTabIcon": "{}",
+           "tBizTabIcon": "{\"width\":231,\"url\":\"https://dimg04.c-ctrip.com/images/0301v12000eyblj3m1247.png\",\"height\":129}",
+           "name": "Experiences",
+           "bizIconBgColor": "{\"color\":[255,244,221,1],\"type\":\"pure\"}",
+           "tBizTabDarkIcon": "{\"width\":231,\"url\":\"https://dimg04.c-ctrip.com/images/0301v12000eyblj3m1247.png\",\"height\":129}",
+           "tSelectedTabIcon": "{}"
+          },
+          "childItems": [
+           {
+            "type": "1daytrip",
+            "name": "Day tours",
+            "count": 7375,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0300712000f9mswix83CE.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0305012000f9mtocxC220.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301x12000f9msvj2D953.png\",\"height\":42}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0306412000f9mt6u1E6EB.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "FoodDrink",
+            "name": "Food & drink",
+            "count": 587,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0302z12000f9wmted09D2.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0300r12000f9wmiol3C7F.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301f12000f9wmvfr37F9.png\",\"height\":42}",
+             "viewTagType": "3",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0305912000f9wm9ud31E0.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "showexhibition",
+            "name": "Shows & events",
+            "count": 268,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0303g12000tnwclojFF1D.png\",\"height\":48}",
+             "tUnSelectedDarkTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0302q12000tnwds1x3A87.png\",\"height\":48}",
+             "tSelectedDarkTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0302f12000tnwcpkl4A8C.png\",\"height\":48}",
+             "viewTagType": "3",
+             "tSelectedTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0302z12000tnwdhx8636C.png\",\"height\":48}"
+            }
+           },
+           {
+            "type": "WaterActivities",
+            "name": "Water activities",
+            "count": 49,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0302q12000uavdt3sFD81.png\",\"height\":48}",
+             "tUnSelectedDarkTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0306d12000uave751BC98.png\",\"height\":48}",
+             "tSelectedDarkTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0304u12000uave5ug287D.png\",\"height\":48}",
+             "viewTagType": "3",
+             "tSelectedTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0305t12000uavdphd8018.png\",\"height\":48}"
+            }
+           },
+           {
+            "type": "BoatExperiences",
+            "name": "Boat tours",
+            "count": 590,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0304312000f9n078v4F5B.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0300s12000f9wkcav4D5C.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301o12000f9wkcax3AE4.png\",\"height\":42}",
+             "viewTagType": "3",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0305i12000f9wkzus535F.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "WellnessSpa",
+            "name": "Spa & wellness",
+            "count": 62,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0303y12000sgunaur12CE.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0306r12000sgunc0e3AEF.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301b12000sgunauw420C.png\",\"height\":42}",
+             "viewTagType": "3",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301d12000sgunbzs9BA1.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "OutdoorExperiences",
+            "name": "Outdoor & sports",
+            "count": 289,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0301i12000tsdqfjy5682.png\",\"height\":48}",
+             "tUnSelectedDarkTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0302l12000tsdpp5eD5D5.png\",\"height\":48}",
+             "tSelectedDarkTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0303d12000tsdqlt54E21.png\",\"height\":48}",
+             "viewTagType": "3",
+             "tSelectedTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0303r12000tsdpw022359.png\",\"height\":48}"
+            }
+           },
+           {
+            "type": "CulturalExperiences",
+            "name": "Culture & history",
+            "count": 6414,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301612000sgunxb858F7.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301s12000sgunhus5EE6.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0306w12000sguo2oxBEC8.png\",\"height\":42}",
+             "viewTagType": "3",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0304g12000sguncq96096.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "citysightseeing",
+            "name": "City sightseeing",
+            "count": 2414,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0303212000t4umfyy3A7D.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301i12000t4um2mwF589.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0303o12000t4umsxf9739.png\",\"height\":42}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0306s12000t4uly8e8EED.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "natureanimals",
+            "name": "Nature & wildlife",
+            "count": 330,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0301v12000tv19bo34553.png\",\"height\":48}",
+             "tUnSelectedDarkTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0300g12000tv19gu3DB4C.png\",\"height\":48}",
+             "tSelectedDarkTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0304j12000tv19n9p87B2.png\",\"height\":48}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":48,\"url\":\"https://dimg04.c-ctrip.com/images/0302112000tv198p48458.png\",\"height\":48}"
+            }
+           },
+           {
+            "type": "photographytrip",
+            "name": "Travel photography",
+            "count": 372,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0304312000f9muftnEDEB.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0306l12000f9mt497C774.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301p12000f9mtv2u1E28.png\",\"height\":42}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301012000f9mto8e25C9.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "AerialTours",
+            "name": "Aerial tours",
+            "count": 16,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0302o12000f9wlsph956C.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301f12000f9wlro048C1.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0302h12000f9wm3px5394.png\",\"height\":42}",
+             "viewTagType": "3",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301d12000f9wlrn2DBE9.png\",\"height\":42}"
+            }
+           }
+          ]
+         },
+         {
+          "type": "toolsAndService",
+          "name": "Must-have",
+          "extras": {
+           "tUnSelectedTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0305b12000tq9h6hf7AC3.png\",\"height\":120}",
+           "tUnSelectedDarkTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0306a12000tq9hasu1E45.png\",\"height\":120}",
+           "tSelectedDarkTabIcon": "{}",
+           "tBizTabIcon": "{}",
+           "name": "Must-have",
+           "bizIconBgColor": "{\"color\":[233,243,252,1],\"type\":\"pure\"}",
+           "tBizTabDarkIcon": "{}",
+           "tSelectedTabIcon": "{}"
+          },
+          "childItems": [
+           {
+            "type": "CityPass",
+            "name": "Tourist pass",
+            "count": 258,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0303y12000f9wox67C7E1.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0302012000f9wor68110E.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0305r12000f9woyx0095B.png\",\"height\":42}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0304412000f9wo5t7CC1B.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "buspiao",
+            "name": "Shuttle bus",
+            "count": 229,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0302v12000f9mqf6z525B.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301l12000f9mq59l2FB1.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0305n12000f9mpwz37EE9.png\",\"height\":42}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0305r12000f9mq9xv39E9.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "travelextra",
+            "name": "Travel extras",
+            "count": 13,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0303k12000mliskhf492E.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0300112000mlj75teA895.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0300812000mlj4yte557B.png\",\"height\":42}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0302l12000mlj56h43533.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "AirportExpress",
+            "name": "Airport express",
+            "count": 6,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0303u12000f9wor792FAA.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0304712000f9woo43F730.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0305z12000f9wp8c87249.png\",\"height\":42}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0304u12000f9woesh0D9A.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "boatpiao",
+            "name": "Boat tickets",
+            "count": 1,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0304z12000f9mqaxlA129.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0303z12000f9mqakl86B8.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0305412000f9mqih552C0.png\",\"height\":42}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0304t12000f9mq6uaB841.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "JRPass",
+            "name": "JR Pass",
+            "count": 1,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0304g12000f9wnlx98C6C.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301112000f9wo9562888.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0300s12000f9wnsl8A711.png\",\"height\":42}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0301u12000f9wo93vBA80.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "Eurail",
+            "name": "Eurail pass",
+            "count": 4,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0306z12000f9wo7hs05DE.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0306p12000f9woo1h5697.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0300v12000f9wn2pzBE27.png\",\"height\":42}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0306012000f9wodhb7ABA.png\",\"height\":42}"
+            }
+           },
+           {
+            "type": "equipmentrent",
+            "name": "Equipment rental",
+            "count": 4,
+            "extras": {
+             "tUnSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0303g12000f9mrlj7229F.png\",\"height\":42}",
+             "tUnSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0303p12000f9mru7uA873.png\",\"height\":42}",
+             "tSelectedDarkTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0300l12000f9mrzv8D924.png\",\"height\":42}",
+             "viewTagType": "1",
+             "tSelectedTabIcon": "{\"width\":42,\"url\":\"https://dimg04.c-ctrip.com/images/0305512000f9mrl5i9B75.png\",\"height\":42}"
+            }
+           }
+          ]
+         }
+        ],
+        "total": 19564,
+        "server": {
+         "extras": {
+          "actExplainExpVersion": "B",
+          "ServerInfo_Extra_OriginViewTagCode": "",
+          "analyzedType": "{\"name\":\"museum\",\"bizLine\":8,\"termTypes\":[{\"id\":83,\"code\":\"\",\"name\":\"museum\",\"type\":\"keyword\",\"locale\":\"en-xx\"}]}",
+          "SIGHT_SEARCH_NLP_RESULT": "{\"rawKeyword\":\"museum\",\"preProcessKeyword\":\"museum\",\"keyword\":\"museum\",\"pinyin\":\"museum\",\"intentResult\":{\"intentType\":\"sight\",\"askIntentType\":\"default\",\"scores\":{}},\"rule\":\"sighttag\",\"multiAnalysisMap\":{\"min-analysis\":{\"analysisList\":[{\"wordList\":[{\"text\":\"museum\",\"pos\":\"5\",\"type\":\"sighttag\",\"types\":[\"sighttag\"],\"standardWord\":\"museum\",\"synoyms\":[],\"weight\":0.0}]}]},\"default\":{\"analysisList\":[{\"wordList\":[{\"text\":\"museum\",\"pos\":\"0\",\"type\":\"sighttag\",\"types\":[\"sighttag\"],\"standardWord\":\"museum\",\"synoyms\":[],\"entityList\":[{\"id\":83,\"word\":\"museum\",\"type\":\"sighttag\",\"poiId\":0,\"districtId\":0,\"cityId\":0,\"provinceId\":0,\"countryId\":0,\"hotelBrandId\":0,\"hotelGroupId\":0,\"star\":0.0,\"lat\":0.0,\"lon\":0.0,\"day\":0.0,\"night\":0.0,\"dValue\":0.0,\"isSuggest\":false,\"score\":0.0,\"extInfoMap\":{\"source\":\"ENTITY_DICT\"}}]}]}]},\"raw-default\":{\"analysisList\":[{\"wordList\":[{\"text\":\"museum\",\"pos\":\"0\",\"type\":\"sighttag\",\"types\":[\"sighttag\"],\"standardWord\":\"museum\"}]}]}},\"recResultMap\":{\"default\":{\"fieldMap\":{\"sighttag\":{\"recEntityList\":[{\"entityList\":[{\"id\":83,\"word\":\"museum\",\"type\":\"sighttag\",\"poiId\":0,\"districtId\":0,\"cityId\":0,\"provinceId\":0,\"countryId\":0,\"hotelBrandId\":0,\"hotelGroupId\":0,\"star\":0.0,\"lat\":0.0,\"lon\":0.0,\"day\":0.0,\"night\":0.0,\"dValue\":0.0,\"isSuggest\":false,\"score\":0.0,\"extInfoMap\":{\"source\":\"ENTITY_DICT\"}}],\"wordList\":[{\"text\":\"museum\",\"pos\":\"0\",\"type\":\"sighttag\",\"types\":[\"sighttag\"],\"standardWord\":\"museum\",\"synoyms\":[]}]}]}}},\"sight\":{\"sort\":1,\"fieldMap\":{\"sighttag\":{\"recEntityList\":[{\"entityList\":[{\"id\":83,\"word\":\"museum\",\"type\":\"sighttag\",\"poiId\":0,\"districtId\":0,\"cityId\":0,\"provinceId\":0,\"countryId\":0,\"hotelBrandId\":0,\"hotelGroupId\":0,\"star\":0.0,\"lat\":0.0,\"lon\":0.0,\"day\":0.0,\"night\":0.0,\"dValue\":0.0,\"isSuggest\":false,\"score\":0.0,\"extInfoMap\":{\"source\":\"ENTITY_DICT\"}}],\"wordList\":[{\"text\":\"museum\",\"pos\":\"0\",\"type\":\"sighttag\",\"types\":[\"sighttag\"],\"standardWord\":\"museum\",\"synoyms\":[]}]}]}}}}}",
+          "ServerInfo_Extra_PoiName": "",
+          "ServerInfo_Extra_SearchAddInfo": "8713bcb7-1950-e30c-dc49-17949af76869_srh_tripact_88d4504a-1231-42b2-8620-cb80c9c342a3_1794045677044",
+          "NotOneDayTripTitleExplanation": "museum",
+          "termTypes": "{\"name\":\"museum\",\"bizLine\":8,\"termTypes\":[{\"id\":83,\"code\":\"\",\"name\":\"museum\",\"type\":\"theme\",\"bizLineSupport\":1,\"localeSupport\":1,\"locale\":\"en-xx\"}]}",
+          "NotOneDayTripKwdAnalyzedResult": "[{\"id\":83,\"code\":\"\",\"name\":\"museum\",\"locale\":\"en-xx\",\"originalName\":\"museum\",\"originTermTypeEnum\":\"KEYWORD\",\"sceneRules\":null,\"termList\":[],\"multiRecall\":false,\"order\":0,\"useOriginName\":false,\"useKwdRecall\":true,\"used\":false,\"locales\":[\"en-xx\"],\"rankScore\":null,\"termWeight\":null,\"useCircleRecall\":true,\"relatedPoiList\":null,\"siteTerm\":false,\"themeType\":true,\"sameName\":false,\"sameNameCanRemove\":false}]",
+          "OneDayTripTitleExplanation": "museum",
+          "ServerInfo_Extra_SearchToken": "75682_2,80261_2,75595_2,78773_2,78771_2,80382_2,82451_2,78594_2,84956_2,87106_2,50618334_0,78738_2",
+          "ServerInfo_Extra_CityID": "",
+          "ServerInfo_Extra_CityName": "",
+          "ServerInfo_Extra_KwdGsIDs": "",
+          "KEYWORD_ANALYSE_RESULT": "[{\"k\":\"sighttag\",\"v\":\"museum\"}]",
+          "RecallContext": "{\"removeTerm\":false}",
+          "ServerInfo_Extra_PshowCode": "",
+          "ServerInfo_Extra_CityInChina": "",
+          "OneDayTripKwdAnalyzedResult": "[{\"id\":83,\"code\":\"\",\"name\":\"museum\",\"locale\":\"en-xx\",\"originalName\":\"museum\",\"originTermTypeEnum\":\"KEYWORD\",\"sceneRules\":null,\"termList\":[],\"multiRecall\":false,\"order\":0,\"useOriginName\":false,\"useKwdRecall\":true,\"used\":false,\"locales\":[\"en-xx\"],\"rankScore\":null,\"termWeight\":null,\"useCircleRecall\":true,\"relatedPoiList\":null,\"siteTerm\":false,\"themeType\":true,\"sameName\":false,\"sameNameCanRemove\":false}]",
+          "ServerInfo_Extra_OriginSiteDistrictId": "",
+          "messageId": "100058660-0a8f8f2e-498346-4922",
+          "REQUEST_UNIQUE_CODE": "",
+          "ServerInfo_Extra_PoiSwitch2DaSou": "true",
+          "TTD_NLP_RESULT": "{\"responseStatus\":{\"timestamp\":{\"year\":2026,\"month\":10,\"dayOfMonth\":7,\"hourOfDay\":18,\"minute\":1,\"second\":16},\"ack\":\"Success\",\"errors\":[],\"extension\":[]},\"preProcessKeyword\":\"museum\",\"keyword\":\"museum\",\"analysisMap\":{\"default\":{\"strategy\":\"default\",\"wordList\":[{\"text\":\"museum\",\"pos\":0,\"type\":\"sighttag\",\"types\":[\"sighttag\",\"theme\"],\"standardWord\":\"museum\",\"entityList\":[{\"id\":83,\"type\":\"sighttag\"}]}]}}}",
+          "ServerInfo_Extra_DefaultRecommendedLocation": "",
+          "ServerInfo_Extra_FirstTab": "all",
+          "bizline": "8"
+         },
+         "traces": {}
+        },
+        "destinationBasicInfos": [
+         {
+          "analyzeResultType": 0,
+          "totalProduct": 93066
+         }
+        ],
+        "totalDesc": "10k+",
+        "SOA.ResponseStatusCode": 200,
+        "__API_NAME__": "/restapi/soa2/20684/json/productSearch",
+        "__API_URL__": "/restapi/soa2/20684/json/productSearch"
+       }
+      }
+     }
+    }
+   },
+   "key": "/xticket/list?pagetype=city&citytype=dt&keyword=museum&id=228&name=Tokyo",
+   "pathname": "/list",
+   "query": {
+    "renderPlatform": "",
+    "seo": 1,
+    "envObj": {
+     "env": "prod",
+     "isCtrip": false,
+     "pro": true,
+     "dev": false,
+     "plat": "unknow",
+     "phoneModel": "",
+     "isSupportWebP": true,
+     "configData": null
+    },
+    "pagetype": "city",
+    "citytype": "dt",
+    "keyword": "museum",
+    "id": "228",
+    "name": "Tokyo"
+   },
+   "asPath": "/xticket/list?pagetype=city&citytype=dt&keyword=museum&id=228&name=Tokyo",
+   "realPath": "/xticket/list?pagetype=city&citytype=dt&keyword=museum&id=228&name=Tokyo"
+  }
+ },
+ "page": "/list",
+ "query": {
+  "renderPlatform": "",
+  "seo": 1,
+  "envObj": {
+   "env": "prod",
+   "isCtrip": false,
+   "pro": true,
+   "dev": false,
+   "plat": "unknow",
+   "phoneModel": "",
+   "isSupportWebP": true,
+   "configData": null
+  },
+  "pagetype": "city",
+  "citytype": "dt",
+  "keyword": "museum",
+  "id": "228",
+  "name": "Tokyo"
+ },
+ "buildId": "xxx",
+ "assetPrefix": "https://ak-s-cw.tripcdn.com/ares/NFES/100058660/1793872057452",
+ "runtimeConfig": {
+  "appPrefix": "/xticket",
+  "routerConfig": [],
+  "AppID": "100058660",
+  "useAres2": true
+ },
+ "isFallback": false,
+ "customServer": true,
+ "gip": true,
+ "appGip": true,
+ "isSSR": true,
+ "isForceRender": true,
+ "isServerGetData": true,
+ "__pd": "{\"pd\":{\"r\":10,\"_d\":505,\"_p\":105}}",
+ "version": "6.18.2",
+ "i18nCaptchaURL": "https://ak-s-cw.tripcdn.com/modules/infosec/jigsawCaptcha/jigsaw-captcha.min.70c6e6893d555dd045d1a4110c14953a.macro.js",
+ "__nfesGlobalDatas": {
+  "nfesSharkData": {
+   "key.nfes.errorPage.tip": "Failed to load. Please try again later.",
+   "key.nfes.errorPage.retry": "Retry",
+   "key.nfes.errorPage.back": "Back"
+  }
+ },
+ "company": "",
+ "fullUrl": "https://www.trip.com/xticket/list?pagetype=city&citytype=dt&keyword=museum&id=228&name=Tokyo",
+ "isRTL": "",
+ "webcore": {
+  "preloadCSign": true
+ },
+ "scriptLoader": []
+}

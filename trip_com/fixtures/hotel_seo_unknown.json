@@ -1,0 +1,34 @@
+{
+ "data": {
+  "errors": [
+   {
+    "name": "28537.hoteltripwebbff/getHotelDetailSEO",
+    "message": "{\"ResponseStatus\":{\"Timestamp\":\"/Date(1794045800442+800)/\",\"Ack\":\"Failure\",\"Errors\":[{\"Message\":\"获取timezone失败\",\"Stack\":\"\",\"ErrorCode\":\"400\"}],\"Extension\":[{\"Id\":\"CLOGGING_TRACE_ID\",\"Value\":\"\"},{\"Id\":\"TraceLogId\",\"Value\":\"100025527-0a8eea04-498346-418417\"},{\"Id\":\"XRequestId\",\"Value\":\"df0cd70a-9a2c-991c-b1c6-5dab747a2e27\"},{\"Id\":\"RootMessageId\",\"Value\":\"100044815-0a8ee49b-498346-43306\"}]}}"
+   }
+  ],
+  "grayHitVersion": "TARGET"
+ },
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794045800455+800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Extension": [
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Value": ""
+   },
+   {
+    "Id": "TraceLogId",
+    "Value": "100025527-0a8eea04-498346-418417"
+   },
+   {
+    "Id": "XRequestId",
+    "Value": "081e9337-0690-9d93-9ee1-4cfacf199e76"
+   },
+   {
+    "Id": "RootMessageId",
+    "Value": "100025527-0a8eea04-498346-418422"
+   }
+  ]
+ }
+}

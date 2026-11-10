@@ -1,0 +1,55 @@
+{
+ "data": {
+  "hotelImagePop": {
+   "hotelProvide": {
+    "imgTabs": [],
+    "total": 0,
+    "categoryName": "Hotel Uploads"
+   },
+   "userProvide": {
+    "total": 0,
+    "categoryName": "User Uploads",
+    "imgTabs": []
+   },
+   "hotelExtraInfo": {}
+  },
+  "hotelTopImage": {
+   "total": 1,
+   "imgUrlList": [
+    {
+     "imgUrl": "https://images3.tripcdn.com/hotel_h5_images/np-pic.png",
+     "videoUrl": "",
+     "categoryId": 0,
+     "pictureId": 0,
+     "diffPositionUrls": [],
+     "imgAllIndex": -1
+    }
+   ],
+   "hotelImageCountTitle": "See All 0 Photos"
+  },
+  "grayHitVersion": "TARGET"
+ },
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794045800603+800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Extension": [
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Value": ""
+   },
+   {
+    "Id": "TraceLogId",
+    "Value": "100025527-0a8fc82a-498346-415628"
+   },
+   {
+    "Id": "XRequestId",
+    "Value": "b8ca67b3-fca7-93ed-af34-66b41a4af8d7"
+   },
+   {
+    "Id": "RootMessageId",
+    "Value": "100025527-0a8fc82a-498346-415764"
+   }
+  ]
+ }
+}

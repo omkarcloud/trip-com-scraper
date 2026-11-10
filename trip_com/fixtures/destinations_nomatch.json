@@ -1,0 +1,75 @@
+{
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794047514057+0800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Extension": [
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Value": "1286738800064762783"
+   },
+   {
+    "Id": "RootMessageId",
+    "Value": "100025527-0a8f0529-498346-4043857"
+   }
+  ]
+ },
+ "responseList": [
+  {
+   "id": 73,
+   "type": "City",
+   "name": "Singapore",
+   "countryId": 1,
+   "filtername": "qwertyuiopasd",
+   "filtertype": "30",
+   "filterid": "30|qwertyuiopasd"
+  },
+  {
+   "id": 633,
+   "type": "City",
+   "name": "New York",
+   "countryId": 1,
+   "filtername": "qwertyuiopasd",
+   "filtertype": "30",
+   "filterid": "30|qwertyuiopasd"
+  },
+  {
+   "id": 359,
+   "type": "City",
+   "name": "Bangkok",
+   "countryId": 1,
+   "filtername": "qwertyuiopasd",
+   "filtertype": "30",
+   "filterid": "30|qwertyuiopasd"
+  },
+  {
+   "id": 228,
+   "type": "City",
+   "name": "Tokyo",
+   "countryId": 1,
+   "filtername": "qwertyuiopasd",
+   "filtertype": "30",
+   "filterid": "30|qwertyuiopasd"
+  },
+  {
+   "id": 274,
+   "type": "City",
+   "name": "Seoul",
+   "countryId": 1,
+   "filtername": "qwertyuiopasd",
+   "filtertype": "30",
+   "filterid": "30|qwertyuiopasd"
+  },
+  {
+   "id": 192,
+   "type": "City",
+   "name": "Paris",
+   "countryId": 1,
+   "filtername": "qwertyuiopasd",
+   "filtertype": "30",
+   "filterid": "30|qwertyuiopasd"
+  }
+ ],
+ "originalKeyWord": "qwertyuiopasd",
+ "traceLogId": "ea4deefc-9aca-4baa-926e-37de5023f865"
+}

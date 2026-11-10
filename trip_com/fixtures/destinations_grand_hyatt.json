@@ -1,0 +1,31 @@
+{
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794045153946+0800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Extension": [
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Value": "6162938685284007886"
+   },
+   {
+    "Id": "RootMessageId",
+    "Value": "100025527-0a8fbfe9-498345-6908161"
+   }
+  ]
+ },
+ "responseList": [
+  {
+   "id": 2,
+   "type": "City",
+   "name": "Shanghai",
+   "countryId": 1,
+   "filtername": "grand hyatt shanghai",
+   "filtertype": "30",
+   "filterid": "30|grand hyatt shanghai",
+   "timeZone": -1
+  }
+ ],
+ "originalKeyWord": "grand hyatt shanghai",
+ "traceLogId": "263417c9-bd28-40fd-82d5-12af6020e4b3"
+}

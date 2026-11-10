@@ -1,0 +1,950 @@
+{
+ "data": {
+  "seoInfo": {
+   "star": 0,
+   "cityName": "Shanghai",
+   "hotelName": "Shanghai Hostel",
+   "cityEnName": "Shanghai",
+   "hotelEnName": "Shanghai Hostel",
+   "hotelInfo": {
+    "title": "About This Property",
+    "list": [
+     {
+      "question": "Nearest Airport",
+      "answer": "Shanghai Hongqiao Airport",
+      "rank": 1
+     },
+     {
+      "question": "Distance to Airport",
+      "answer": "19.11KM",
+      "rank": 2
+     },
+     {
+      "question": "Nearest Train Station",
+      "answer": "Shanghai Railway Station",
+      "rank": 3
+     },
+     {
+      "question": "Distance to Train Station",
+      "answer": "1.78KM",
+      "rank": 4
+     },
+     {
+      "question": "Nearest Subway Station",
+      "answer": "North Zhongshan Road",
+      "rank": 5
+     },
+     {
+      "question": "Distance to Subway Station",
+      "answer": "0.8KM",
+      "rank": 6
+     },
+     {
+      "question": "Average Price From",
+      "answer": "USD5",
+      "rank": 7
+     }
+    ]
+   }
+  },
+  "gtmData": "{\"productSDate\":\"20261210\",\"productEDate\":\"20261212\",\"productCity\":\"2\",\"productCName\":\"Shanghai\",\"productRName\":\"Shanghai\",\"productIds\":\"126577790\",\"productType\":\"Domestics Hotels\",\"productCategory\":\"Dome\"}",
+  "crumbs": [
+   {
+    "text": "Trip.com",
+    "url": "https://us.trip.com"
+   },
+   {
+    "text": "Hotels",
+    "url": "https://us.trip.com/hotels/"
+   },
+   {
+    "text": "Hotels in China",
+    "url": "https://us.trip.com/hotels/country/china.html"
+   },
+   {
+    "text": "Hotels in Shanghai",
+    "url": "https://us.trip.com/hotels/shanghai-hotels-list-2/"
+   },
+   {
+    "text": "Shanghai Hostel",
+    "url": ""
+   }
+  ],
+  "seoCodeLab": "{\"@type\":\"Hotel\",\"name\":\"Shanghai Hostel\",\"address\":{\"postalCode\":\"\",\"addressLocality\":\"Lane 708, Gonghexin Road\",\"streetAddress\":\"Lane 708, Gonghexin Road, Jing'an District, Shanghai, China\",\"addressRegion\":\"Shanghai\",\"addressCountry\":\"China\",\"@type\":\"PostalAddress\"},\"image\":\"https://ak-d.tripcdn.com/images/1mc0s12000imqv0vl3D0C_R_960_660_R5_D.jpg\",\"@context\":\"http://schema.org\",\"aggregateRating\":{\"bestRating\":10,\"@type\":\"AggregateRating\",\"reviewCount\":\"51\",\"ratingValue\":\"6\"},\"priceRange\":\"From $4\",\"url\":\"https://www.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/\"}",
+  "FAQ": {
+   "title": "You might be wondering",
+   "list": [
+    {
+     "question": "How much does it cost to stay at Shanghai Hostel?",
+     "answer": "Prices at {1}Shanghai Hostel{/1} are subject to change according to dates, hotel policy, and other factors. To view prices, please search for the dates you wish to stay at the hotel.",
+     "rank": 1
+    },
+    {
+     "question": "What is the closest airport to Shanghai Hostel?",
+     "answer": "The closest airport is Shanghai Hongqiao International Airport. It is 9.8 miles from the hotel and approximately a 28 minutes journey by taxi.",
+     "rank": 2
+    },
+    {
+     "question": "What are the check-in and check-out times at Shanghai Hostel?",
+     "answer": "The check-in time is after 08:00 and the check-out time is before 12:00.",
+     "rank": 3
+    },
+    {
+     "question": "Does Shanghai Hostel provide airport transfer services?",
+     "answer": "No, the {1}Shanghai Hostel{/1} doesn't provide airport transfer services.",
+     "rank": 4
+    },
+    {
+     "question": "Does Shanghai Hostel have a swimming pool?",
+     "answer": "No, {1}Shanghai Hostel{/1} doesn't have a pool.",
+     "rank": 6,
+     "type": "Facility"
+    },
+    {
+     "question": "Does Shanghai Hostel have fitness amenities?",
+     "answer": "No, {1}Shanghai Hostel{/1} doesn't have fitness amenities.",
+     "rank": 7
+    },
+    {
+     "question": "Does Shanghai Hostel provide Wi-Fi?",
+     "answer": "Yes, the hotel provides Wi-Fi.",
+     "rank": 8
+    },
+    {
+     "question": "Does Shanghai Hostel have non-smoking rooms?",
+     "answer": "Yes, {1}Shanghai Hostel{/1} has non-smoking rooms. Please view the hotel listing for details.",
+     "rank": 9
+    },
+    {
+     "question": "Does Shanghai Hostel provide breakfast?",
+     "answer": "No, {1}Shanghai Hostel{/1} doesn't provide breakfast.",
+     "rank": 10
+    },
+    {
+     "question": "Does Shanghai Hostel have a restaurant?",
+     "answer": "No, {1}Shanghai Hostel{/1} doesn't have a restaurant.",
+     "rank": 11
+    },
+    {
+     "question": "Is parking available at Shanghai Hostel?",
+     "answer": "No, there's no parking available at {1}Shanghai Hostel{/1}.",
+     "rank": 12
+    },
+    {
+     "question": "Does Shanghai Hostel have children's amenities?",
+     "answer": "No, {1}Shanghai Hostel{/1} doesn't have children's amenities.",
+     "rank": 14
+    },
+    {
+     "question": "Is Shanghai Hostel close to transport stations?",
+     "answer": "The closest station is North Zhongshan Road. It is 2650 ft from the hotel. {0}View On Map{/0}",
+     "rank": 16,
+     "type": "Map"
+    },
+    {
+     "question": "Is Shanghai Hostel nearby popular attractions?",
+     "answer": "{1}Shanghai Hostel{/1} is near the following attractions: {0}Shanghai Sihang Warehouse Battle Memorial (approx. 1.1 miles){/0}, {0}Shanghai Natural History Museum (approx. 1.4 miles){/0}, {0}Star Culture Center · Dream Theater (approx. 1.4 miles){/0}.",
+     "rank": 17,
+     "type": "Sights"
+    },
+    {
+     "question": "Does Shanghai Hostel have hot springs?",
+     "answer": "No, {1}Shanghai Hostel{/1} doesn't have hot springs.",
+     "rank": 18
+    }
+   ]
+  },
+  "newFaq": {
+   "title": "You might be wondering",
+   "list": [
+    {
+     "key": "SEO_Hotel_Homepage_FAQ1",
+     "title": "How do I book a hotel on Trip.com?",
+     "answer": "To book a hotel on Trip.com, simply enter your destination, travel dates, and the number of guests on the page. Then, browse through the available hotels and select the one you want to book. Follow the prompts to enter your payment information and complete the booking. "
+    },
+    {
+     "key": "SEO_Hotel_Homepage_FAQ2",
+     "title": "How do I get hotel deals on Trip.com?",
+     "answer": "There are several ways to find affordable hotels on Trip.com. You can narrow down your search results by filtering hotels according to your preferred price range, or you can sort the results by price to view the cheapest options first."
+    },
+    {
+     "key": "SEO_Hotel_Homepage_FAQ3",
+     "title": "Where can I find hotel deals on Trip.com?",
+     "answer": "Trip.com offers a wide variety of hotel deals and promotions that are available throughout the year. You can easily find these special offers on our <a href=\"https://us.trip.com/sale/deals/\">deals page</a>. What's more, if you are a member of our loyalty program, you can sign in to your account and discover exclusive discounted rates at hotel list pages."
+    },
+    {
+     "key": "SEO_Hotel_Homepage_FAQ4",
+     "title": "How can I get lower prices for hotels?",
+     "answer": "Sometimes booking hotels midweek is cheaper, but it also depends on the season."
+    },
+    {
+     "key": "SEO_Hotel_Homepage_FAQ5",
+     "title": "How many hotels are listed on Trip.com?",
+     "answer": "You can find over 1.5 million hotels in more than 230 countries or regions on Trip.com. Haven't decided which hotel to book? Browse our site to get ideas!"
+    },
+    {
+     "key": "SEO_Hotel_Homepage_FAQ6",
+     "title": "Can I cancel or change my hotel bookings on Trip.com?",
+     "answer": "It depends on the hotel policy and date of cancellation. Please check the policy section of the related hotel pages. To cancel or change your bookings, sign in to your Trip.com account, go to \"My Bookings\", and follow the instructions."
+    },
+    {
+     "key": "SEO_Hotel_Homepage_FAQ7",
+     "title": "How do I contact Trip.com customer support?",
+     "answer": "You can contact Trip.com's 24/7 customer support by visiting the Help Center on Trip.com and submitting a request. You can also contact us by phone or service chat, depending on your location."
+    }
+   ]
+  },
+  "seoFooterModule": {
+   "title": "Recommendations",
+   "footerItem": [
+    {
+     "title": "Most Viewed Hotels",
+     "linkItem": [
+      {
+       "text": "Kingtown Hotel Plaza Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-428087/kingtown-hotel-plaza-shanghai/"
+      },
+      {
+       "text": "Atour Hotel Nanjing East Road, Shanghai on the Bund",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-444194/atour-hotel-nanjing-east-road-shanghai-on-the-bund/"
+      },
+      {
+       "text": "Shanghai People's Square Nanjing East Road Pedestrian Street Treasury Hotel",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-122358729/shanghai-people-s-square-nanjing-east-road-pedestrian-street-treasury-hotel/"
+      },
+      {
+       "text": "Waiting Century Hotel (Shanghai Jing'an Railway Station South Square)",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-1230251/waiting-century-hotel/"
+      },
+      {
+       "text": "Holiday Inn Express SHANGHAI PUDONG AIRPORT by IHG",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-107901525/holiday-inn-express-shanghai-pudong-airport-by-ihg/"
+      },
+      {
+       "text": "Da Zhong Airport Hotel",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-432298/da-zhong-airport-hotel/"
+      },
+      {
+       "text": "Hotel Chalet Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-72926277/hotel-chalet-shanghai/"
+      },
+      {
+       "text": "Rezen Meta Tree Hotel (City Center & The Bund, Shanghai)",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-431843/rezen-meta-tree-hotel/"
+      },
+      {
+       "text": "Radisson Collection Hyland Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-375477/radisson-collection-hyland-shanghai/"
+      },
+      {
+       "text": "Ramada Encore by Wyndham Shanghai Pudong Airport",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-13819538/cuncunli-life-aesthetics-hotel/"
+      },
+      {
+       "text": "Yitel Premium (Shanghai people's Square Nanjing Road Pedestrian Street)",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-16197084/yitel-premium/"
+      },
+      {
+       "text": "The Bund Puyan Hotel, Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-75329189/the-bund-puyan-hotel-shanghai/"
+      },
+      {
+       "text": "Century Asia Island Hotel",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-133580854/century-asia-island-hotel/"
+      },
+      {
+       "text": "Grand Hyatt Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/"
+      },
+      {
+       "text": "Aqua Suhe NO.1 Hotel(Shanghai Jingan)",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-2895314/aqua-suhe-no1-hotel/"
+      },
+      {
+       "text": "Dihang Boutique Hotel (Shanghai Pudong Airport)",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-6870954/dihang-boutique-hotel-shanghai-pudong-airport/"
+      },
+      {
+       "text": "Meta Tree Hotel, People's Square, City Center In Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-431900/meta-tree-hotel-people-s-square-city-center-in-shanghai/"
+      },
+      {
+       "text": "Holiday Inn SHANGHAI PUDONG AIRPORT by IHG",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-126527331/holiday-inn-shanghai-pudong-airport-by-ihg/"
+      },
+      {
+       "text": "Dayin International Youth Hostel(East Nanjing Road & The Bund)",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-83645195/dayin-international-youth-hostel/"
+      },
+      {
+       "text": "Toy Story Hotel",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-4687213/toy-story-hotel/"
+      }
+     ]
+    },
+    {
+     "title": "Hotels near Top Attractions",
+     "linkItem": [
+      {
+       "text": "Hotels near Shanghai Haichang Ocean Park",
+       "url": "https://us.trip.com/hotels/shanghai-shanghai-haichang-ocean-park/hotels-c2m10747267/"
+      },
+      {
+       "text": "Hotels near Nanjing Road Pedestrian Street",
+       "url": "https://us.trip.com/hotels/shanghai-nanjing-road/hotels-c2m4190189/"
+      },
+      {
+       "text": "Hotels near Huangpu River Cruise(Shiliupu Pier)",
+       "url": "https://us.trip.com/hotels/shanghai-huangpu-river-tour/hotels-c2m8575410/"
+      },
+      {
+       "text": "Hotels near Lujiazui Central Greenland",
+       "url": "https://us.trip.com/hotels/shanghai-lujiazui-central-greenland/hotels-c2m4190008/"
+      },
+      {
+       "text": "Hotels near Pudongdiyi Library",
+       "url": "https://us.trip.com/hotels/shanghai-shanghai-pudong-lujiazui-library/hotels-c2m2588477/"
+      },
+      {
+       "text": "Hotels near People's Square",
+       "url": "https://us.trip.com/hotels/shanghai-people-s-square/hotels-c2m4190012/"
+      },
+      {
+       "text": "Hotels near Shanghai Disney Resort",
+       "url": "https://us.trip.com/hotels/shanghai-shanghai-disney-resort/hotels-c2m15691119/"
+      },
+      {
+       "text": "Hotels near Shanghai Wild Animal Park",
+       "url": "https://us.trip.com/hotels/shanghai-shanghai-safari/hotels-c2m4189906/"
+      },
+      {
+       "text": "Hotels near Kowloon Man's Hospital",
+       "url": "https://us.trip.com/hotels/shanghai-kowloon-man-s-hospital/hotels-c2m2561615/"
+      },
+      {
+       "text": "Hotels near Shanghai City God Temple Tourist Area",
+       "url": "https://us.trip.com/hotels/shanghai-shanghai-city-god-temple-tourist-area/hotels-c2m23185706/"
+      },
+      {
+       "text": "Hotels near Changyi Road",
+       "url": "https://us.trip.com/hotels/shanghai-changyi-road/hotels-c2r19587/"
+      },
+      {
+       "text": "Hotels near Jinhai Road",
+       "url": "https://us.trip.com/hotels/shanghai-jinhai-road/hotels-c2r17176/"
+      },
+      {
+       "text": "Hotels near Zhenping Road",
+       "url": "https://us.trip.com/hotels/shanghai-zhenping-road/hotels-c2r4247/"
+      }
+     ]
+    },
+    {
+     "title": "More Accommodation Types",
+     "linkItem": [
+      {
+       "text": "Resorts in Shanghai",
+       "url": "https://us.trip.com/hotels/resorts/city/cn/shanghai.html"
+      },
+      {
+       "text": "Bungalows in Shanghai",
+       "url": "https://us.trip.com/hotels/bungalows/city/cn/shanghai.html"
+      },
+      {
+       "text": "Condos in Shanghai",
+       "url": "https://us.trip.com/hotels/condos/city/cn/shanghai.html"
+      },
+      {
+       "text": "Cheap Hotels in Shanghai",
+       "url": "https://us.trip.com/hotels/cheap/city/cn/shanghai.html"
+      },
+      {
+       "text": "New Hotels in Shanghai",
+       "url": "https://us.trip.com/hotels/new/city/cn/shanghai.html"
+      },
+      {
+       "text": "Scenic Hotels in Shanghai",
+       "url": "https://us.trip.com/hotels/scenic/city/cn/shanghai.html"
+      },
+      {
+       "text": "Hotels with Private Pools in Shanghai",
+       "url": "https://us.trip.com/hotels/private-pools/city/cn/shanghai.html"
+      },
+      {
+       "text": "Hotels with Jacuzzi in Shanghai",
+       "url": "https://us.trip.com/hotels/jacuzzi/city/cn/shanghai.html"
+      },
+      {
+       "text": "Hotels with Water Park in Shanghai",
+       "url": "https://us.trip.com/hotels/water-park/city/cn/shanghai.html"
+      },
+      {
+       "text": "Hotels with Rooftop Pools in Shanghai",
+       "url": "https://us.trip.com/hotels/rooftop-pools/city/cn/shanghai.html"
+      },
+      {
+       "text": "Hotels with Infinity Pools in Shanghai",
+       "url": "https://us.trip.com/hotels/infinity-pools/city/cn/shanghai.html"
+      }
+     ]
+    },
+    {
+     "title": "Popular Hotels",
+     "linkItem": [
+      {
+       "text": "Best hotels in Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotels-list-2/"
+      },
+      {
+       "text": "Best hotels in Hong Kong",
+       "url": "https://us.trip.com/hotels/hong-kong-hotels-list-58/"
+      },
+      {
+       "text": "Best hotels in Las Vegas",
+       "url": "https://us.trip.com/hotels/las-vegas-hotels-list-26282/"
+      },
+      {
+       "text": "Best hotels in Bangkok",
+       "url": "https://us.trip.com/hotels/bangkok-hotels-list-359/"
+      },
+      {
+       "text": "Best hotels in Beijing",
+       "url": "https://us.trip.com/hotels/beijing-hotels-list-1/"
+      },
+      {
+       "text": "Best hotels in Guangzhou",
+       "url": "https://us.trip.com/hotels/guangzhou-hotels-list-32/"
+      },
+      {
+       "text": "Best hotels in NYC",
+       "url": "https://us.trip.com/hotels/new-york-hotels-list-633/"
+      },
+      {
+       "text": "Best hotels in Singapore",
+       "url": "https://us.trip.com/hotels/singapore-hotels-list-73/"
+      },
+      {
+       "text": "Best hotels in Kuala Lumpur",
+       "url": "https://us.trip.com/hotels/kuala-lumpur-hotels-list-315/"
+      },
+      {
+       "text": "Best hotels in Dubai",
+       "url": "https://us.trip.com/hotels/dubai-hotels-list-220/"
+      },
+      {
+       "text": "Best hotels in Chicago",
+       "url": "https://us.trip.com/hotels/chicago-hotels-list-549/"
+      },
+      {
+       "text": "Best hotels in San Diego",
+       "url": "https://us.trip.com/hotels/san-diego-hotels-list-698/"
+      },
+      {
+       "text": "Best hotels in Miami",
+       "url": "https://us.trip.com/hotels/miami-hotels-list-25773/"
+      },
+      {
+       "text": "Best hotels in New Orleans",
+       "url": "https://us.trip.com/hotels/new-orleans-hotels-list-1186/"
+      },
+      {
+       "text": "Best hotels in Nashville",
+       "url": "https://us.trip.com/hotels/nashville-hotels-list-3228/"
+      },
+      {
+       "text": "Best hotels in Boston",
+       "url": "https://us.trip.com/hotels/boston-hotels-list-26848/"
+      },
+      {
+       "text": "Best hotels in Orlando",
+       "url": "https://us.trip.com/hotels/orlando-hotels-list-1187/"
+      },
+      {
+       "text": "Best hotels in Savannah",
+       "url": "https://us.trip.com/hotels/savannah-hotels-list-26631/"
+      },
+      {
+       "text": "Best hotels in Charleston",
+       "url": "https://us.trip.com/hotels/charleston-hotels-list-4188/"
+      },
+      {
+       "text": "Best hotels in Los Angeles",
+       "url": "https://us.trip.com/hotels/los-angeles-hotels-list-347/"
+      },
+      {
+       "text": "Best hotels in Da Nang",
+       "url": "https://www.trip.com/hotels/da-nang-hotels-list-1356/"
+      }
+     ]
+    }
+   ]
+  },
+  "seoTdk": {
+   "title": "Shanghai Hostel (魔都青年旅舍) - Hotels in Shanghai: 2026 Prices, Reviews & Deals | Trip.com",
+   "description": "Explore Shanghai Hostel (魔都青年旅舍) in Shanghai. Find the best deals, compare hotel rates, and read guest reviews on Trip.com.",
+   "keywords": "Shanghai Hostel",
+   "links": [
+    {
+     "href": "https://www.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "x-default"
+    },
+    {
+     "href": "https://uk.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "en-GB"
+    },
+    {
+     "href": "https://hk.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "zh-Hant-HK"
+    },
+    {
+     "href": "https://kr.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "ko"
+    },
+    {
+     "href": "https://jp.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "ja"
+    },
+    {
+     "href": "https://sg.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "en-SG"
+    },
+    {
+     "href": "https://au.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "en-AU"
+    },
+    {
+     "href": "https://de.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "de"
+    },
+    {
+     "href": "https://fr.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "fr"
+    },
+    {
+     "href": "https://es.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "es"
+    },
+    {
+     "href": "https://it.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "it"
+    },
+    {
+     "href": "https://ru.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "ru"
+    },
+    {
+     "href": "https://th.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "th"
+    },
+    {
+     "href": "https://id.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "id"
+    },
+    {
+     "href": "https://my.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "ms"
+    },
+    {
+     "href": "https://vn.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "vi"
+    },
+    {
+     "href": "https://nl.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "nl"
+    },
+    {
+     "href": "https://pl.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "pl"
+    },
+    {
+     "href": "https://gr.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "el"
+    },
+    {
+     "href": "https://tr.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "tr"
+    },
+    {
+     "href": "https://br.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "pt-BR"
+    },
+    {
+     "href": "https://tw.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "zh-Hant-TW"
+    },
+    {
+     "href": "https://nz.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "en-NZ"
+    },
+    {
+     "href": "https://ca.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "en-CA"
+    },
+    {
+     "href": "https://us.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "en-US"
+    },
+    {
+     "href": "https://pk.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "en-PK"
+    },
+    {
+     "href": "https://in.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "en-IN"
+    },
+    {
+     "href": "https://sa.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "ar-SA"
+    },
+    {
+     "href": "https://ae.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "en-AE"
+    },
+    {
+     "href": "https://at.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "de-AT"
+    },
+    {
+     "href": "https://dk.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "da"
+    },
+    {
+     "href": "https://fi.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "fi"
+    },
+    {
+     "href": "https://mx.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "es-MX"
+    },
+    {
+     "href": "https://ph.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "en-PH"
+    },
+    {
+     "href": "https://pt.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "pt"
+    },
+    {
+     "href": "https://se.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "alternate",
+     "hreflang": "sv"
+    },
+    {
+     "href": "https://us.trip.com/hotels/shanghai-hotel-detail-126577790/shanghai-hostel/",
+     "rel": "canonical"
+    }
+   ]
+  },
+  "seoHotelRooms": {
+   "physicRoomMap": {
+    "517418420": {
+     "id": 517418420,
+     "name": "Comfort Bed in Dormitory (Male Only)",
+     "person": 1,
+     "children": 0,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0s12000imqv0vl3D0C.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1e12000imqu3eoB1BD.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4912000imqvx9q2022.jpg",
+       "desc": ""
+      }
+     ],
+     "wifiInfo": {
+      "title": "Free Wi-Fi",
+      "type": 1,
+      "icon": "ic_fa_wifi"
+     },
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Daily housekeeping",
+       "name": "Daily housekeeping"
+      },
+      {
+       "title": "Butler service",
+       "name": "Butler service"
+      },
+      {
+       "title": "Cleaning tools",
+       "name": "Cleaning tools"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_block_filled"
+      ],
+      "title": "1 bunk bed",
+      "hover": [
+       "1 bunk bed"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 2,
+      "title": "Has window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "20-30m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 6"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "20-30m² | Floor: 6"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Has window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      },
+      {
+       "title": "Free Wi-Fi",
+       "icon": "ic_fa_wifi"
+      }
+     ]
+    },
+    "517501985": {
+     "id": 517501985,
+     "name": "Sunshine Room - 6-Person Occupancy (Room Rate Calculated Per Person)",
+     "person": 1,
+     "children": 0,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6j12000inreqdh4C00.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0y12000inrfzs86FFF.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1512000inrf2ofCBB0.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0112000inrffeh226B.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3k12000inrfw6q61A9.jpg",
+       "desc": ""
+      }
+     ],
+     "wifiInfo": {
+      "title": "Free Wi-Fi",
+      "type": 1,
+      "icon": "ic_fa_wifi"
+     },
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Daily housekeeping",
+       "name": "Daily housekeeping"
+      },
+      {
+       "title": "Butler service",
+       "name": "Butler service"
+      },
+      {
+       "title": "Cleaning tools",
+       "name": "Cleaning tools"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_block_filled"
+      ],
+      "title": "1 bunk bed",
+      "hover": [
+       "1 bunk bed"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 2,
+      "title": "Has window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "35-50m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 6"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "35-50m² | Floor: 6"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Has window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      },
+      {
+       "title": "Free Wi-Fi",
+       "icon": "ic_fa_wifi"
+      }
+     ]
+    }
+   },
+   "roomList": [
+    {
+     "key": "517418420"
+    },
+    {
+     "key": "517501985"
+    }
+   ]
+  },
+  "productDescription": [],
+  "externalLinksData": {
+   "title": "International sites",
+   "flagList": [],
+   "gridProps": {
+    "columns": {
+     "lg": 4,
+     "md": 3,
+     "sm": 2,
+     "xs": 1
+    },
+    "gap": 12
+   }
+  },
+  "seoRecommendation": [
+   {
+    "dimensionType": "HotelDetailRecommend",
+    "recommendationData": {
+     "textStructures": [
+      {
+       "h2Content": "Check-In & Check-Out",
+       "mainContent": [
+        "From 08:00 until 12:00"
+       ]
+      },
+      {
+       "h2Content": "Nearby Attractions",
+       "mainContent": [
+        "Shanghai Natural History Museum: 2.26 km away",
+        "Star Culture Center · Dream Theater: 2.3 km away",
+        "Shanghai Sihang Warehouse Battle Memorial: 1.83 km away"
+       ]
+      },
+      {
+       "h2Content": "Hotel Features",
+       "mainContent": [
+        "Pets policy: No pets allowed."
+       ]
+      }
+     ],
+     "footer": "All prices shown are for stays within the next 7 days, as listed on Trip.com."
+    }
+   }
+  ],
+  "grayHitVersion": "TARGET"
+ },
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794045637613+800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Extension": [
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Value": ""
+   },
+   {
+    "Id": "TraceLogId",
+    "Value": "100025527-0a8e8856-498346-78510"
+   },
+   {
+    "Id": "XRequestId",
+    "Value": "00b340dc-5170-9a05-af0c-24b4871eb614"
+   },
+   {
+    "Id": "RootMessageId",
+    "Value": "100025527-0a8e8856-498346-78516"
+   }
+  ]
+ }
+}

@@ -1,0 +1,71 @@
+@baseUrl = http://127.0.0.1:6002
+# @baseUrl = https://trip-com-scraper.omkar.cloud
+
+# Every call below returned 200 with data on 2026-11-07 (local route layer,
+# then the pod probe). The first call per path is the publishing example.
+
+# ========================================
+# HOTELS
+# ========================================
+
+### Hotel Details (Bellagio, Las Vegas)
+GET {{baseUrl}}/trip-com/hotels/details?hotel=715163
+
+### Hotel Details (by link, with dates and guests)
+GET {{baseUrl}}/trip-com/hotels/details?hotel=https://www.trip.com/hotels/las-vegas-hotel-detail-715163/bellagio-hotel-casino/&check_in=2026-12-10&check_out=2026-12-12&adults=2
+
+### Destinations Search (city id for hotels/search)
+GET {{baseUrl}}/trip-com/destinations/search?query=Las+Vegas
+
+### Hotels Search (by place name)
+GET {{baseUrl}}/trip-com/hotels/search?destination=Las+Vegas
+
+### Hotels Search (5-star, top reviewed)
+GET {{baseUrl}}/trip-com/hotels/search?destination=Las+Vegas&stars=5&sort=top_reviewed
+
+### Hotels Search (hotel name inside a city id)
+GET {{baseUrl}}/trip-com/hotels/search?destination=26282&query=Bellagio
+
+### Hotels Search (filters: price, free cancellation, family)
+GET {{baseUrl}}/trip-com/hotels/search?destination=New+York&min_price=100&max_price=300&free_cancellation=true&adults=2&children_ages=6&sort=price_low_to_high
+
+### Hotel Reviews
+GET {{baseUrl}}/trip-com/hotels/reviews?hotel=715163
+
+### Hotel Reviews (most recent couples, 50 per page)
+GET {{baseUrl}}/trip-com/hotels/reviews?hotel=715163&sort=recent&traveler_type=couple&per_page=50
+
+### Hotel Photos
+GET {{baseUrl}}/trip-com/hotels/photos?hotel=715163
+
+# ========================================
+# ATTRACTIONS + EXPERIENCES
+# ========================================
+
+### Attractions Search
+GET {{baseUrl}}/trip-com/attractions/search?query=New+York
+
+### Attraction Details (Statue of Liberty)
+GET {{baseUrl}}/trip-com/attractions/details?attraction=79045
+
+### Attraction Details (by link)
+GET {{baseUrl}}/trip-com/attractions/details?attraction=https://www.trip.com/travel-guide/attraction/new-york/statue-of-liberty-79045/
+
+### Experiences Search
+GET {{baseUrl}}/trip-com/experiences/search?destination=newyork
+
+### Experience Details (LA, Hollywood & Beverly Hills tour)
+GET {{baseUrl}}/trip-com/experiences/details?experience=106382468
+
+# ========================================
+# FLIGHTS
+# ========================================
+
+### Airports Search
+GET {{baseUrl}}/trip-com/flights/airports?query=New+York
+
+### Fare Calendar (next 7 days, one way)
+GET {{baseUrl}}/trip-com/flights/calendar?origin=JFK&destination=LAX
+
+### Fare Calendar (a month, in pounds)
+GET {{baseUrl}}/trip-com/flights/calendar?origin=NYC&destination=LON&start_date=2026-12-10&end_date=2026-12-31&currency=GBP

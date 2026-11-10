@@ -1,0 +1,430 @@
+{
+ "props": {
+  "pageProps": {
+   "initialState": {
+    "__STATE_MAP__": {
+     "PageModel": {
+      "mixList": {
+       "all+all": {
+        "pageIndex": 1,
+        "filterAll": {
+         "quick": {
+          "tabCode": "all",
+          "fdefault": {},
+          "exclude": {},
+          "quick": [],
+          "filters": []
+         },
+         "bottom": {
+          "title": "",
+          "type": "bottomFilter",
+          "list": []
+         },
+         "tabMap": {},
+         "windVane": {
+          "windVane": [],
+          "fdefault": ""
+         }
+        },
+        "cardData": {
+         "isSiteNoResult": true,
+         "cardList": [],
+         "isNextPage": false,
+         "total": 0,
+         "totalDesc": "0",
+         "metricInfo": {
+          "pkgcount": 0,
+          "ic_traceid": "",
+          "channel": "pc",
+          "pageid": "10650012671",
+          "pageId": "10650012671",
+          "localdistrictid": "",
+          "geo_lat": "",
+          "geo_lon": "",
+          "locale": "en-XX",
+          "currency": "USD",
+          "gsdistrictid": "",
+          "gsdistrictname": "",
+          "gsmodifydistrictid": "99999999",
+          "gsmodifydistrictname": "",
+          "kwd": "",
+          "kwdfrom": "unknown",
+          "searchtype": "d",
+          "ppagetab": "all",
+          "pagetab": "AllTicket",
+          "traceid": "0c0c269b-7ab4-c458-4c22-80a545677723",
+          "searchaddinfo": "0c0c269b-7ab4-c458-4c22-80a545677723_srh_tripact_eba2256d-de75-4c0c-8458-4bdd2a032b28_1794045677829",
+          "ipcityid": "",
+          "analyzeddistrictid": "99999999",
+          "analyzedType": "",
+          "termTypes": "",
+          "kwdtype": "",
+          "isfilter": 0,
+          "filtervalue": "",
+          "sortby": "1",
+          "fxbvalue": "",
+          "issublist": 1
+         },
+         "isBigCard": false,
+         "isFoodBigCard": false
+        }
+       }
+      },
+      "isRequesting": false,
+      "listHeight": 0,
+      "isShowTop": false,
+      "scrollEnable": true,
+      "isStickyTop": false,
+      "scrollEnabled": true,
+      "headCardHight": 0,
+      "MainTabHeight": 0,
+      "MainSearchTop": 0,
+      "filtersHeight": [],
+      "topHeight": 0,
+      "mixListKey": "",
+      "keyword": "",
+      "noSecondBreath": false,
+      "inited": false,
+      "hasClickMoreTips": false,
+      "commonHeaderData": {
+       "group": "Trip",
+       "currency": "USD",
+       "locale": "en-XX",
+       "lang": "en",
+       "site": "EN"
+      },
+      "header": {
+       "id": "99999999",
+       "currency": "USD",
+       "pagetype": "city",
+       "cityType": "dt",
+       "keyword": "",
+       "cityName": "",
+       "hotelCityID": ""
+      },
+      "category": {
+       "fdefault": "all",
+       "defaultCategoryCode": "all",
+       "list": [
+        {
+         "name": "All types",
+         "type": "all"
+        },
+        {
+         "name": "Recommended",
+         "type": "all"
+        },
+        {
+         "name": "Attractions",
+         "type": "attractionsAndTickets"
+        },
+        {
+         "name": "Experiences",
+         "type": "experienceAndTours"
+        },
+        {
+         "name": "Must-have",
+         "type": "toolsAndService"
+        }
+       ],
+       "listIsEmpty": false
+      },
+      "headerCard": {
+       "region": "1",
+       "analyzeResultType": 0,
+       "totalProduct": 6078569,
+       "name": "",
+       "isEmpty": true
+      },
+      "mainTab": {
+       "fdefault": "all",
+       "list": [
+        {
+         "name": "Recommended",
+         "type": "all",
+         "icon": {
+          "default": "https://dimg04.c-ctrip.com/images/0302m12000tq9g3364C4F.png",
+          "selected": "https://dimg04.tripcdn.com/images/1o54112000sogvh7uBAAE.png",
+          "dark": "https://dimg04.c-ctrip.com/images/0301t12000tq9g65f7A5F.png",
+          "darkSelected": "https://dimg04.tripcdn.com/images/1o55m12000sogvyos88CF.png"
+         },
+         "fdefault": "all",
+         "children": [],
+         "isFeaturedTab": false,
+         "upgrade": false,
+         "itemProps": {
+          "accessible": true
+         }
+        }
+       ],
+       "listIsEmpty": false,
+       "isFeatured": false,
+       "showTransportSku": false,
+       "moreGroups": []
+      },
+      "seo": {
+       "title": "Popular local attractions & tours, attraction tickets, unique experiences, and activities in  | Trip.com",
+       "keyword": "Local experiences in ,  attraction tickets,  activity ticket discounts,  activity ticket reservations, and unique experiences and activities in ",
+       "desc": ""
+      },
+      "isLastRequestNoResult": true,
+      "quickTabs": true,
+      "request": {
+       "pageid": "10650012671",
+       "pagetype": "city",
+       "cityType": "dt",
+       "keyword": "",
+       "id": "99999999",
+       "name": "",
+       "extParams": "",
+       "sourceFrom": "",
+       "tangramTraceId": "",
+       "pshowcode": "all",
+       "defaultCategoryCode": "all",
+       "header": {
+        "clientInfo": {
+         "currency": "USD",
+         "locale": "en-XX",
+         "pageId": "10650010429",
+         "channelId": 120,
+         "platformId": 24,
+         "channel": "",
+         "extension": [],
+         "cid": "09034118211063242685",
+         "oriSyscode": "09",
+         "syscode": "09",
+         "allianceId": "",
+         "siteId": "",
+         "ouid": "",
+         "location": {
+          "lat": "0.0",
+          "lon": "0.0",
+          "cityId": 0,
+          "locatedCityId": 0
+         }
+        },
+        "enviroment": "PROD"
+       },
+       "traceid": "0c0c269b-7ab4-c458-4c22-80a545677723",
+       "searchaddinfo": "0c0c269b-7ab4-c458-4c22-80a545677723_srh_tripact_eba2256d-de75-4c0c-8458-4bdd2a032b28_1794045677829",
+       "needUpStream": false,
+       "extrasConfigData": {},
+       "requestSource": "activity",
+       "firstTab": "all",
+       "filtered": {
+        "items": [],
+        "pageIndex": 1,
+        "pageSize": 12,
+        "sort": "1",
+        "tab": "",
+        "extras": {
+         "MAIN_TAB_SCENE_CODE": ""
+        }
+       },
+       "isInit": true,
+       "isNewBVersion": true,
+       "isTrafficPathV3": true,
+       "ctx": {
+        "cargoContext": {
+         "group": "Trip",
+         "currency": "USD",
+         "locale": "en-XX",
+         "lang": "en",
+         "site": "EN"
+        }
+       },
+       "isPackageTourVersion": false,
+       "returnModes": [
+        "topDestination",
+        "tab",
+        "filter",
+        "product",
+        "count"
+       ],
+       "tabParams": {
+        "all-all": {
+         "traceid": "0c0c269b-7ab4-c458-4c22-80a545677723",
+         "searchaddinfo": "0c0c269b-7ab4-c458-4c22-80a545677723_srh_tripact_eba2256d-de75-4c0c-8458-4bdd2a032b28_1794045677829"
+        }
+       },
+       "recallContext": "{\"removeTerm\":false}",
+       "needOperation": "99999999",
+       "recallStrategy": "",
+       "originSiteDistrictId": "99999999",
+       "showTransportSku": false,
+       "disPlayKeyword": "",
+       "scenetype": 0
+      },
+      "ds": {
+       "response": {
+        "tabs": [
+         {
+          "type": "all",
+          "name": "Recommended",
+          "extras": {
+           "tUnSelectedTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0302m12000tq9g3364C4F.png\",\"height\":120}",
+           "name": "Recommended",
+           "tUnSelectedDarkTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0301t12000tq9g65f7A5F.png\",\"height\":120}",
+           "tSelectedDarkTabIcon": "{}",
+           "tSelectedTabIcon": "{}"
+          }
+         },
+         {
+          "type": "attractionsAndTickets",
+          "name": "Attractions",
+          "extras": {
+           "tUnSelectedTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0306z12000tsdxcqeB942.png\",\"height\":120}",
+           "tUnSelectedDarkTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0302k12000tsdy0y52F48.png\",\"height\":120}",
+           "tSelectedDarkTabIcon": "{}",
+           "tBizTabIcon": "{\"width\":231,\"url\":\"https://dimg04.c-ctrip.com/images/0303k12000eyblo4dC033.png\",\"height\":129}",
+           "name": "Attractions",
+           "bizIconBgColor": "{\"color\":[254,241,239,1],\"type\":\"pure\"}",
+           "tBizTabDarkIcon": "{\"width\":231,\"url\":\"https://dimg04.c-ctrip.com/images/0303k12000eyblo4dC033.png\",\"height\":129}",
+           "tSelectedTabIcon": "{}"
+          }
+         },
+         {
+          "type": "experienceAndTours",
+          "name": "Experiences",
+          "extras": {
+           "tUnSelectedTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0304812000ts5dpew4F13.png\",\"height\":120}",
+           "tUnSelectedDarkTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0302y12000ts5df7y9558.png\",\"height\":120}",
+           "tSelectedDarkTabIcon": "{}",
+           "tBizTabIcon": "{\"width\":231,\"url\":\"https://dimg04.c-ctrip.com/images/0301v12000eyblj3m1247.png\",\"height\":129}",
+           "name": "Experiences",
+           "bizIconBgColor": "{\"color\":[255,244,221,1],\"type\":\"pure\"}",
+           "tBizTabDarkIcon": "{\"width\":231,\"url\":\"https://dimg04.c-ctrip.com/images/0301v12000eyblj3m1247.png\",\"height\":129}",
+           "tSelectedTabIcon": "{}"
+          }
+         },
+         {
+          "type": "toolsAndService",
+          "name": "Must-have",
+          "extras": {
+           "tUnSelectedTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0305b12000tq9h6hf7AC3.png\",\"height\":120}",
+           "tUnSelectedDarkTabIcon": "{\"width\":120,\"url\":\"https://dimg04.c-ctrip.com/images/0306a12000tq9hasu1E45.png\",\"height\":120}",
+           "tSelectedDarkTabIcon": "{}",
+           "tBizTabIcon": "{}",
+           "name": "Must-have",
+           "bizIconBgColor": "{\"color\":[233,243,252,1],\"type\":\"pure\"}",
+           "tBizTabDarkIcon": "{}",
+           "tSelectedTabIcon": "{}"
+          }
+         }
+        ],
+        "total": 0,
+        "server": {
+         "extras": {
+          "actExplainExpVersion": "B",
+          "ServerInfo_Extra_PshowCode": "",
+          "ServerInfo_Extra_CityInChina": "",
+          "ServerInfo_Extra_OriginViewTagCode": "",
+          "ServerInfo_Extra_OriginSiteDistrictId": "99999999",
+          "messageId": "100058660-0a8e5aa1-498346-4925",
+          "ServerInfo_Extra_PoiName": "",
+          "REQUEST_UNIQUE_CODE": "",
+          "ServerInfo_Extra_SearchAddInfo": "0c0c269b-7ab4-c458-4c22-80a545677723_srh_tripact_eba2256d-de75-4c0c-8458-4bdd2a032b28_1794045677829",
+          "ServerInfo_Extra_KwdGsID": "99999999",
+          "ServerInfo_Extra_PoiSwitch2DaSou": "true",
+          "ServerInfo_Extra_CityID": "",
+          "ServerInfo_Extra_CityName": "",
+          "ServerInfo_Extra_DefaultRecommendedLocation": "",
+          "ServerInfo_Extra_KwdGsIDs": "",
+          "ServerInfo_Extra_FirstTab": "all",
+          "RecallContext": "{\"removeTerm\":false}"
+         },
+         "traces": {}
+        },
+        "destinationBasicInfos": [
+         {
+          "analyzeResultType": 0,
+          "totalProduct": 6078569
+         }
+        ],
+        "totalDesc": "0",
+        "SOA.ResponseStatusCode": 200,
+        "__API_NAME__": "/restapi/soa2/20684/json/productSearch",
+        "__API_URL__": "/restapi/soa2/20684/json/productSearch"
+       }
+      }
+     }
+    }
+   },
+   "key": "/xticket/list?pagetype=city&citytype=dt&keyword=&id=99999999&name=",
+   "pathname": "/list",
+   "query": {
+    "renderPlatform": "",
+    "seo": 1,
+    "envObj": {
+     "env": "prod",
+     "isCtrip": false,
+     "pro": true,
+     "dev": false,
+     "plat": "unknow",
+     "phoneModel": "",
+     "isSupportWebP": true,
+     "configData": null
+    },
+    "pagetype": "city",
+    "citytype": "dt",
+    "keyword": "",
+    "id": "99999999",
+    "name": ""
+   },
+   "asPath": "/xticket/list?pagetype=city&citytype=dt&keyword=&id=99999999&name=",
+   "realPath": "/xticket/list?pagetype=city&citytype=dt&keyword=&id=99999999&name="
+  }
+ },
+ "page": "/list",
+ "query": {
+  "renderPlatform": "",
+  "seo": 1,
+  "envObj": {
+   "env": "prod",
+   "isCtrip": false,
+   "pro": true,
+   "dev": false,
+   "plat": "unknow",
+   "phoneModel": "",
+   "isSupportWebP": true,
+   "configData": null
+  },
+  "pagetype": "city",
+  "citytype": "dt",
+  "keyword": "",
+  "id": "99999999",
+  "name": ""
+ },
+ "buildId": "xxx",
+ "assetPrefix": "https://ak-s-cw.tripcdn.com/ares/NFES/100058660/1793872057452",
+ "runtimeConfig": {
+  "appPrefix": "/xticket",
+  "routerConfig": [],
+  "AppID": "100058660",
+  "useAres2": true
+ },
+ "isFallback": false,
+ "customServer": true,
+ "gip": true,
+ "appGip": true,
+ "isSSR": true,
+ "isForceRender": true,
+ "isServerGetData": true,
+ "__pd": "{\"pd\":{\"r\":9,\"_d\":307,\"_p\":3}}",
+ "version": "6.18.2",
+ "i18nCaptchaURL": "https://ak-s-cw.tripcdn.com/modules/infosec/jigsawCaptcha/jigsaw-captcha.min.70c6e6893d555dd045d1a4110c14953a.macro.js",
+ "__nfesGlobalDatas": {
+  "nfesSharkData": {
+   "key.nfes.errorPage.tip": "Failed to load. Please try again later.",
+   "key.nfes.errorPage.retry": "Retry",
+   "key.nfes.errorPage.back": "Back"
+  }
+ },
+ "company": "",
+ "fullUrl": "https://www.trip.com/xticket/list?pagetype=city&citytype=dt&keyword=&id=99999999&name=",
+ "isRTL": "",
+ "webcore": {
+  "preloadCSign": true
+ },
+ "scriptLoader": []
+}

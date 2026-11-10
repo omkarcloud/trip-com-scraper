@@ -1,0 +1,145 @@
+{
+ "data": {
+  "hotelList": [],
+  "hotelListAddtionInfo": {
+   "queryType": "List",
+   "combineFilters": [
+    {
+     "type": "80",
+     "title": "Price per room per night (excl. taxes & fees)",
+     "value": "0",
+     "filterId": "80|0|1"
+    },
+    {
+     "filterId": "29|1",
+     "type": "29",
+     "value": "1|2"
+    },
+    {
+     "type": "17",
+     "title": "Trip.com recommended",
+     "value": "1",
+     "filterId": "17|1"
+    }
+   ],
+   "subStamp": 1003,
+   "timeOffset": 0,
+   "sessionId": "1ddcf8b911b54a47ba840d14dbd4848c",
+   "dispatchId": "",
+   "hotelTotalCount": 0,
+   "loginType": 0,
+   "isShowIntelligentSort": false,
+   "isLastPage": true,
+   "searchOneResultClueMessage": "No matching hotels found. Please adjust your search filters and try again.",
+   "isSupportWalkDriveSort": false,
+   "hotAreaFilters": [],
+   "extraInfos": {
+    "dispatchIdFilter": "",
+    "queryId": "100025527-0a8f261b-498346-415026",
+    "displayTotalCount": "",
+    "displayTotalRealCount": ""
+   },
+   "sortScenes": [
+    {
+     "id": 45,
+     "name": "OutBound",
+     "score": 1,
+     "sourcetype": 0
+    },
+    {
+     "id": 36,
+     "name": "guestHouse",
+     "score": 0.12813448905944824,
+     "sourcetype": 1
+    }
+   ],
+   "orderCount": 0,
+   "metaHotelInfo": {
+    "clueMessage": "This hotel is in high demand!",
+    "subClueMessage": "Or check out these great hotels nearby."
+   }
+  },
+  "bannerInfo": {
+   "sceneFilter": {
+    "100": {
+     "title": "Popular locations"
+    },
+    "101": {
+     "title": "You May Like"
+    },
+    "104": {
+     "title": ""
+    }
+   },
+   "homestayInfo": {
+    "title": "Properties with ratings shown in this icon have been rated under our system for homes & apartments",
+    "expireDays": 3,
+    "more": "Learn more",
+    "bgUrl": "https://dimg04.tripcdn.com/images/1p12z12000gs5fh84FDCB.png",
+    "bgUrlDark": "https://dimg04.tripcdn.com/images/1p13512000gs5h6ib6CD3.png",
+    "details": {
+     "title": "Quality Ratings",
+     "contents": [
+      {
+       "title": "Homes & Apartments Rating",
+       "starType": 2,
+       "content": "Our homes & apartments rating reflects a comprehensive assessment of amenities, services, and other aspects for homestays, private apartments, and similar properties. In comparison with hotels, these properties are often small-scale, locally-run, and marked by creativity and local culture."
+      },
+      {
+       "title": "Diamond Rating",
+       "starType": 1,
+       "content": "Our diamond rating reflects a comprehensive assessment of a hotel's amenities, services, and other relevant aspects. Please be aware that it is not an official ranking."
+      },
+      {
+       "title": "Star Rating",
+       "starType": 0,
+       "content": "Star ratings are provided by third-party organizations or institutions and offer valuable insights into a hotel's amenities, services, and other relevant aspects."
+      }
+     ]
+    }
+   }
+  },
+  "ubtTraceInfo": {
+   "hotel_result_show_methodid": "getDstRankForIBU",
+   "traceLogid": "100025527-0a8f261b-498346-415026",
+   "decoratorCost": 2
+  },
+  "pagingInfo": {
+   "pageIndex": 1,
+   "pageSize": 10,
+   "slotToken": ""
+  },
+  "mapInfo": {
+   "showMiniMap": false
+  }
+ },
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794045800156+0800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Build": "",
+  "Version": "1.0.0",
+  "Extension": [
+   {
+    "id": "coustomFeat",
+    "value": "2bf"
+   },
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Value": ""
+   },
+   {
+    "Id": "TraceLogId",
+    "Value": "100025527-0a8f261b-498346-415026"
+   },
+   {
+    "Id": "XRequestId",
+    "Value": "c49678d0-4f38-9b3d-9bd0-df8728a7f925"
+   },
+   {
+    "Id": "RootMessageId",
+    "Value": "100025527-0a29898e-498346-175400"
+   }
+  ]
+ }
+}

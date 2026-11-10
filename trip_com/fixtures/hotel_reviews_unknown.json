@@ -1,0 +1,193 @@
+{
+ "data": {
+  "commentTagList": [],
+  "travelTypeList": [
+   {
+    "name": "All Travelers",
+    "commentCount": -1
+   }
+  ],
+  "roomList": [
+   {
+    "name": "All Room Types",
+    "commentCount": -1
+   }
+  ],
+  "languageTypeList": [
+   {
+    "name": "All Languages",
+    "commentCount": -1
+   }
+  ],
+  "totalCountForPage": 0,
+  "groupList": [],
+  "repeatCommentCount": 0,
+  "noCommentsUserCurrencyAmount": 1.2,
+  "tripRating": "T",
+  "tagType": "DEFAULT",
+  "ratingLevelRules": [
+   {
+    "ratingStart": 7.6,
+    "ratingEnd": 8,
+    "content": "Good"
+   },
+   {
+    "ratingStart": 8,
+    "ratingEnd": 9,
+    "content": "Very good"
+   },
+   {
+    "ratingStart": 9,
+    "ratingEnd": 9.2,
+    "content": "Great"
+   },
+   {
+    "ratingStart": 9.2,
+    "ratingEnd": 9.4,
+    "content": "Great"
+   },
+   {
+    "ratingStart": 9.4,
+    "ratingEnd": 9.6,
+    "content": "Amazing"
+   },
+   {
+    "ratingStart": 9.6,
+    "ratingEnd": 9.8,
+    "content": "Amazing"
+   },
+   {
+    "ratingStart": 9.8,
+    "ratingEnd": 99,
+    "content": "Outstanding"
+   }
+  ],
+  "bannerInfoList": [],
+  "ratingFloatingLayerInfo": {
+   "legendInfoItem": {
+    "sameTypeAvgLegendInfo": [
+     {
+      "type": 1,
+      "description": ""
+     },
+     {
+      "type": 2,
+      "description": ""
+     }
+    ],
+    "sameTypeLevelLegendInfo": [
+     {
+      "type": 1,
+      "description": ""
+     }
+    ]
+   },
+   "recommendTagList": [],
+   "negativeTagList": []
+  },
+  "filteredOutCommentInfo": {
+   "collapsedCommentCount": 0
+  },
+  "filterSequenceConfigs": [
+   "sort",
+   "imgVideo",
+   "room",
+   "travel",
+   "language",
+   "tags"
+  ],
+  "commentRating": {
+   "fullRating": 5,
+   "ratingAll": 0,
+   "ratingLocation": 0,
+   "ratingLocationShowItem": "Location",
+   "ratingFacility": 0,
+   "ratingFacilityShowItem": "Amenities",
+   "ratingService": 0,
+   "ratingServiceShowItem": "Service",
+   "ratingRoom": 0,
+   "ratingRoomShowItem": "Cleanliness",
+   "showCommentNum": 0,
+   "showPackageCommentNum": 0,
+   "commentLevel": "",
+   "ratingLocationExt": {
+    "sameTypeLevel": 1,
+    "sameTypeAvg": 0
+   },
+   "ratingFacilityExt": {
+    "sameTypeLevel": 1,
+    "sameTypeAvg": 0
+   },
+   "ratingServiceExt": {
+    "sameTypeLevel": 1,
+    "sameTypeAvg": 0
+   },
+   "ratingRoomExt": {
+    "sameTypeLevel": 1,
+    "sameTypeAvg": 0
+   }
+  },
+  "similarCommentRating": {},
+  "commonStatisticList": [
+   {
+    "id": 1,
+    "name": "All reviews",
+    "commentCount": 0
+   }
+  ],
+  "totalCount": 0,
+  "commentRatingType": "UNKNOW",
+  "staticInfo": {
+   "sortItemList": [
+    {
+     "orderby": 0,
+     "name": "Most relevant"
+    },
+    {
+     "orderby": 1,
+     "name": "Most Recent"
+    },
+    {
+     "orderby": 2,
+     "name": "Rating (high to low)"
+    },
+    {
+     "orderby": 3,
+     "name": "Rating (low to high)"
+    }
+   ]
+  },
+  "abtResults": [],
+  "excitationInfoList": [],
+  "selectedCommentPhotosEntities": {}
+ },
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794045268600+800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Build": "",
+  "Version": "1.0.0",
+  "Extension": [
+   {
+    "Id": "XCtxGwTraceId",
+    "Value": "100025527-0a8fe42a-498345-7152209"
+   },
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Value": ""
+   },
+   {
+    "Id": "TraceLogId",
+    "Value": "100025527-0a8fe42a-498345-7152209"
+   },
+   {
+    "Id": "XRequestId",
+    "Value": "19b19711-335c-9dd1-b95d-f1d73edce452"
+   },
+   {
+    "Id": "RootMessageId",
+    "Value": "100025527-0a8fe42a-498345-7152213"
+   }
+  ]
+ }
+}

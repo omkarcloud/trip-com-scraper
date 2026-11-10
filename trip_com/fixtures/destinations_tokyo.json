@@ -1,0 +1,31 @@
+{
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794045153334+0800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Extension": [
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Value": "1397916238723391588"
+   },
+   {
+    "Id": "RootMessageId",
+    "Value": "100025527-0a8fa336-498345-6906016"
+   }
+  ]
+ },
+ "responseList": [
+  {
+   "id": 228,
+   "type": "City",
+   "name": "Japan-Tokyo",
+   "countryId": 78,
+   "filtername": "",
+   "filtertype": "",
+   "filterid": "",
+   "timeZone": 32400
+  }
+ ],
+ "originalKeyWord": "tokyo",
+ "traceLogId": "514da94c-1507-440f-a384-b7f57a066f8f"
+}

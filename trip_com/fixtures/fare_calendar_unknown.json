@@ -1,0 +1,51 @@
+{
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794045800826+0800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Build": null,
+  "Version": null,
+  "Extension": [
+   {
+    "Id": "LogToken",
+    "Version": null,
+    "ContentType": null,
+    "Value": "70673dc9-ae66-429a-9ae7-b4915488c4db"
+   },
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Version": null,
+    "ContentType": null,
+    "Value": "4542604291850979064"
+   },
+   {
+    "Id": "RootMessageId",
+    "Version": null,
+    "ContentType": null,
+    "Value": "100025527-0a8eb3b0-498346-419416"
+   }
+  ]
+ },
+ "responseHead": {
+  "errorMessage": "search no result",
+  "showErrorMessage": "search no result",
+  "errorCode": "10000001",
+  "channel": null,
+  "subChannel": null,
+  "showErrorMsg": "search no result",
+  "transactionID": null
+ },
+ "lowestCurrencyPrice": null,
+ "currency": null,
+ "lowPriceInCalenderDtoInfoList": null,
+ "cfOpen": null,
+ "validStatus": null,
+ "monthlyActivityInfoList": null,
+ "activityTermsConditionInfoList": null,
+ "monthlyDirectDescInfoList": null,
+ "displayDirectFlight": null,
+ "hasDirectFlight": null,
+ "activityBottomDesc": null,
+ "abtInfoList": null,
+ "multiPsgTipInfo": null
+}

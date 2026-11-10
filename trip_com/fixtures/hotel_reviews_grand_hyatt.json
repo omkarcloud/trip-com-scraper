@@ -1,0 +1,2326 @@
+{
+ "data": {
+  "commentTagList": [
+   {
+    "id": 70,
+    "name": "Delicious breakfast",
+    "commentCount": 1129,
+    "type": 1
+   },
+   {
+    "id": 84,
+    "name": "Friendly front desk staff",
+    "commentCount": 681,
+    "type": 1
+   },
+   {
+    "id": 155,
+    "name": "Fantastic river view",
+    "commentCount": 652,
+    "type": 1
+   },
+   {
+    "id": 136,
+    "name": "Perfect for business trips",
+    "commentCount": 460,
+    "type": 1
+   },
+   {
+    "id": 22,
+    "name": "Clean pool",
+    "commentCount": 346,
+    "type": 1
+   },
+   {
+    "id": 44,
+    "name": "Great swimming pool",
+    "commentCount": 346,
+    "type": 1
+   },
+   {
+    "id": 96,
+    "name": "Close to metro",
+    "commentCount": 253,
+    "type": 1
+   },
+   {
+    "id": 146,
+    "name": "Luxurious",
+    "commentCount": 251,
+    "type": 1
+   }
+  ],
+  "travelTypeList": [
+   {
+    "name": "All Travelers",
+    "commentCount": -1
+   },
+   {
+    "id": 10,
+    "name": "Business traveler",
+    "commentCount": 5141
+   },
+   {
+    "id": 30,
+    "name": "Family",
+    "commentCount": 7394
+   },
+   {
+    "id": 50,
+    "name": "Solo traveler",
+    "commentCount": 1290
+   },
+   {
+    "id": 60,
+    "name": "Booked for others",
+    "commentCount": 216
+   },
+   {
+    "id": 70,
+    "name": "Couple",
+    "commentCount": 1932
+   },
+   {
+    "id": 40,
+    "name": "Traveling with friends",
+    "commentCount": 2153
+   },
+   {
+    "id": 0,
+    "name": "Other",
+    "commentCount": 802
+   }
+  ],
+  "roomList": [
+   {
+    "name": "All Room Types",
+    "commentCount": -1
+   },
+   {
+    "id": 301750182,
+    "name": "Grand Queen Bed",
+    "commentCount": 4636
+   },
+   {
+    "id": 1705110,
+    "name": "Grand Hyatt King Room",
+    "commentCount": 2729
+   },
+   {
+    "id": 301750462,
+    "name": "Grand River-view King Room",
+    "commentCount": 2707
+   },
+   {
+    "id": 301750233,
+    "name": "Grand Twin Bed",
+    "commentCount": 2164
+   },
+   {
+    "id": 301750303,
+    "name": "Double Queen City View",
+    "commentCount": 714
+   },
+   {
+    "id": 531568331,
+    "name": "Grand Family Room",
+    "commentCount": 497
+   },
+   {
+    "id": 301750445,
+    "name": "Club Room Twin Bed",
+    "commentCount": 384
+   },
+   {
+    "id": 517275100,
+    "name": "Grand Pearl-view King Room",
+    "commentCount": 377
+   },
+   {
+    "id": 301750419,
+    "name": "Club Room King Bed",
+    "commentCount": 370
+   },
+   {
+    "id": 14183069,
+    "name": "Club Deluxe River Room",
+    "commentCount": 304
+   },
+   {
+    "id": 479862,
+    "name": "Grand Executive River-view Suite",
+    "commentCount": 261
+   },
+   {
+    "id": 479863,
+    "name": "Club River-view King Room",
+    "commentCount": 168
+   },
+   {
+    "id": 531565092,
+    "name": "Grand Family Connection",
+    "commentCount": 149
+   },
+   {
+    "id": 479866,
+    "name": "Club Deluxe Room",
+    "commentCount": 146
+   },
+   {
+    "id": 519446263,
+    "name": "Premier Panoramic Grand Pearl King Room",
+    "commentCount": 95
+   },
+   {
+    "id": 301750868,
+    "name": "Club River-view Queen Room",
+    "commentCount": 95
+   },
+   {
+    "id": 479857,
+    "name": "Diplomatic Suite",
+    "commentCount": 78
+   },
+   {
+    "id": 479861,
+    "name": "Grand Suite Room",
+    "commentCount": 59
+   },
+   {
+    "id": 571735354,
+    "name": "Club Deluxe River-View Room - Oriental Pearl Panoramic Premier",
+    "commentCount": 56
+   },
+   {
+    "id": 519446275,
+    "name": "Club Deluxe River-View Bund Panoramic Premier King Room",
+    "commentCount": 38
+   },
+   {
+    "id": 545078779,
+    "name": "Guestroom (King Bed)",
+    "commentCount": 22
+   },
+   {
+    "id": 545078776,
+    "name": "Guestroom - River-View (King Bed)",
+    "commentCount": 17
+   },
+   {
+    "id": 290565282,
+    "name": "Presidential Suite",
+    "commentCount": 2
+   }
+  ],
+  "languageTypeList": [
+   {
+    "name": "All Languages",
+    "commentCount": -1
+   },
+   {
+    "id": 2,
+    "name": "English",
+    "commentCount": 815
+   },
+   {
+    "id": 3,
+    "name": "Chinese",
+    "commentCount": 17148
+   },
+   {
+    "id": 5,
+    "name": "Korean",
+    "commentCount": 336
+   },
+   {
+    "id": 4,
+    "name": "Japanese",
+    "commentCount": 71
+   },
+   {
+    "id": 7,
+    "name": "French",
+    "commentCount": 36
+   },
+   {
+    "id": 6,
+    "name": "German",
+    "commentCount": 46
+   },
+   {
+    "id": 8,
+    "name": "Spanish",
+    "commentCount": 36
+   },
+   {
+    "id": 16,
+    "name": "Italian",
+    "commentCount": 35
+   },
+   {
+    "id": 9,
+    "name": "Russian",
+    "commentCount": 333
+   },
+   {
+    "id": 11,
+    "name": "Thai",
+    "commentCount": 13
+   },
+   {
+    "id": 13,
+    "name": "Indonesian",
+    "commentCount": 1
+   },
+   {
+    "id": 12,
+    "name": "Malay",
+    "commentCount": 1
+   },
+   {
+    "id": 10,
+    "name": "Vietnamese",
+    "commentCount": 10
+   },
+   {
+    "id": 17,
+    "name": "Dutch",
+    "commentCount": 15
+   },
+   {
+    "id": 18,
+    "name": "Polish",
+    "commentCount": 5
+   },
+   {
+    "id": 20,
+    "name": "Turkish",
+    "commentCount": 2
+   },
+   {
+    "id": 19,
+    "name": "Portuguese",
+    "commentCount": 9
+   },
+   {
+    "id": 21,
+    "name": "Arabic",
+    "commentCount": 9
+   }
+  ],
+  "totalCountForPage": 14599,
+  "groupList": [
+   {
+    "dataType": 7,
+    "commentList": [
+     {
+      "id": 2134272597,
+      "userInfo": {
+       "userId": "",
+       "nickName": "YPluotuo",
+       "avatarUrl": "/1h64x12000ap7ul5n3F12.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/1h64x12000ap7ul5n3F12_C_130_130_Q70.jpg",
+       "regionName": "China",
+       "regionCode": "CN",
+       "commentCount": 31,
+       "grade": {
+        "grade": 3,
+        "title": "Review Expert",
+        "desc": "Users with 30 reviews or more"
+       },
+       "trace": "You've left your footprints in 19 citi(es) and reviewed 29 hotel(s)",
+       "usefulCount": 26,
+       "pictureCount": 293,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "30",
+        "curLevelName": "钻石贵宾",
+        "rewardList": [
+         {
+          "rewardID": "1",
+          "categoryName": "免费早餐",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_breakfast.png"
+         },
+         {
+          "rewardID": "2",
+          "categoryName": "免费取消",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_cancel.png"
+         },
+         {
+          "rewardID": "3",
+          "categoryName": "延迟退房",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_delay.png"
+         },
+         {
+          "rewardID": "4",
+          "categoryName": "房型升级",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_update.png"
+         }
+        ],
+        "discount": 0.85,
+        "levelType": "CTRIP"
+       },
+       "nickNameType": 1,
+       "isDefaultAvatar": false
+      },
+      "createDate": "2026-10-09 16:42:41",
+      "checkinDate": "2026-10-01 00:00:00",
+      "content": "1999年的金茂君悦年頭長了，降低了期望值。其實不錯的，門口迎賓主動開關車門拉出行李，前台儘量滿足要求，給了朝向浦西外灘的80層嘉賓軒江景房。房間保持新而整潔。行政酒廊下午茶的藍莓司康和核桃蛋糕不錯。咖啡機在最裡麪。晚間小食品質欠佳，吃了鹽漬三文魚。56樓早餐還行，走到最北面餐枱並向裏面看，有生煎包煎餃，味美。房間40平米，衞浴小而緊湊。但打卡值了，外觀及內飾都是三件套中最漂亮的。",
+      "language": "zh",
+      "source": 1,
+      "translatedContent": "Although the Grand Hyatt Jin Mao, built in 1999, is showing its age—which lowered our expectations—it actually turned out to be a great stay. The doormen actively opened car doors and retrieved our luggage. The front desk accommodated our requests as much as possible, upgrading us to a Grand Club River View Room on the 80th floor facing the Puxi Bund. The room was well-maintained, feeling fresh and clean. In the Executive Lounge, the afternoon tea's blueberry scones and walnut cake were quite good (the coffee machine is located in the innermost corner), though the evening canapés were of mediocre quality—I had the salted salmon. Breakfast on the 56th floor was decent; if you walk to the northernmost buffet station and look inside, you'll find freshly pan-fried buns (shengjianbao) and potstickers, which were delicious. The room is 40 square meters, and the bathroom is small and compact. Still, it's totally worth visiting for the experience—both its exterior and interior are the most stunning among the 'three major skyscrapers'.",
+      "translatedLanguage": "en",
+      "translatedSource": "GM",
+      "translatedSourceText": "Translation provided by AI",
+      "travelType": 70,
+      "travelTypeText": "Couple",
+      "rating": 10,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 10,
+       "ratingLocation": 10,
+       "ratingFacility": 10,
+       "ratingService": 10,
+       "ratingRoom": 10,
+       "commentLevel": "Outstanding"
+      },
+      "recommend": true,
+      "imageList": [
+       "/0233b12000u3zzt89AC94.jpg",
+       "/0235y12000u3zkbix8B65.jpg",
+       "/0232812000u3zwvvb301B.jpg",
+       "/0235m12000u3zqcd2FED8.jpg",
+       "/0234w12000u3zqo5wF5AB.jpg",
+       "/0231h12000u3z89ciC1A7.jpg",
+       "/0230z12000u3zb29kE525.jpg",
+       "/0234012000u3zjhhz9B29.jpg",
+       "/0230812000u3zq7di5D29.jpg",
+       "/0235i12000u3zr6q46B6C.jpg",
+       "/0230v12000u3zhtqbB863.jpg",
+       "/0235712000u3zhvwq8317.jpg",
+       "/0231412000u3zmg6i609C.jpg",
+       "/0235i12000u3z8xryB3E9.jpg",
+       "/0232o12000u3zdrvjA73A.jpg",
+       "/0234q12000u3zg17v27EF.jpg",
+       "/0232k12000u3zhgox0032.jpg",
+       "/0231u12000u3zqt2m4339.jpg"
+      ],
+      "imageCuttingsList": [
+       {
+        "imageID": 754167129,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0233b12000u3zzt89AC94_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0233b12000u3zzt89AC94_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0233b12000u3zzt89AC94_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 5.5312
+       },
+       {
+        "imageID": 754167131,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0235y12000u3zkbix8B65_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0235y12000u3zkbix8B65_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0235y12000u3zkbix8B65_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 14,
+        "picTypeName": "公共区域",
+        "qualityScore": 4.8822
+       },
+       {
+        "imageID": 754167133,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0232812000u3zwvvb301B_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0232812000u3zwvvb301B_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0232812000u3zwvvb301B_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 5,
+        "picTypeName": "其他",
+        "qualityScore": 7.213
+       },
+       {
+        "imageID": 754167135,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0235m12000u3zqcd2FED8_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0235m12000u3zqcd2FED8_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0235m12000u3zqcd2FED8_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 14,
+        "picTypeName": "公共区域",
+        "qualityScore": 5.3828
+       },
+       {
+        "imageID": 754167137,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0234w12000u3zqo5wF5AB_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0234w12000u3zqo5wF5AB_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0234w12000u3zqo5wF5AB_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 5,
+        "picTypeName": "其他",
+        "qualityScore": 5.866
+       },
+       {
+        "imageID": 754167139,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0231h12000u3z89ciC1A7_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0231h12000u3z89ciC1A7_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0231h12000u3z89ciC1A7_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 14,
+        "picTypeName": "公共区域",
+        "qualityScore": 5.5818
+       },
+       {
+        "imageID": 754167141,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0230z12000u3zb29kE525_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0230z12000u3zb29kE525_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0230z12000u3zb29kE525_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 14,
+        "picTypeName": "公共区域",
+        "qualityScore": 4.795
+       },
+       {
+        "imageID": 754167143,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0234012000u3zjhhz9B29_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0234012000u3zjhhz9B29_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0234012000u3zjhhz9B29_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 5,
+        "picTypeName": "其他",
+        "qualityScore": 3.5986
+       },
+       {
+        "imageID": 754167145,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0230812000u3zq7di5D29_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0230812000u3zq7di5D29_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0230812000u3zq7di5D29_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 9,
+        "picTypeName": "房间",
+        "qualityScore": 5.2496
+       },
+       {
+        "imageID": 754167147,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0235i12000u3zr6q46B6C_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0235i12000u3zr6q46B6C_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0235i12000u3zr6q46B6C_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 9,
+        "picTypeName": "房间",
+        "qualityScore": 6.0022
+       },
+       {
+        "imageID": 754167149,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0230v12000u3zhtqbB863_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0230v12000u3zhtqbB863_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0230v12000u3zhtqbB863_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 4.774
+       },
+       {
+        "imageID": 754167151,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0235712000u3zhvwq8317_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0235712000u3zhvwq8317_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0235712000u3zhvwq8317_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 14,
+        "picTypeName": "公共区域",
+        "qualityScore": 6.8714
+       },
+       {
+        "imageID": 754167153,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0231412000u3zmg6i609C_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0231412000u3zmg6i609C_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0231412000u3zmg6i609C_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 4.2278
+       },
+       {
+        "imageID": 754167155,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0235i12000u3z8xryB3E9_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0235i12000u3z8xryB3E9_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0235i12000u3z8xryB3E9_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 3.8662
+       },
+       {
+        "imageID": 754167157,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0232o12000u3zdrvjA73A_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0232o12000u3zdrvjA73A_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0232o12000u3zdrvjA73A_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 5.9428
+       },
+       {
+        "imageID": 754167159,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0234q12000u3zg17v27EF_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0234q12000u3zg17v27EF_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0234q12000u3zg17v27EF_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 4.881
+       },
+       {
+        "imageID": 754167161,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0232k12000u3zhgox0032_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0232k12000u3zhgox0032_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0232k12000u3zhgox0032_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 4.8758
+       },
+       {
+        "imageID": 754167163,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0231u12000u3zqt2m4339_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0231u12000u3zqt2m4339_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0231u12000u3zqt2m4339_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 1,
+        "picTypeName": "外观",
+        "qualityScore": 4.797
+       }
+      ],
+      "videoList": [],
+      "feedbackList": [
+       {
+        "type": 3,
+        "createDate": "2026-10-09 00:00:00",
+        "content": "尊敬的賓客：感謝您帶着\"降低期望值\"的心態來打卡，卻給了我們一份如此坦誠又細緻的評價。1999年至今，能被您認可\"外觀及內飾都是三件套中最漂亮的\"，是對這座經典地標最好的迴響。迎賓與前台的用心已傳達至團隊，80層浦西江景房的視野沒讓您失望就好。嘉賓軒的藍莓司康和核桃蛋糕看來很合您口味，不過咖啡機位置隱蔽和晚間小食的品質問題，您的反饋已同步餐飲團隊，我們會盡快優化。56樓早餐的生煎包和煎餃確實值得\"尋寶\"，謝謝您替其他賓客指路。房間空間是時代的印記，但維護得\"新而整潔\"是我們一直堅持的底線。您説\"打卡值了\"，這比什麼都珍貴。期待下次您再來，行政酒廊會有更好的表現等您驗收。祝您旅途常伴好風景。上海金茂君悦大酒店 管理團隊 敬上",
+        "imageCuttingsList": [],
+        "translatedContent": "Dear Guest, Thank you for your honest and detailed review despite having lowered your expectations. Since 1999, your recognition that \"the exterior and interior are the most beautiful of the three\" is the best affirmation of this classic landmark. The dedication of the greeters and front desk staff has been conveyed to the team, and we are glad that the view from the 80th-floor Puxi river view room did not disappoint you. The blueberry scones and walnut cake in the Grand Hyatt Club seemed to suit your taste, but your feedback regarding the hidden location of the coffee machine and the quality of the evening snacks has been shared with the food and beverage team, and we will improve them as soon as possible. The pan-fried buns and dumplings at the 56th-floor breakfast are indeed worth the search; thank you for pointing them out to other guests. The room space bears the mark of its era, but maintaining it as \"new and clean\" is our consistent bottom line. Your comment that \"it was worth the visit\" is more precious than anything else. We look forward to your next visit; the Executive Lounge will have even better performance for you to see. We wish you continued success on your journey. Sincerely, The Management Team of Grand Hyatt Shanghai",
+        "language": "zh",
+        "fold": true
+       }
+      ],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Club Room Queen Bed",
+      "roomID": 301750431,
+      "feedbackSecurityKey": "WyxAoZITlGCdNz4wyTTRs/yi4ldE4z6fGWzJbBlAzBAHR6WKZjgqKg==_review_2134272597",
+      "commendableRewardList": [],
+      "isTripComment": false,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "ctrip",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 2158094813,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Aihewangzikuzidexiguapi",
+       "avatarUrl": "/27c2312000na9j5h1276B.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/27c2312000na9j5h1276B_C_130_130_Q70.jpg",
+       "regionName": "China",
+       "regionCode": "CN",
+       "commentCount": 48,
+       "grade": {
+        "grade": 3,
+        "title": "Review Expert",
+        "desc": "Users with 30 reviews or more"
+       },
+       "trace": "You've left your footprints in 8 citi(es) and reviewed 23 hotel(s)",
+       "usefulCount": 3,
+       "pictureCount": 78,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "35",
+        "curLevelName": "金钻贵宾",
+        "rewardList": [
+         {
+          "rewardID": "1",
+          "categoryName": "免费早餐",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_breakfast.png"
+         },
+         {
+          "rewardID": "2",
+          "categoryName": "免费取消",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_cancel.png"
+         },
+         {
+          "rewardID": "3",
+          "categoryName": "延迟退房",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_delay.png"
+         },
+         {
+          "rewardID": "4",
+          "categoryName": "房型升级",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_update.png"
+         }
+        ],
+        "discount": 0.85,
+        "levelType": "CTRIP"
+       },
+       "regularCustomer": "Regular customer",
+       "nickNameType": 1,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#2346FF",
+       "avatorLetter": "A"
+      },
+      "createDate": "2026-10-31 07:59:01",
+      "checkinDate": "2026-10-01 00:00:00",
+      "content": "：和家人一起來住的金茂君悦，大家都挺滿意。地段便利，下樓商圈很近，去東方明珠、江邊走走都不遠。從禮賓到客房服務都很貼心，做事有分寸，不會過度打擾。房間隔音挺好，夜裡很安靜，衞生做得仔細，高空view是最大亮點，坐着看看窗外就很治癒，整體是很穩的五星體驗。",
+      "language": "zh",
+      "source": 1,
+      "translatedContent": "We stayed at the Grand Hyatt with our family, and everyone was quite satisfied. The location is very convenient, with shopping districts just downstairs, and walking to the Oriental Pearl Tower or the riverfront is not far at all. From the concierge to room service, the staff were thoughtful and attentive, handling things professionally without being overly intrusive. The room soundproofing is great, making for a very quiet night, and the housekeeping was meticulous. The high-altitude view is the biggest highlight—just sitting and looking out the window is so relaxing. Overall, it's a solid five-star experience.",
+      "translatedLanguage": "en",
+      "translatedSource": "GM",
+      "translatedSourceText": "Translation provided by AI",
+      "travelType": 40,
+      "travelTypeText": "Traveling with friends",
+      "rating": 10,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 10,
+       "ratingLocation": 10,
+       "ratingFacility": 10,
+       "ratingService": 10,
+       "ratingRoom": 10,
+       "commentLevel": "Outstanding"
+      },
+      "recommend": true,
+      "imageList": [
+       "/0233u12000ub01tlf343F.jpg",
+       "/0230s12000uazhfiqB1BD.jpg",
+       "/0230i12000ub0autj166E.jpg",
+       "/0233r12000uaype5972F3.jpg",
+       "/0230t12000ub05uz752FD.jpg",
+       "/0231z12000uazn0ew6F39.jpg",
+       "/0236c12000ub0h6a980D3.jpg",
+       "/0234012000ub0hgn0541C.jpg",
+       "/0234312000ub0autv6E5E.jpg",
+       "/0232112000ub0cwzv904E.jpg"
+      ],
+      "imageCuttingsList": [
+       {
+        "imageID": 766048903,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0233u12000ub01tlf343F_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0233u12000ub01tlf343F_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0233u12000ub01tlf343F_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 9,
+        "picTypeName": "房间",
+        "qualityScore": 4.2542
+       },
+       {
+        "imageID": 766048905,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0230s12000uazhfiqB1BD_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0230s12000uazhfiqB1BD_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0230s12000uazhfiqB1BD_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 4.479
+       },
+       {
+        "imageID": 766048907,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0230i12000ub0autj166E_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0230i12000ub0autj166E_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0230i12000ub0autj166E_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 4.8546
+       },
+       {
+        "imageID": 766048909,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0233r12000uaype5972F3_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0233r12000uaype5972F3_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0233r12000uaype5972F3_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 5.083
+       },
+       {
+        "imageID": 766048911,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0230t12000ub05uz752FD_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0230t12000ub05uz752FD_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0230t12000ub05uz752FD_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 5.966
+       },
+       {
+        "imageID": 766048913,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0231z12000uazn0ew6F39_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0231z12000uazn0ew6F39_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0231z12000uazn0ew6F39_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 14,
+        "picTypeName": "公共区域",
+        "qualityScore": 5.8528
+       },
+       {
+        "imageID": 766048915,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0236c12000ub0h6a980D3_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0236c12000ub0h6a980D3_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0236c12000ub0h6a980D3_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 5,
+        "picTypeName": "其他",
+        "qualityScore": 4.6122
+       },
+       {
+        "imageID": 766048917,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0234012000ub0hgn0541C_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0234012000ub0hgn0541C_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0234012000ub0hgn0541C_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 9,
+        "picTypeName": "房间",
+        "qualityScore": 5.194
+       },
+       {
+        "imageID": 766048919,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0234312000ub0autv6E5E_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0234312000ub0autv6E5E_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0234312000ub0autv6E5E_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 14,
+        "picTypeName": "公共区域",
+        "qualityScore": 6.6322
+       },
+       {
+        "imageID": 766048921,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0232112000ub0cwzv904E_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0232112000ub0cwzv904E_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0232112000ub0cwzv904E_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 5.1376
+       }
+      ],
+      "videoList": [],
+      "feedbackList": [
+       {
+        "type": 3,
+        "createDate": "2026-11-02 00:00:00",
+        "content": "尊敬的賓客，您好！非常感謝您與家人選擇下榻上海金茂君悦大酒店，並抽出寶貴時間分享此次入住體驗。讀到您對酒店地段、禮賓與客房服務的認可，以及家人對整體旅程的滿意，我們管理團隊深感榮幸。地處陸家嘴核心商圈，步行即可抵達東方明珠與濱江大道，這份得天獨厚的便利一直是我們引以為傲的優勢。很高興我們的團隊服務能為您留下“貼心且有分寸”的印象——這正契合金茂君悦對五星服務的理解：在恰到好處的主動與剋制的優雅之間，為賓客營造真正鬆弛的居停氛圍。您特別提到的房間隔音與衞生細節，我們已同步至客房管家團隊，這是對我們日常運營標準的最佳肯定。當然，最令我們欣喜的莫過於您對高空城景的喜愛。坐擁黃浦江畔的雲端視野，俯瞰浦江兩岸的流光溢彩，本身就是一種治癒。得知這成為您與家人共度時光的温馨背景，我們倍感欣慰。期待在不久的將來，能再次迎接您與家人的歸來。屆時，無論是節日慶典還是閑暇小憩，上海金茂君悦大酒店始終會是您在滬上值得信賴的“家外之家”。祝您與家人順遂安康，旅途常伴美好。上海金茂君悦大酒店 管理團隊 敬上",
+        "imageCuttingsList": [],
+        "translatedContent": "Dear Guest, Thank you for choosing to stay at the Grand Hyatt Shanghai and taking the time to share your experience. We are honored to hear of your positive feedback on the hotel's location, concierge and room service, and your family's overall satisfaction with the trip. Located in the heart of the Lujiazui business district, within walking distance of the Oriental Pearl Tower and the Bund, this unparalleled convenience has always been a source of pride for us. We are delighted that our team's service left you with an impression of being \"attentive yet measured\"—a perfect reflection of the Grand Hyatt Shanghai's understanding of five-star service: creating a truly relaxing atmosphere for guests with just the right amount of proactive yet restrained elegance. Regarding your specific comments on the room's soundproofing and cleanliness, we have already shared them with the housekeeping team, which is the best affirmation of our daily operational standards. Of course, what pleases us most is your appreciation for the panoramic city views. Enjoying the view from the top of the Huangpu River, overlooking the dazzling lights on both sides, is a truly therapeutic experience. We are delighted to learn that this has become a warm backdrop for your time with your family. We look forward to welcoming you and your family back in the near future. Whether it's a festive celebration or a leisurely retreat, the Grand Hyatt Shanghai will always be your trusted \"home away from home\" in Shanghai. Wishing you and your family good health and happiness, and may your journeys be filled with joy. Sincerely, The Management Team, Grand Hyatt Shanghai",
+        "language": "zh",
+        "fold": true
+       }
+      ],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Club Room Queen Bed",
+      "roomID": 301750431,
+      "feedbackSecurityKey": "jh8Ql++z2JZYkaZEgqNO1RgEfZH72AP8+HhD1wlLtAkHR6WKZjgqKg==_review_2158094813",
+      "commendableRewardList": [],
+      "isTripComment": false,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "ctrip",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 2161828600,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Lucas Page",
+       "avatarUrl": "/0a20p224x9asw93ah9326.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/0a20p224x9asw93ah9326_C_130_130_Q70.jpg",
+       "regionName": "Indonesia",
+       "regionCode": "ID",
+       "commentCount": 8,
+       "grade": {
+        "grade": 2,
+        "title": "Review Specialist",
+        "desc": "Users with 5–29 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 3 citi(es) and reviewed 7 hotel(s)",
+       "usefulCount": 0,
+       "pictureCount": 24,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "4",
+        "curLevelName": "Diamond",
+        "levelType": "TRIP"
+       },
+       "nickNameType": 1,
+       "isDefaultAvatar": false,
+       "memberLevelIcon": "https://dimg04.tripcdn.com/images/0236i12000nal0vn66478.png",
+       "memberLevelDarkIcon": "https://dimg04.tripcdn.com/images/0236w12000nakzvtl5F9F.png"
+      },
+      "createDate": "2026-11-03 16:21:28",
+      "checkinDate": "2026-11-01 00:00:00",
+      "content": "Pro’s: great location, amazing views from lobby and breakfast, and overall feeling of luxury across the hotel.\n\nCons: The luxury vibes are immediately contrasted and opaqued by the old outdated looks of the room, and the lack of amenities (i.e.: you get a bathtub that looks good, but no bubble bath liquid/gel, and when you request it, they don’t have. They only offer bath salts).\nThe coffee machine was plugged to a wall plug that didn’t work, so as soon as we arrived in the room wanting a hot coffee to deal with the outside cold, we had to call maintenance (plug couldn’t be taken out due to a glass tray it was passed through, otherwise I would’ve connected it myself to another wall plug) to come and try another plug.\nThe wifi was also not working at all and after 20 minutes on the phone with the IT staff and no solution, we gave up on using it (cut off in the middle of a show we were watching, which was very frustrating).\nThe overall staff at the hotel (specifically the breakfast) does not smile at you, and they seem to be overworked and stressed of dealing with the guests, with one exception (the lady chef making the wonton soup. She was lovely and smiling).\nLastly, I specifically paid a lot for this room to celebrate our trip and have nice views of the iconic TV tower on our last night in China, so I requested a high floor room, and was very disappointed to see that they put us in a room that LITERALLY had a huge lightning rod/antenna with a whole roofing next to the whole window, making the view blocked and ugly with the old rusty and dirty metal, completely opaque and dissatisfying .\n\nHonestly I would not recommend this hotel to anyone at all. They charge a whole lot (we paid USD 500 for one night) and it doesn’t make you feel welcomed or cared for.",
+      "language": "en",
+      "source": 1,
+      "travelType": 70,
+      "travelTypeText": "Couple",
+      "rating": 6.5,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 6.5,
+       "ratingLocation": 10,
+       "ratingFacility": 4,
+       "ratingService": 4,
+       "ratingRoom": 8,
+       "commentLevel": ""
+      },
+      "recommend": true,
+      "imageList": [
+       "/0232p224x9b5yisau2AB3.jpg",
+       "/02365224x9b5zfr18F4A7.jpg",
+       "/02329224x9b5yxvs46EBB.jpg"
+      ],
+      "imageCuttingsList": [
+       {
+        "imageID": 768005636,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0232p224x9b5yisau2AB3_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0232p224x9b5yisau2AB3_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0232p224x9b5yisau2AB3_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 2,
+        "picTypeName": "餐饮",
+        "qualityScore": 4.5572
+       },
+       {
+        "imageID": 768005638,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/02365224x9b5zfr18F4A7_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/02365224x9b5zfr18F4A7_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/02365224x9b5zfr18F4A7_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 5,
+        "picTypeName": "其他",
+        "qualityScore": 3.9722
+       },
+       {
+        "imageID": 768005640,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/02329224x9b5yxvs46EBB_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/02329224x9b5yxvs46EBB_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/02329224x9b5yxvs46EBB_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 9,
+        "picTypeName": "房间",
+        "qualityScore": 5.2598
+       }
+      ],
+      "videoList": [],
+      "feedbackList": [
+       {
+        "type": 3,
+        "createDate": "2026-11-03 00:00:00",
+        "content": "Dear Valued Guest,Thank you for taking the time to share such detailed and honest feedback. We are truly sorry your celebratory last night in China didn't feel as special as it should have — especially at this price point. That is on us, and we have taken every word to heart.Perched within the iconic Jin Mao Tower — one of Lujiazui's original \"Three-Piece Set\" — Grand Hyatt Shanghai has been welcoming guests above the clouds for nearly 27 years. Our unique architectural language, inspired by a traditional Chinese pagoda rising through the sky, is something we are incredibly proud of. But we know that heritage alone doesn't make a stay memorable — it's how you feel the moment you step into your room.About the view: we completely understand your disappointment. You chose us for that iconic skyline, and we want every guest to feel the same thrill you expected. Moving forward, we are placing even greater care on room assignment — taking the time to truly understand each guest's view preferences and doing everything we can to match them. Your experience has reminded us that a great view isn't a perk here; it's a promise, and we are committed to keeping it.On the practical side, your notes on the missing bubble bath, the temperamental power outlet, the Wi-Fi drop, and the breakfast team's strained smiles have all been shared with our General Manager and the relevant departments. These are being reviewed and improved this week — because 27 years in the clouds means we should know how to make things effortless by now.Thank you for giving us your honesty. We hope that one day, when you think of Shanghai, you will give us another chance to show you the warm, seamless stay you should have had this time — with a view that truly takes your breath away.Warm regards,The Management TeamGrand Hyatt Shanghai",
+        "imageCuttingsList": [],
+        "language": "en",
+        "fold": false
+       }
+      ],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Grand Pearl-view King Room",
+      "roomID": 517275100,
+      "isTripComment": true,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "English",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 2165519019,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Guest User",
+       "avatarUrl": "/1i56212000h1rgk0b6C22.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/1i56212000h1rgk0b6C22_C_130_130_Q70.jpg",
+       "regionName": "United Kingdom",
+       "regionCode": "GB",
+       "commentCount": 2,
+       "grade": {
+        "grade": 1,
+        "title": "Rising review star",
+        "desc": "Users with 1–4 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 2 citi(es) and reviewed 1 hotel(s)",
+       "usefulCount": 0,
+       "pictureCount": 3,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "4",
+        "curLevelName": "Diamond",
+        "levelType": "TRIP"
+       },
+       "nickNameType": 3,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#948DFF",
+       "avatorLetter": "G",
+       "memberLevelIcon": "https://dimg04.tripcdn.com/images/0236i12000nal0vn66478.png",
+       "memberLevelDarkIcon": "https://dimg04.tripcdn.com/images/0236w12000nakzvtl5F9F.png"
+      },
+      "createDate": "2026-11-07 06:21:47",
+      "checkinDate": "2026-10-01 00:00:00",
+      "content": "Grand Hyatt looks fantastic and location is great. Its not as comfortable as some of its comparators and was a bit run down inside.  Bit dusty. Good enough value for money. Impressive building",
+      "language": "en",
+      "source": 1,
+      "travelType": 30,
+      "travelTypeText": "Family",
+      "rating": 7.5,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 7.5,
+       "ratingLocation": 10,
+       "ratingFacility": 8,
+       "ratingService": 6,
+       "ratingRoom": 6,
+       "commentLevel": ""
+      },
+      "recommend": true,
+      "imageList": [
+       "/0234n424x9b7agbzjA41C.jpg"
+      ],
+      "imageCuttingsList": [
+       {
+        "imageID": 769897291,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0234n424x9b7agbzjA41C_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0234n424x9b7agbzjA41C_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0234n424x9b7agbzjA41C_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 1,
+        "picTypeName": "外观",
+        "qualityScore": 4.7488
+       }
+      ],
+      "videoList": [],
+      "feedbackList": [],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Grand Family Connection",
+      "roomID": 531565092,
+      "isTripComment": true,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "English",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 2154118895,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Anonymous User",
+       "avatarUrl": "/0AS27120009wz6aovB7AA.png",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+       "regionName": "United States",
+       "regionCode": "US",
+       "commentCount": 7,
+       "grade": {
+        "grade": 2,
+        "title": "Review Specialist",
+        "desc": "Users with 5–29 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 50 citi(es) and reviewed 7 hotel(s)",
+       "usefulCount": 0,
+       "pictureCount": 10,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": true,
+       "levelInfo": {
+        "curLevelCode": "40",
+        "curLevelName": "黑钻贵宾",
+        "rewardList": [
+         {
+          "rewardID": "1",
+          "categoryName": "免费早餐",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_breakfast.png"
+         },
+         {
+          "rewardID": "2",
+          "categoryName": "免费取消",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_cancel.png"
+         },
+         {
+          "rewardID": "3",
+          "categoryName": "延迟退房",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_delay.png"
+         },
+         {
+          "rewardID": "4",
+          "categoryName": "房型升级",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_update.png"
+         }
+        ],
+        "discount": 0.85,
+        "levelType": "CTRIP"
+       },
+       "nickNameType": 2,
+       "isDefaultAvatar": false
+      },
+      "createDate": "2026-10-27 14:48:43",
+      "checkinDate": "2026-10-01 00:00:00",
+      "content": "假期帶長輩來上海，入住金茂君悦，整體體驗很舒心。房間安靜，長輩夜裡睡得很好。高層視野開闊，長輩看到窗外陸家嘴景色很驚喜。，地段方便遊玩，非常適合帶長輩入住。管家Mia 還給我們做了免費延遲退房，前台經理Maggie and mo非常nice 服務專業",
+      "language": "zh",
+      "source": 1,
+      "translatedContent": "Spent the holiday in Shanghai with my elderly family members and stayed at the Grand Hyatt Jin Mao. The overall experience was very pleasant. The rooms are quiet, and the seniors slept really well at night. The high-floor view is expansive, and they were pleasantly surprised by the Lujiazui skyline outside the window. The location is very convenient for sightseeing, making it ideal for traveling with older guests. Butler Mia even arranged a complimentary late check-out for us, and the front desk managers, Maggie and Mo, were very nice and provided professional service.",
+      "translatedLanguage": "en",
+      "translatedSource": "GM",
+      "translatedSourceText": "Translation provided by AI",
+      "travelType": 40,
+      "travelTypeText": "Traveling with friends",
+      "rating": 10,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 10,
+       "ratingLocation": 10,
+       "ratingFacility": 10,
+       "ratingService": 10,
+       "ratingRoom": 10,
+       "commentLevel": "Outstanding"
+      },
+      "recommend": true,
+      "imageList": [
+       "/0234j12000u9pa6tx2886.jpg",
+       "/0233612000u9pks8vD011.jpg",
+       "/0230x12000u9pt8u6E2D6.jpg"
+      ],
+      "imageCuttingsList": [
+       {
+        "imageID": 764078823,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0234j12000u9pa6tx2886_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0234j12000u9pa6tx2886_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0234j12000u9pa6tx2886_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 2,
+        "picTypeName": "餐饮",
+        "qualityScore": 4.25
+       },
+       {
+        "imageID": 764078825,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0233612000u9pks8vD011_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0233612000u9pks8vD011_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0233612000u9pks8vD011_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 14,
+        "picTypeName": "公共区域",
+        "qualityScore": 3.76
+       },
+       {
+        "imageID": 764078827,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0230x12000u9pt8u6E2D6_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0230x12000u9pt8u6E2D6_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0230x12000u9pt8u6E2D6_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 5,
+        "picTypeName": "其他",
+        "qualityScore": 3.8158
+       }
+      ],
+      "videoList": [],
+      "feedbackList": [
+       {
+        "type": 3,
+        "createDate": "2026-10-27 00:00:00",
+        "content": "尊敬的賓客：感謝您選擇上海金茂君悦大酒店作為家人上海之行下榻之所，更感謝您留下如此用心的分享。得知長輩在高層安靜的客房中安享好眠，晨起又被陸家嘴的天際線所驚艷，我們由衷地感到欣慰——這正是我們希望為闔家出遊的賓客營造的從容與愜意。您對管家Mia以及前台經理Maggie和Mo的認可已第一時間傳達，他們非常感動，並表示能為您和長輩盡一份心，是工作中最珍貴的回饋。我們始終相信，專業與温度並存的服務，才能讓每一位賓客都感受到\"家外之家\"的暖意。真誠期待您與家人再次歸來，讓我們繼續為您守護每一段美好的雲端回憶。順頌時祺，上海金茂君悦大酒店管理團隊 敬上",
+        "imageCuttingsList": [],
+        "translatedContent": "Dear Guest, Thank you for choosing Grand Hyatt Shanghai as your family's accommodation for your trip to Shanghai, and thank you for your thoughtful review. We are truly pleased to know that your elders enjoyed a good night's sleep in their quiet high-floor room and were amazed by the Lujiazui skyline the next morning – this is exactly the kind of tranquility and comfort we strive to create for our family travelers. We have immediately conveyed your positive feedback to Butler Mia and Front Desk Managers Maggie and Mo, who are deeply touched and say that being able to do our part for you and your elders is the most precious reward in our work. We firmly believe that professional and warm service is what makes every guest feel at home away from home. We sincerely look forward to your return with your family, and let us continue to safeguard every beautiful memory you have. Best regards, The Grand Hyatt Shanghai Management Team",
+        "language": "zh",
+        "fold": true
+       }
+      ],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Grand Pearl-view King Room",
+      "roomID": 517275100,
+      "feedbackSecurityKey": "69xxLLdMPZ1PoP0cws2q0gFPY7CFZLqoewCe3C0Ue0AHR6WKZjgqKg==_review_2154118895",
+      "commendableRewardList": [],
+      "isTripComment": false,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "ctrip",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 2155073024,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Guest User",
+       "avatarUrl": "/1i56212000h1rgk0b6C22.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/1i56212000h1rgk0b6C22_C_130_130_Q70.jpg",
+       "regionName": "United States",
+       "regionCode": "US",
+       "commentCount": 8,
+       "grade": {
+        "grade": 2,
+        "title": "Review Specialist",
+        "desc": "Users with 5–29 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 2 citi(es) and reviewed 4 hotel(s)",
+       "usefulCount": 0,
+       "pictureCount": 1,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "3",
+        "curLevelName": "Platinum",
+        "levelType": "TRIP"
+       },
+       "nickNameType": 3,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#948DFF",
+       "avatorLetter": "G",
+       "memberLevelIcon": "https://dimg04.tripcdn.com/images/0233z12000nal0ol1D144.png",
+       "memberLevelDarkIcon": "https://dimg04.tripcdn.com/images/0230p12000nakzmfq568A.png"
+      },
+      "createDate": "2026-10-28 12:12:29",
+      "checkinDate": "2026-10-01 00:00:00",
+      "content": "After a slow check in and delay in delivering an extra bed, the duty manager comped our club access and breakfast for rest of the stay. Experience was very satisfactory and staff were friendly and helpful.",
+      "language": "en",
+      "source": 1,
+      "travelType": 30,
+      "travelTypeText": "Family",
+      "rating": 10,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 10,
+       "ratingLocation": 10,
+       "ratingFacility": 10,
+       "ratingService": 10,
+       "ratingRoom": 10,
+       "commentLevel": "Outstanding"
+      },
+      "recommend": true,
+      "imageList": [
+       "/0233l224x9b3t68mpDB16.jpg"
+      ],
+      "imageCuttingsList": [
+       {
+        "imageID": 764503644,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0233l224x9b3t68mpDB16_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0233l224x9b3t68mpDB16_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0233l224x9b3t68mpDB16_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 4.6204
+       }
+      ],
+      "videoList": [],
+      "feedbackList": [
+       {
+        "type": 3,
+        "createDate": "2026-10-28 00:00:00",
+        "content": "Dear Valued Guests,Thank you for taking the time to share your experience. We are truly sorry that your check-in was slow and the extra bed delivery was delayed — this is not the standard we aim for, and your feedback has been shared with our Front Office and Housekeeping teams for immediate review.That said, we are so glad our duty manager was able to step in and make things right for you. It is wonderful to know that, from that point on, your experience was very satisfactory and our team's warmth and helpfulness shone through. Your kind words have been passed along — they mean a great deal to us.We sincerely hope to welcome you back to the Grand Hyatt Shanghai in the near future. Next time, we will be ready from the very first moment — extra bed included.Warm regards,The Management TeamGrand Hyatt Shanghai",
+        "imageCuttingsList": [],
+        "language": "en",
+        "fold": true
+       },
+       {
+        "type": 2,
+        "createDate": "2026-10-28 00:00:00",
+        "content": "Mia was very helpful and checked in with us to make sure we had a good rest of our stay.",
+        "imageList": [],
+        "imageCuttingsList": [],
+        "status": 0,
+        "language": "en"
+       }
+      ],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Grand Queen Bed",
+      "roomID": 301750182,
+      "isTripComment": true,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "English",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 2154749413,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Anonymous User",
+       "avatarUrl": "/0AS27120009wz6aovB7AA.png",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+       "regionName": "",
+       "regionCode": "",
+       "commentCount": 6,
+       "grade": {
+        "grade": 2,
+        "title": "Review Specialist",
+        "desc": "Users with 5–29 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 7 citi(es) and reviewed 7 hotel(s)",
+       "usefulCount": 1,
+       "pictureCount": 5,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": true,
+       "levelInfo": {
+        "curLevelCode": "35",
+        "curLevelName": "金钻贵宾",
+        "rewardList": [
+         {
+          "rewardID": "1",
+          "categoryName": "免费早餐",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_breakfast.png"
+         },
+         {
+          "rewardID": "2",
+          "categoryName": "免费取消",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_cancel.png"
+         },
+         {
+          "rewardID": "3",
+          "categoryName": "延迟退房",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_delay.png"
+         },
+         {
+          "rewardID": "4",
+          "categoryName": "房型升级",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_update.png"
+         }
+        ],
+        "discount": 0.85,
+        "levelType": "CTRIP"
+       },
+       "nickNameType": 2,
+       "isDefaultAvatar": false
+      },
+      "createDate": "2026-10-28 00:38:48",
+      "checkinDate": "2026-10-01 00:00:00",
+      "content": "帶媽媽去上海玩，訂東方明珠景觀大床房，很失望，感覺訂這個酒店就是浪費錢，唯一的優點：樓層高，可以看夜景但景觀也一般般，房間的設施很陳舊感，像十八線城市的賓館的裝潢，紙巾又很差，屬於你洗完手，拿來擦手，會全粘在手上的那種超差紙巾，浴室衹有直對着頭的淋浴，沒有手拿花灑，衹有在浴缸位置一個短短的花灑.預訂的時候已經提前告知的，不靠近電梯，明確要求不靠近電梯，可是給我安排靠電梯的第一間（前台告知我，靠電梯的房間更好看東方明珠景，所以我後面要求，那就給我隔一兩間，給我靠電梯的第二間或者第三間），沒想到是第一間，而且看東方明珠還要站在側玻璃，斜着看！酒店説明下午3:00可以辦理入住，3:50到酒店，告訴我們阿姨還在打掃衞生，沒有房！因為沒有房間，我們就出去玩，回來已經是八點多了，就不想再換房！",
+      "language": "zh",
+      "source": 1,
+      "translatedContent": "Took my mom on a trip to Shanghai and booked the Oriental Pearl View King Room. I was very disappointed and felt like booking this hotel was a complete waste of money. The only advantage is the high floor, offering a night view, but even the view is just so-so. The room facilities feel very dated, resembling the decor of a budget hotel in a small town. The tissues are of extremely poor quality—the kind that shreds and sticks all over your hands when you try to dry them after washing. The bathroom only has a fixed overhead rain shower with no handheld showerhead, except for a short one placed by the bathtub.\n\nI had informed them in advance during booking and made a clear request not to be near the elevator. Yet, they assigned me the very first room right next to the elevator (the front desk claimed that rooms near the elevator actually have a better view of the Oriental Pearl, so I compromised and asked to be moved just one or two doors down, perhaps the second or third room from the elevator). To my surprise, they still kept me in the very first room, and to top it off, you have to stand by the side window and look at the Oriental Pearl at an angle!\n\nThe hotel states that check-in is available at 3:00 PM. We arrived at the hotel at 3:50 PM, only to be told the housekeeping auntie was still cleaning and the room wasn't ready! Because the room wasn't ready, we went out to sightsee. By the time we got back, it was already past 8:00 PM, so we just didn't bother changing rooms anymore.",
+      "translatedLanguage": "en",
+      "translatedSource": "GM",
+      "translatedSourceText": "Translation provided by AI",
+      "travelType": 0,
+      "travelTypeText": "Other",
+      "rating": 5.5,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 5.5,
+       "ratingLocation": 6,
+       "ratingFacility": 2,
+       "ratingService": 6,
+       "ratingRoom": 8,
+       "commentLevel": ""
+      },
+      "recommend": false,
+      "imageList": [
+       "/0230j12000u9uv726BF80.jpg",
+       "/0235512000u9v0ur05B22.jpg",
+       "/0235h12000u9vdu1o5D55.jpg",
+       "/0234i12000u9v6sfe497F.jpg",
+       "/0232r12000u9uy4lmD419.jpg"
+      ],
+      "imageCuttingsList": [
+       {
+        "imageID": 764417503,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0230j12000u9uv726BF80_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0230j12000u9uv726BF80_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0230j12000u9uv726BF80_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 5,
+        "picTypeName": "其他",
+        "qualityScore": 3.91
+       },
+       {
+        "imageID": 764417505,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0235512000u9v0ur05B22_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0235512000u9v0ur05B22_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0235512000u9v0ur05B22_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 9,
+        "picTypeName": "房间",
+        "qualityScore": 3.4814
+       },
+       {
+        "imageID": 764417507,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0235h12000u9vdu1o5D55_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0235h12000u9vdu1o5D55_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0235h12000u9vdu1o5D55_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 9,
+        "picTypeName": "房间",
+        "qualityScore": 5.2718
+       },
+       {
+        "imageID": 764417509,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0234i12000u9v6sfe497F_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0234i12000u9v6sfe497F_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0234i12000u9v6sfe497F_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 14,
+        "picTypeName": "公共区域",
+        "qualityScore": 5.0054
+       },
+       {
+        "imageID": 764417511,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0232r12000u9uy4lmD419_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0232r12000u9uy4lmD419_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0232r12000u9uy4lmD419_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 14,
+        "picTypeName": "公共区域",
+        "qualityScore": 5.3198
+       }
+      ],
+      "videoList": [],
+      "feedbackList": [
+       {
+        "type": 3,
+        "createDate": "2026-10-28 00:00:00",
+        "content": "尊敬的賓客：讀完您的留言，我們心裏很不是滋味。帶母親出遊本該是件開心的事，卻因為我們的疏漏讓您和母親受了委屈，我們向您和母親深深致歉。您提到的每一個問題，我們都已認真記下並同步至前廳、客房及工程部門逐項核查整改。房型安排與您的溝通承諾不一致、用品品質未達底線、入住時效延誤——這些都不是您該承受的，我們絕不迴避。金茂君悦坐落於陸家嘴\"三件套\"之一的金茂大廈，佔據其獨有的雲端地標位置。正因其特殊的建築語言，每間客房的視野與格局各有不同——這本是我們引以為傲的特色，卻在此次未能轉化為您和母親眼前的美好。我們將進一步優化房型分配機制，讓這份建築之美真正匹配每一位賓客的期待。您願意花時間寫下這些，是對我們最大的信任。我們真心希望，在未來的某一天，當您和母親再次踏上上海的土地，能以一間真正無可挑剔的房間、一份恰到好處的温暖，重新走進您的心裏。祝您和母親安康喜樂，歲歲常相伴。上海金茂君悦大酒店管理團隊 敬上",
+        "imageCuttingsList": [],
+        "translatedContent": "Dear Guest: We are deeply saddened to have read your message. Traveling with your mother should have been a joyous occasion, but our oversight caused you and your mother inconvenience, for which we sincerely apologize. We have carefully noted down every issue you raised and have forwarded them to the front desk, housekeeping, and engineering departments for verification and rectification. The discrepancy between the room arrangement and your initial promises, the substandard quality of amenities, and the delayed check-in—these are not things you should have to endure, and we will not shirk our responsibilities. The Grand Hyatt is situated in the Jin Mao Tower, one of the \"three pillars\" of Lujiazui, occupying a unique landmark location. Due to its distinctive architectural style, each room offers a unique view and layout—a feature we are proud of, but unfortunately, it failed to translate into the enjoyment you and your mother experienced. We will further optimize our room allocation system to ensure that this architectural beauty truly matches the expectations of every guest. Your willingness to take the time to write this message is the greatest trust you can place in us. We sincerely hope that one day in the future, when you and your mother set foot on Shanghai soil again, a truly impeccable room and just the right amount of warmth will rekindle your love. Wishing you and your mother good health and happiness, and that you will be together forever. Sincerely, The Management Team of Grand Hyatt Shanghai",
+        "language": "zh",
+        "fold": false
+       },
+       {
+        "type": 2,
+        "createDate": "2026-10-28 00:00:00",
+        "content": "還有一堆槽點，不想點評了！越寫越氣！",
+        "imageList": [],
+        "imageCuttingsList": [],
+        "translatedContent": "There are still a ton of flaws, but I don't even want to comment anymore! The more I write, the angrier I get!",
+        "status": 0,
+        "language": "zh"
+       }
+      ],
+      "usefulCount": 1,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Grand Pearl-view King Room",
+      "roomID": 517275100,
+      "feedbackSecurityKey": "pVns/MmruP2wV87TfRwnqNWeH+G0LvbDSGClRu3v+FEHR6WKZjgqKg==_review_2154749413",
+      "commendableRewardList": [],
+      "isTripComment": false,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "ctrip",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 2154027520,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Guest User",
+       "avatarUrl": "/1i56212000h1rgk0b6C22.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/1i56212000h1rgk0b6C22_C_130_130_Q70.jpg",
+       "regionName": "Australia",
+       "regionCode": "AU",
+       "commentCount": 6,
+       "grade": {
+        "grade": 2,
+        "title": "Review Specialist",
+        "desc": "Users with 5–29 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 6 citi(es) and reviewed 6 hotel(s)",
+       "usefulCount": 0,
+       "pictureCount": 4,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "4",
+        "curLevelName": "Diamond",
+        "levelType": "TRIP"
+       },
+       "nickNameType": 3,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#948DFF",
+       "avatorLetter": "G",
+       "memberLevelIcon": "https://dimg04.tripcdn.com/images/0236i12000nal0vn66478.png",
+       "memberLevelDarkIcon": "https://dimg04.tripcdn.com/images/0236w12000nakzvtl5F9F.png"
+      },
+      "createDate": "2026-10-27 13:00:06",
+      "checkinDate": "2026-10-01 00:00:00",
+      "content": "The Grand Hyatt is in the perfect venue. We loved the Sushi Restaurant, which was really fresh and one of the best Singapore Slings I have had at the Rooftop Bar. Big thanks to Steven Dong and Moon Mu for helping us with our requests. \nWe will be back",
+      "language": "en",
+      "source": 1,
+      "travelType": 70,
+      "travelTypeText": "Couple",
+      "rating": 10,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 10,
+       "ratingLocation": 10,
+       "ratingFacility": 10,
+       "ratingService": 10,
+       "ratingRoom": 10,
+       "commentLevel": "Outstanding"
+      },
+      "recommend": true,
+      "imageList": [
+       "/02353224x9b3huuvuA404.jpg",
+       "/0236u224x9b3i38gy9A44.jpg"
+      ],
+      "imageCuttingsList": [
+       {
+        "imageID": 764016804,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/02353224x9b3huuvuA404_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/02353224x9b3huuvuA404_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/02353224x9b3huuvuA404_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 4.973
+       },
+       {
+        "imageID": 764016806,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0236u224x9b3i38gy9A44_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0236u224x9b3i38gy9A44_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0236u224x9b3i38gy9A44_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 2,
+        "picTypeName": "餐饮",
+        "qualityScore": 4.9744
+       }
+      ],
+      "videoList": [],
+      "feedbackList": [
+       {
+        "type": 3,
+        "createDate": "2026-10-27 00:00:00",
+        "content": "Dear Valued Guests,Thank you for this wonderful review! We are absolutely delighted to know you enjoyed your stay at the Grand Hyatt Shanghai.It is great to hear that our location hit the mark for you, and we could not agree more about the sushi — our chefs take immense pride in sourcing the freshest ingredients daily. We are also thrilled that the Singapore Sling at our rooftop bar made such an impression; we will be sure to pass on your compliment to the bar team!Most of all, we are truly touched by your kind mention of Steven Dong and Moon Mu. Your appreciation has been shared with both of them directly, and they were genuinely proud to have made a difference during your stay.We cannot wait to welcome you back — perhaps next time we will save you a seat at the sushi counter and have a fresh Singapore Sling ready at the rooftop!Warm regards,The Management TeamGrand Hyatt Shanghai",
+        "imageCuttingsList": [],
+        "language": "en",
+        "fold": true
+       }
+      ],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Grand River-view King Room",
+      "roomID": 301750462,
+      "isTripComment": true,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "English",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 2152772711,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Guest User",
+       "avatarUrl": "/27c2m12000na9j4bl5392.jpg",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/27c2m12000na9j4bl5392_C_130_130_Q70.jpg",
+       "regionName": "China",
+       "regionCode": "CN",
+       "commentCount": 12,
+       "grade": {
+        "grade": 2,
+        "title": "Review Specialist",
+        "desc": "Users with 5–29 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 18 citi(es) and reviewed 10 hotel(s)",
+       "usefulCount": 1,
+       "pictureCount": 6,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": false,
+       "levelInfo": {
+        "curLevelCode": "20",
+        "curLevelName": "铂金贵宾",
+        "rewardList": [
+         {
+          "rewardID": "1",
+          "categoryName": "免费早餐",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_breakfast.png"
+         },
+         {
+          "rewardID": "2",
+          "categoryName": "免费取消",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_cancel.png"
+         },
+         {
+          "rewardID": "3",
+          "categoryName": "延迟退房",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_delay.png"
+         },
+         {
+          "rewardID": "4",
+          "categoryName": "房型升级",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_update.png"
+         }
+        ],
+        "discount": 0.9,
+        "levelType": "CTRIP"
+       },
+       "nickNameType": 3,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#948DFF",
+       "avatorLetter": "G"
+      },
+      "createDate": "2026-10-26 10:17:22",
+      "checkinDate": "2026-10-01 00:00:00",
+      "content": "辦理入住流程順暢，還貼心給我們介紹觀景方向，感謝Moon的照顧。客房衞生無可挑剔，房間打掃得乾乾淨淨，布草柔軟，衞生間乾爽潔凈，備品齊全。房間安靜私密，適合放鬆休息。",
+      "language": "zh",
+      "source": 1,
+      "translatedContent": "The check-in process was smooth, and they thoughtfully recommended the best directions for the view. A big thank you to Moon for taking such good care of us. The room cleanliness was impeccable—it was spotless, the linens were soft, and the bathroom was dry, clean, and fully stocked with amenities. The room was quiet and private, making it the perfect place to relax and unwind.",
+      "translatedLanguage": "en",
+      "translatedSource": "GM",
+      "translatedSourceText": "Translation provided by AI",
+      "travelType": 50,
+      "travelTypeText": "Solo traveler",
+      "rating": 10,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 10,
+       "ratingLocation": 10,
+       "ratingFacility": 10,
+       "ratingService": 10,
+       "ratingRoom": 10,
+       "commentLevel": "Outstanding"
+      },
+      "recommend": true,
+      "imageList": [
+       "/0233412000u9787686A65.jpg"
+      ],
+      "imageCuttingsList": [
+       {
+        "imageID": 763418371,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0233412000u9787686A65_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0233412000u9787686A65_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0233412000u9787686A65_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 4.5008
+       }
+      ],
+      "videoList": [],
+      "feedbackList": [
+       {
+        "type": 3,
+        "createDate": "2026-10-26 00:00:00",
+        "content": "尊敬的賓客，您好！感謝您如此細緻且暖心的分享！很高興您對入住流程的順暢與客房的潔凈標準感到滿意，安靜私密的休憩空間正是我們為賓客精心營造的雲端港灣。特別感謝您對Moon的肯定——您提到的\"貼心介紹觀景方向\"正是我們倡導的主動服務精神，您的讚美已第一時間傳達給她本人，這份來自賓客的認可對她而言是最珍貴的嘉獎。期待您的再次光臨，讓Moon和全體同事繼續以專業與熱忱，為您定格更多美好的居停時光。祝您生活愉快，萬事順遂！上海金茂君悦大酒店 管理團隊 敬上",
+        "imageCuttingsList": [],
+        "translatedContent": "Dear Guest, Thank you for your thoughtful and considerate feedback! We are delighted that you were satisfied with the smooth check-in process and the cleanliness of your room. The quiet and private space is truly a haven we have carefully crafted for our guests. We especially appreciate your positive feedback on Moon – your mention of the \"thoughtful explanation of the view\" perfectly embodies our proactive service spirit. Your praise has been immediately conveyed to her, and this recognition from a guest is the most precious reward for her. We look forward to your next visit, so that Moon and all our colleagues can continue to use our professionalism and enthusiasm to create more wonderful memories for you during your stay. Wishing you a pleasant stay and all the best! Sincerely, The Management Team, Grand Hyatt Shanghai",
+        "language": "zh",
+        "fold": true
+       }
+      ],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Grand Queen Bed",
+      "roomID": 301750182,
+      "feedbackSecurityKey": "NHLbkAKVWiGTVOAWQbIP2XGo/p9/DW7MvunujpSRp6oHR6WKZjgqKg==_review_2152772711",
+      "commendableRewardList": [],
+      "isTripComment": false,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "ctrip",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     },
+     {
+      "id": 2154764028,
+      "userInfo": {
+       "userId": "",
+       "nickName": "Anonymous User",
+       "avatarUrl": "/0AS27120009wz6aovB7AA.png",
+       "headPictureUrl": "https://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+       "regionName": "Malaysia",
+       "regionCode": "MY",
+       "commentCount": 22,
+       "grade": {
+        "grade": 2,
+        "title": "Review Specialist",
+        "desc": "Users with 5–29 reviews. Write multiple hotel reviews to get an upgrade."
+       },
+       "trace": "You've left your footprints in 23 citi(es) and reviewed 21 hotel(s)",
+       "usefulCount": 5,
+       "pictureCount": 33,
+       "isSimilar": false,
+       "similarUrl": "",
+       "isAnonymous": true,
+       "levelInfo": {
+        "curLevelCode": "5",
+        "curLevelName": "Diamond+",
+        "rewardList": [
+         {
+          "rewardID": "2",
+          "categoryName": "免费取消",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_cancel.png"
+         },
+         {
+          "rewardID": "3",
+          "categoryName": "延迟退房",
+          "totalUsedCount": 2,
+          "floatIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/member_rights/hotel_delay.png"
+         }
+        ],
+        "discount": 0.95,
+        "levelType": "TRIP"
+       },
+       "nickNameType": 2,
+       "isDefaultAvatar": true,
+       "avatarBgColor": "#2346FF",
+       "avatorLetter": "A",
+       "memberLevelIcon": "https://dimg04.tripcdn.com/images/0232m12000nal0xjm937A.png",
+       "memberLevelDarkIcon": "https://dimg04.tripcdn.com/images/0230t12000nakzpor868D.png"
+      },
+      "createDate": "2026-10-28 01:44:49",
+      "checkinDate": "2026-10-01 00:00:00",
+      "content": "Location is good near shopping malls, good view of Jinbao, Shanghai Tower, Oriental Tower and Huangpu River with Bund on the back ground. Service and breakfast spread are good. Front desk staff Ms Jenny Jia was extremely helpful, good attitude and knowledgeable. Well done. I like to mention the concierge Mr Fred and Mr Sam were very helpful in giving us suggestions, recommendations and fantastic great attitude.",
+      "language": "en",
+      "source": 1,
+      "travelType": 30,
+      "travelTypeText": "Family",
+      "rating": 10,
+      "ratingInfo": {
+       "fullRating": 10,
+       "ratingAll": 10,
+       "ratingLocation": 10,
+       "ratingFacility": 10,
+       "ratingService": 10,
+       "ratingRoom": 10,
+       "commentLevel": "Outstanding"
+      },
+      "recommend": true,
+      "imageList": [
+       "/0235l224x9b3pvgkiD93F.jpg",
+       "/0231i224x9b3pp3cn3E1F.jpg",
+       "/0231m224x9b3pzp8l1BE8.jpg",
+       "/0230p224x9b3pvrmhEA96.jpg",
+       "/0230w224x9b3pr4dv91E4.jpg"
+      ],
+      "imageCuttingsList": [
+       {
+        "imageID": 764421132,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0235l224x9b3pvgkiD93F_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0235l224x9b3pvgkiD93F_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0235l224x9b3pvgkiD93F_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 4.3894
+       },
+       {
+        "imageID": 764421134,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0231i224x9b3pp3cn3E1F_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0231i224x9b3pp3cn3E1F_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0231i224x9b3pp3cn3E1F_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 3.7056
+       },
+       {
+        "imageID": 764421136,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0231m224x9b3pzp8l1BE8_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0231m224x9b3pzp8l1BE8_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0231m224x9b3pzp8l1BE8_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 5.1448
+       },
+       {
+        "imageID": 764421138,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0230p224x9b3pvrmhEA96_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0230p224x9b3pvrmhEA96_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0230p224x9b3pvrmhEA96_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 14,
+        "picTypeName": "公共区域",
+        "qualityScore": 6.7122
+       },
+       {
+        "imageID": 764421140,
+        "imageStatus": 0,
+        "smallImageUrl": "https://ak-d.tripcdn.com/images/0230w224x9b3pr4dv91E4_W_350_350_R5_Q70.jpg?proc=autoorient",
+        "mediumImageUrl": "https://ak-d.tripcdn.com/images/0230w224x9b3pr4dv91E4_C_600_600_R5_Q70.jpg?proc=autoorient",
+        "bigImageUrl": "https://ak-d.tripcdn.com/images/0230w224x9b3pr4dv91E4_W_1280_853_R5_Q70.jpg?proc=autoorient",
+        "picTypeId": 12,
+        "picTypeName": "周边",
+        "qualityScore": 2.5184
+       }
+      ],
+      "videoList": [],
+      "feedbackList": [
+       {
+        "type": 3,
+        "createDate": "2026-10-28 00:00:00",
+        "content": "Dear Valued Guest,Thank you for this wonderful review! We are absolutely delighted that you enjoyed our location, the iconic skyline views, and the breakfast spread.Your kind words about Ms. Jenny Jia at the front desk have been shared with her directly — she was truly touched and proud to have made your check-in experience smooth and memorable. We are equally thrilled that Mr. Fred and Mr. Sam at the concierge went above and beyond with their recommendations; their passion for showcasing the best of Shanghai shines through, and your recognition means the world to them.It is guests like you who remind our team why we love what we do. We sincerely look forward to welcoming you back to the Grand Hyatt Shanghai for another fantastic stay.Warm regards,The Management TeamGrand Hyatt Shanghai",
+        "imageCuttingsList": [],
+        "language": "en",
+        "fold": true
+       }
+      ],
+      "usefulCount": 0,
+      "canMarkUseful": true,
+      "usefulUserList": [],
+      "roomName": "Grand Twin Bed",
+      "roomID": 301750233,
+      "commendableRewardList": [],
+      "isTripComment": true,
+      "shareCommunityStatus": 0,
+      "status": 3,
+      "corporationId": "",
+      "descendOrder": false,
+      "sourceFromCode": 1,
+      "sourceName": "English",
+      "thirdpartyCommentIcon": "",
+      "thirdpartyCommentIconDark": ""
+     }
+    ]
+   }
+  ],
+  "repeatCommentCount": 4329,
+  "tripRating": "T",
+  "tagType": "DEFAULT",
+  "ratingLevelRules": [
+   {
+    "ratingStart": 7.6,
+    "ratingEnd": 8,
+    "content": "Good"
+   },
+   {
+    "ratingStart": 8,
+    "ratingEnd": 9,
+    "content": "Very good"
+   },
+   {
+    "ratingStart": 9,
+    "ratingEnd": 9.2,
+    "content": "Great"
+   },
+   {
+    "ratingStart": 9.2,
+    "ratingEnd": 9.4,
+    "content": "Great"
+   },
+   {
+    "ratingStart": 9.4,
+    "ratingEnd": 9.6,
+    "content": "Amazing"
+   },
+   {
+    "ratingStart": 9.6,
+    "ratingEnd": 9.8,
+    "content": "Amazing"
+   },
+   {
+    "ratingStart": 9.8,
+    "ratingEnd": 99,
+    "content": "Outstanding"
+   }
+  ],
+  "bannerInfoList": [],
+  "ratingFloatingLayerInfo": {
+   "legendInfoItem": {
+    "sameTypeAvgLegendInfo": [
+     {
+      "type": 1,
+      "description": ""
+     },
+     {
+      "type": 2,
+      "description": ""
+     }
+    ],
+    "sameTypeLevelLegendInfo": []
+   },
+   "recommendTagList": [
+    {
+     "id": 155,
+     "name": "Fantastic river view",
+     "commentCount": 652,
+     "type": 1,
+     "extraInfo": {
+      "ratio": 0
+     },
+     "tagUpperId": 150,
+     "pscore": 9414.797543524544
+    },
+    {
+     "id": 150,
+     "name": "Loved the view",
+     "commentCount": 4259,
+     "type": 1,
+     "extraInfo": {
+      "topic": "风景",
+      "ratio": 1,
+      "sentences": [
+       "窗外就是黄浦江江景和东方明珠",
+       "可以俯瞰黄浦江和东方明珠",
+       "高空观景视野开阔",
+       "东方明珠以及江景一览无余",
+       "高空景观视野开阔"
+      ]
+     },
+     "tagUpperId": 150,
+     "pscore": 5535.609935749789
+    },
+    {
+     "id": 44,
+     "name": "Great swimming pool",
+     "commentCount": 346,
+     "type": 1,
+     "extraInfo": {
+      "topic": "泳池",
+      "ratio": 0.88,
+      "sentences": [
+       "高空泳池水质清澈",
+       "高空泳池水质清澈",
+       "酒店泳池和健身房环境很棒",
+       "酒店的健身房和泳池干净卫生",
+       "泳池娱乐水质清透"
+      ]
+     },
+     "tagUpperId": 32,
+     "pscore": 2295.3845795042816
+    },
+    {
+     "id": 22,
+     "name": "Clean pool",
+     "commentCount": 346,
+     "type": 1,
+     "extraInfo": {
+      "ratio": 0
+     },
+     "tagUpperId": 21,
+     "pscore": 2295.3845795042816
+    },
+    {
+     "id": 34,
+     "name": "Nice bathtub",
+     "commentCount": 177,
+     "type": 1,
+     "extraInfo": {
+      "topic": "浴缸",
+      "ratio": 0.82,
+      "sentences": [
+       "浴缸可以边泡澡边看风景",
+       "浴缸很漂亮很干净",
+       "浴缸很漂亮很干净",
+       "浴缸泡澡非常舒服",
+       "浴缸也很干净舒适"
+      ]
+     },
+     "tagUpperId": 32,
+     "pscore": 1248.6586489104761
+    },
+    {
+     "id": 84,
+     "name": "Friendly front desk staff",
+     "commentCount": 681,
+     "type": 1,
+     "extraInfo": {
+      "topic": "前台",
+      "ratio": 1,
+      "sentences": [
+       "大堂管理和服务很亲切专业",
+       "服务态度友善#位置交通方便",
+       "动作麻利态度友善",
+       "工作人员服务态度友善",
+       "服务亲切专业"
+      ]
+     },
+     "tagUpperId": 81,
+     "pscore": 746.4546578448702
+    },
+    {
+     "id": 81,
+     "name": "Great service",
+     "commentCount": 6361,
+     "type": 1,
+     "extraInfo": {
+      "topic": "服务",
+      "ratio": 0.91,
+      "sentences": [
+       "整体服务让人感觉很贴心周到",
+       "健身中心的工作人员都很友好",
+       "工作人员始终热情专业",
+       "工作人员服务真诚周到",
+       "工作人员全程热情周到"
+      ]
+     },
+     "tagUpperId": 81,
+     "pscore": 362.93258620420124
+    },
+    {
+     "id": 14,
+     "name": "Clean and tidy",
+     "commentCount": 4206,
+     "type": 1,
+     "extraInfo": {
+      "topic": "卫生",
+      "ratio": 0.94,
+      "sentences": [
+       "客房卫生细致到位",
+       "客房卫生做得细致到位",
+       "客房清洁工作细致入微",
+       "客房清洁工作做得细致",
+       "设施齐全环境舒适卫生"
+      ]
+     },
+     "tagUpperId": 14,
+     "pscore": 166.45001992765648
+    }
+   ],
+   "negativeTagList": []
+  },
+  "aiSummaryEntities": {
+   "summaryTitleIcon": "https://dimg04.c-ctrip.com/images/0230b12000pvlbn7s1D03.png",
+   "summaryTitleText": "Review summary",
+   "summaryLabelText": "Powered by AI",
+   "summaryIcon": "https://dimg04.tripcdn.com/images/0236612000lorsved78CD.png",
+   "excitationText": "22 guests in a row gave their stay a positive rating.",
+   "summaryItemList": [
+    {
+     "title": "Location",
+     "excitationText": "",
+     "conclusion": "The hotel is centrally located in Lujiazui, close to attractions and public transport, with views of landmarks like the Oriental Pearl Tower.(based on 5,343 reviews)",
+     "tagIdList": [
+      61,
+      77,
+      78,
+      79,
+      85,
+      86,
+      89,
+      90,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      152,
+      156,
+      180
+     ],
+     "positive": true,
+     "commentNum": 5343,
+     "itemId": "346403_en_xx_3687fc4c-1722-44a3-b708-6af3c626fe2c"
+    },
+    {
+     "title": "Room Quality",
+     "excitationText": "",
+     "conclusion": "Rooms are spacious and clean, with comfortable beds and soundproofing. High floors offer stunning Shanghai views.(based on 4,020 reviews)",
+     "tagIdList": [
+      42,
+      150
+     ],
+     "positive": true,
+     "commentNum": 4020,
+     "itemId": "346403_en_xx_e164b628-1756-43dd-a2eb-844f951b1d2c"
+    },
+    {
+     "title": "Service",
+     "excitationText": "",
+     "conclusion": "Staff are professional and friendly, with bilingual service and efficient check-in/out, enhancing the experience.(based on 6,421 reviews)",
+     "tagIdList": [
+      81,
+      82,
+      83,
+      84,
+      101,
+      102,
+      139
+     ],
+     "positive": true,
+     "commentNum": 6421,
+     "itemId": "346403_en_xx_0e2814c7-4feb-46fd-8c19-909eee1d83bc"
+    },
+    {
+     "title": "Amenities",
+     "excitationText": "",
+     "conclusion": "Amenities include a pool and spa. The club lounge offers quality snacks, and the breakfast buffet has diverse options.(based on 524 reviews)",
+     "tagIdList": [
+      22,
+      44,
+      45
+     ],
+     "positive": true,
+     "commentNum": 524,
+     "itemId": "346403_en_xx_01a8bf2f-a84f-4569-8d64-b147741bb6ba"
+    },
+    {
+     "title": "Guest Suggestion",
+     "conclusion": "Some customers suggest improving check-in efficiency, enhancing staff training, and better maintenance and cleanliness of facilities.(based on 456 reviews)",
+     "positive": false,
+     "commentNum": 456,
+     "itemId": "346403_en_xx_e8d9150e-e906-412c-8fe7-be57dee916bd"
+    }
+   ],
+   "highlightText": [
+    "22"
+   ],
+   "sceneSummaryItemList": [
+    {
+     "conclusion": "The hotel offers breathtaking city and river views from high floors, including landmarks like the Bund and Oriental Pearl Tower. Breakfast features diverse options, from European to Asian cuisines, served with stunning views. Conveniently located near metro stations and attractions, making city exploration easy.",
+     "tagIdList": [
+      150
+     ],
+     "positive": false,
+     "commentNum": 4364,
+     "sceneId": -1
+    }
+   ],
+   "sourceTypeText": "We used AI to generate this summary based on real Trip.com reviews. AI summaries can take time to update, so the latest reviews may not be included."
+  },
+  "filteredOutCommentInfo": {
+   "collapsedCommentCount": 4329,
+   "commentsBeforeDecorationCount": 0,
+   "commentsDuringTrialOperationCount": 0
+  },
+  "aiSummaryFilterListInfo": [
+   {
+    "id": "6",
+    "name": "Reviews with photos/video",
+    "commentCount": 6201,
+    "type": 1
+   },
+   {
+    "id": "346403_en_xx_3687fc4c-1722-44a3-b708-6af3c626fe2c",
+    "name": "Location",
+    "commentCount": 5343,
+    "type": 2
+   },
+   {
+    "id": "346403_en_xx_e164b628-1756-43dd-a2eb-844f951b1d2c",
+    "name": "Room Quality",
+    "commentCount": 4020,
+    "type": 2
+   },
+   {
+    "id": "346403_en_xx_0e2814c7-4feb-46fd-8c19-909eee1d83bc",
+    "name": "Service",
+    "commentCount": 6421,
+    "type": 2
+   },
+   {
+    "id": "346403_en_xx_01a8bf2f-a84f-4569-8d64-b147741bb6ba",
+    "name": "Amenities",
+    "commentCount": 524,
+    "type": 2
+   },
+   {
+    "id": "3",
+    "name": "Negative reviews",
+    "commentCount": 456,
+    "type": 1
+   }
+  ],
+  "filterSequenceConfigs": [
+   "sort",
+   "imgVideo",
+   "room",
+   "travel",
+   "language",
+   "tags"
+  ],
+  "commentRating": {
+   "fullRating": 10,
+   "ratingAll": 9.4,
+   "ratingLocation": 9.5,
+   "ratingLocationShowItem": "Location",
+   "ratingFacility": 9.2,
+   "ratingFacilityShowItem": "Amenities",
+   "ratingService": 9.3,
+   "ratingServiceShowItem": "Service",
+   "ratingRoom": 9.5,
+   "ratingRoomShowItem": "Cleanliness",
+   "showCommentNum": 18928,
+   "showPackageCommentNum": 0,
+   "commentLevel": "Outstanding",
+   "type": 0,
+   "positiveTip": "",
+   "ratingLocationExt": {
+    "sameTypeLevel": 2,
+    "sameTypeAvg": 9.4
+   },
+   "ratingFacilityExt": {
+    "sameTypeLevel": 2,
+    "sameTypeAvg": 9.2
+   },
+   "ratingServiceExt": {
+    "sameTypeLevel": 2,
+    "sameTypeAvg": 9.4
+   },
+   "ratingRoomExt": {
+    "sameTypeLevel": 2,
+    "sameTypeAvg": 9.4
+   },
+   "ratingType": 1,
+   "ratingExcitationIcon": {}
+  },
+  "similarCommentRating": {},
+  "commonStatisticList": [
+   {
+    "id": 1,
+    "name": "All reviews",
+    "commentCount": 18928
+   },
+   {
+    "id": 2,
+    "name": "Positive reviews",
+    "commentCount": 18472
+   },
+   {
+    "id": 3,
+    "name": "Negative reviews",
+    "commentCount": 456
+   },
+   {
+    "id": 6,
+    "name": "Reviews with photos/video",
+    "commentCount": 6201
+   }
+  ],
+  "totalCount": 18928,
+  "commentRatingType": "UNKNOW",
+  "staticInfo": {
+   "ratingCalculationInfo": {
+    "entranceText": "How ratings are calculated",
+    "title": "How ratings are calculated",
+    "content": "To ensure the authenticity of the ratings that are displayed, we don't simply calculate an average. Instead, we make scientific calculations based on the review credibility and the freshness of the guest's experience to get the final rating."
+   },
+   "sortItemList": [
+    {
+     "orderby": 0,
+     "name": "Most relevant"
+    },
+    {
+     "orderby": 1,
+     "name": "Most Recent"
+    },
+    {
+     "orderby": 2,
+     "name": "Rating (high to low)"
+    },
+    {
+     "orderby": 3,
+     "name": "Rating (low to high)"
+    }
+   ],
+   "commentExplainText": "Verified Reviews"
+  },
+  "abtResults": [
+   {
+    "abNO": "260727_IBU_todpfyh",
+    "abResult": "A"
+   }
+  ],
+  "excitationInfoList": [
+   {
+    "excitationText": "22 guests in a row gave their stay a positive rating.",
+    "excitationHighlight": [
+     "22"
+    ],
+    "type": "4",
+    "excitationIcon": "https://dimg04.c-ctrip.com/images/1gz3a12000mwx1mr83831.png"
+   }
+  ],
+  "selectedCommentPhotosEntities": {}
+ },
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794038624235+800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Build": "",
+  "Version": "1.0.0",
+  "Extension": [
+   {
+    "Id": "XCtxGwTraceId",
+    "Value": "100025527-0a8e8a08-498344-495885"
+   },
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Value": ""
+   },
+   {
+    "Id": "TraceLogId",
+    "Value": "100025527-0a8e8a08-498344-495885"
+   },
+   {
+    "Id": "XRequestId",
+    "Value": "53bde896-4f00-9667-80d3-f4dd1c756a03"
+   },
+   {
+    "Id": "RootMessageId",
+    "Value": "100025527-0a8e8a08-498344-495892"
+   }
+  ]
+ }
+}

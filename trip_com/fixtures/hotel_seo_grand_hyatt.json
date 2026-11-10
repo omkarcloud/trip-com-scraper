@@ -1,0 +1,3819 @@
+{
+ "data": {
+  "seoInfo": {
+   "star": 5,
+   "cityName": "Shanghai",
+   "hotelName": "Grand Hyatt Shanghai",
+   "cityEnName": "Shanghai",
+   "hotelEnName": "Grand Hyatt Shanghai",
+   "hotelInfo": {
+    "title": "About This Property",
+    "list": [
+     {
+      "question": "Nearest Airport",
+      "answer": "Shanghai Hongqiao Airport",
+      "rank": 1
+     },
+     {
+      "question": "Distance to Airport",
+      "answer": "22.37KM",
+      "rank": 2
+     },
+     {
+      "question": "Nearest Train Station",
+      "answer": "Shanghai Railway Station",
+      "rank": 3
+     },
+     {
+      "question": "Distance to Train Station",
+      "answer": "8.98KM",
+      "rank": 4
+     },
+     {
+      "question": "Nearest Subway Station",
+      "answer": "Lujiazui",
+      "rank": 5
+     },
+     {
+      "question": "Distance to Subway Station",
+      "answer": "0.44KM",
+      "rank": 6
+     },
+     {
+      "question": "Average Price From",
+      "answer": "USD374",
+      "rank": 7
+     },
+     {
+      "question": "Hotel Star Rating",
+      "answer": "5",
+      "rank": 8
+     }
+    ]
+   }
+  },
+  "gtmData": "{\"productSDate\":\"20261210\",\"productEDate\":\"20261212\",\"productCity\":\"2\",\"productCName\":\"Shanghai\",\"productRName\":\"Shanghai\",\"productIds\":\"346403\",\"productType\":\"Domestics Hotels\",\"productCategory\":\"Dome\"}",
+  "crumbs": [
+   {
+    "text": "Trip.com",
+    "url": "https://us.trip.com"
+   },
+   {
+    "text": "Hotels",
+    "url": "https://us.trip.com/hotels/"
+   },
+   {
+    "text": "Hotels in China",
+    "url": "https://us.trip.com/hotels/country/china.html"
+   },
+   {
+    "text": "Hotels in Shanghai",
+    "url": "https://us.trip.com/hotels/shanghai-hotels-list-2/"
+   },
+   {
+    "text": "Grand Hyatt Shanghai",
+    "url": ""
+   }
+  ],
+  "seoCodeLab": "{\"@type\":\"Hotel\",\"name\":\"Grand Hyatt Shanghai\",\"address\":{\"postalCode\":\"200121\",\"addressLocality\":\"No. 88 Shiji Avenue (Check-in, 54th Floor)\",\"streetAddress\":\"No. 88 Shiji Avenue (Check-in, 54th Floor), Pudong New Area, Shanghai, 200121, China\",\"addressRegion\":\"Shanghai\",\"addressCountry\":\"China\",\"@type\":\"PostalAddress\"},\"image\":\"https://ak-d.tripcdn.com/images/1mc3112000q5k2zloAA6D_R_960_660_R5_D.jpg\",\"@context\":\"http://schema.org\",\"aggregateRating\":{\"bestRating\":10,\"@type\":\"AggregateRating\",\"reviewCount\":\"18928\",\"ratingValue\":\"9.4\"},\"priceRange\":\"From $186\",\"url\":\"https://www.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/\"}",
+  "FAQ": {
+   "title": "You might be wondering",
+   "list": [
+    {
+     "question": "How much does it cost to stay at Grand Hyatt Shanghai?",
+     "answer": "Prices at {1}Grand Hyatt Shanghai{/1} are subject to change according to dates, hotel policy, and other factors. To view prices, please search for the dates you wish to stay at the hotel.",
+     "rank": 1
+    },
+    {
+     "question": "What is the closest airport to Grand Hyatt Shanghai?",
+     "answer": "The closest airport is Shanghai Hongqiao International Airport. It is 11.3 miles from the hotel and approximately a 92 minutes journey by taxi.",
+     "rank": 2
+    },
+    {
+     "question": "What are the check-in and check-out times at Grand Hyatt Shanghai?",
+     "answer": "The check-in time is after 15:00 and the check-out time is before 12:00.",
+     "rank": 3
+    },
+    {
+     "question": "Does Grand Hyatt Shanghai provide airport transfer services?",
+     "answer": "Yes, {1}Grand Hyatt Shanghai{/1} provides airport transfer services.",
+     "rank": 4
+    },
+    {
+     "question": "Does Grand Hyatt Shanghai have a swimming pool?",
+     "answer": "Yes, {1}Grand Hyatt Shanghai{/1} has a pool. Pool type: {0}Indoor Swimming Pool{/0}.",
+     "rank": 6,
+     "type": "Facility"
+    },
+    {
+     "question": "Does Grand Hyatt Shanghai have fitness amenities?",
+     "answer": "Yes, {1}Grand Hyatt Shanghai{/1} has fitness amenities.",
+     "rank": 7
+    },
+    {
+     "question": "Does Grand Hyatt Shanghai provide Wi-Fi?",
+     "answer": "Yes, the hotel provides Wi-Fi.",
+     "rank": 8
+    },
+    {
+     "question": "Does Grand Hyatt Shanghai have non-smoking rooms?",
+     "answer": "Yes, {1}Grand Hyatt Shanghai{/1} has non-smoking rooms. Please view the hotel listing for details.",
+     "rank": 9
+    },
+    {
+     "question": "Does Grand Hyatt Shanghai provide breakfast?",
+     "answer": "Yes, {1}Grand Hyatt Shanghai{/1} provides breakfast.",
+     "rank": 10
+    },
+    {
+     "question": "Does Grand Hyatt Shanghai have a restaurant?",
+     "answer": "Yes, guests can eat at: {0}Restaurant{/0}, {0}Cafe{/0}.",
+     "rank": 11
+    },
+    {
+     "question": "Is parking available at Grand Hyatt Shanghai?",
+     "answer": "Yes, parking is available at {1}Grand Hyatt Shanghai{/1}. Please contact the hotel for parking fee details.",
+     "rank": 12
+    },
+    {
+     "question": "Does Grand Hyatt Shanghai have children's amenities?",
+     "answer": "Grand Hyatt Shanghai has the following children's amenities: {0}Children's toothbrushes{/0}, {0}Children's bathrobes{/0}, {0}Children's slippers{/0}.",
+     "rank": 14
+    },
+    {
+     "question": "Is Grand Hyatt Shanghai close to transport stations?",
+     "answer": "The closest station is Lujiazui. It is 1900 ft from the hotel. {0}View On Map{/0}",
+     "rank": 16,
+     "type": "Map"
+    },
+    {
+     "question": "Is Grand Hyatt Shanghai nearby popular attractions?",
+     "answer": "{1}Grand Hyatt Shanghai{/1} is near the following attractions: {0}Jin Mao Tower (approx. 150 ft){/0}, {0}Jinmao Tower Observation Deck (approx. 400 ft){/0}, {0}Shanghai World Financial Center Observatory (approx. 500 ft){/0}.",
+     "rank": 17,
+     "type": "Sights"
+    },
+    {
+     "question": "Does Grand Hyatt Shanghai have hot springs?",
+     "answer": "No, {1}Grand Hyatt Shanghai{/1} doesn't have hot springs.",
+     "rank": 18
+    }
+   ]
+  },
+  "newFaq": {
+   "title": "You might be wondering",
+   "list": [
+    {
+     "key": "SEO_Hotel_Homepage_FAQ1",
+     "title": "How do I book a hotel on Trip.com?",
+     "answer": "To book a hotel on Trip.com, simply enter your destination, travel dates, and the number of guests on the page. Then, browse through the available hotels and select the one you want to book. Follow the prompts to enter your payment information and complete the booking. "
+    },
+    {
+     "key": "SEO_Hotel_Homepage_FAQ2",
+     "title": "How do I get hotel deals on Trip.com?",
+     "answer": "There are several ways to find affordable hotels on Trip.com. You can narrow down your search results by filtering hotels according to your preferred price range, or you can sort the results by price to view the cheapest options first."
+    },
+    {
+     "key": "SEO_Hotel_Homepage_FAQ3",
+     "title": "Where can I find hotel deals on Trip.com?",
+     "answer": "Trip.com offers a wide variety of hotel deals and promotions that are available throughout the year. You can easily find these special offers on our <a href=\"https://us.trip.com/sale/deals/\">deals page</a>. What's more, if you are a member of our loyalty program, you can sign in to your account and discover exclusive discounted rates at hotel list pages."
+    },
+    {
+     "key": "SEO_Hotel_Homepage_FAQ4",
+     "title": "How can I get lower prices for hotels?",
+     "answer": "Sometimes booking hotels midweek is cheaper, but it also depends on the season."
+    },
+    {
+     "key": "SEO_Hotel_Homepage_FAQ5",
+     "title": "How many hotels are listed on Trip.com?",
+     "answer": "You can find over 1.5 million hotels in more than 230 countries or regions on Trip.com. Haven't decided which hotel to book? Browse our site to get ideas!"
+    },
+    {
+     "key": "SEO_Hotel_Homepage_FAQ6",
+     "title": "Can I cancel or change my hotel bookings on Trip.com?",
+     "answer": "It depends on the hotel policy and date of cancellation. Please check the policy section of the related hotel pages. To cancel or change your bookings, sign in to your Trip.com account, go to \"My Bookings\", and follow the instructions."
+    },
+    {
+     "key": "SEO_Hotel_Homepage_FAQ7",
+     "title": "How do I contact Trip.com customer support?",
+     "answer": "You can contact Trip.com's 24/7 customer support by visiting the Help Center on Trip.com and submitting a request. You can also contact us by phone or service chat, depending on your location."
+    }
+   ]
+  },
+  "seoFooterModule": {
+   "title": "Recommendations",
+   "footerItem": [
+    {
+     "title": "Most Viewed Hotels",
+     "linkItem": [
+      {
+       "text": "Kingtown Hotel Plaza Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-428087/kingtown-hotel-plaza-shanghai/"
+      },
+      {
+       "text": "Atour Hotel Nanjing East Road, Shanghai on the Bund",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-444194/atour-hotel-nanjing-east-road-shanghai-on-the-bund/"
+      },
+      {
+       "text": "Shanghai People's Square Nanjing East Road Pedestrian Street Treasury Hotel",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-122358729/shanghai-people-s-square-nanjing-east-road-pedestrian-street-treasury-hotel/"
+      },
+      {
+       "text": "Waiting Century Hotel (Shanghai Jing'an Railway Station South Square)",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-1230251/waiting-century-hotel/"
+      },
+      {
+       "text": "Holiday Inn Express SHANGHAI PUDONG AIRPORT by IHG",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-107901525/holiday-inn-express-shanghai-pudong-airport-by-ihg/"
+      },
+      {
+       "text": "Da Zhong Airport Hotel",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-432298/da-zhong-airport-hotel/"
+      },
+      {
+       "text": "Hotel Chalet Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-72926277/hotel-chalet-shanghai/"
+      },
+      {
+       "text": "Rezen Meta Tree Hotel (City Center & The Bund, Shanghai)",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-431843/rezen-meta-tree-hotel/"
+      },
+      {
+       "text": "Radisson Collection Hyland Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-375477/radisson-collection-hyland-shanghai/"
+      },
+      {
+       "text": "Ramada Encore by Wyndham Shanghai Pudong Airport",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-13819538/cuncunli-life-aesthetics-hotel/"
+      },
+      {
+       "text": "Yitel Premium (Shanghai people's Square Nanjing Road Pedestrian Street)",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-16197084/yitel-premium/"
+      },
+      {
+       "text": "The Bund Puyan Hotel, Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-75329189/the-bund-puyan-hotel-shanghai/"
+      },
+      {
+       "text": "Century Asia Island Hotel",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-133580854/century-asia-island-hotel/"
+      },
+      {
+       "text": "Grand Hyatt Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/"
+      },
+      {
+       "text": "Aqua Suhe NO.1 Hotel(Shanghai Jingan)",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-2895314/aqua-suhe-no1-hotel/"
+      },
+      {
+       "text": "Dihang Boutique Hotel (Shanghai Pudong Airport)",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-6870954/dihang-boutique-hotel-shanghai-pudong-airport/"
+      },
+      {
+       "text": "Meta Tree Hotel, People's Square, City Center In Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-431900/meta-tree-hotel-people-s-square-city-center-in-shanghai/"
+      },
+      {
+       "text": "Holiday Inn SHANGHAI PUDONG AIRPORT by IHG",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-126527331/holiday-inn-shanghai-pudong-airport-by-ihg/"
+      },
+      {
+       "text": "Dayin International Youth Hostel(East Nanjing Road & The Bund)",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-83645195/dayin-international-youth-hostel/"
+      },
+      {
+       "text": "Toy Story Hotel",
+       "url": "https://us.trip.com/hotels/shanghai-hotel-detail-4687213/toy-story-hotel/"
+      }
+     ]
+    },
+    {
+     "title": "Hotels near Top Attractions",
+     "linkItem": [
+      {
+       "text": "Hotels near Shanghai Haichang Ocean Park",
+       "url": "https://us.trip.com/hotels/shanghai-shanghai-haichang-ocean-park/hotels-c2m10747267/"
+      },
+      {
+       "text": "Hotels near Nanjing Road Pedestrian Street",
+       "url": "https://us.trip.com/hotels/shanghai-nanjing-road/hotels-c2m4190189/"
+      },
+      {
+       "text": "Hotels near Huangpu River Cruise(Shiliupu Pier)",
+       "url": "https://us.trip.com/hotels/shanghai-huangpu-river-tour/hotels-c2m8575410/"
+      },
+      {
+       "text": "Hotels near Lujiazui Central Greenland",
+       "url": "https://us.trip.com/hotels/shanghai-lujiazui-central-greenland/hotels-c2m4190008/"
+      },
+      {
+       "text": "Hotels near Pudongdiyi Library",
+       "url": "https://us.trip.com/hotels/shanghai-shanghai-pudong-lujiazui-library/hotels-c2m2588477/"
+      },
+      {
+       "text": "Hotels near People's Square",
+       "url": "https://us.trip.com/hotels/shanghai-people-s-square/hotels-c2m4190012/"
+      },
+      {
+       "text": "Hotels near Shanghai Disney Resort",
+       "url": "https://us.trip.com/hotels/shanghai-shanghai-disney-resort/hotels-c2m15691119/"
+      },
+      {
+       "text": "Hotels near Shanghai Wild Animal Park",
+       "url": "https://us.trip.com/hotels/shanghai-shanghai-safari/hotels-c2m4189906/"
+      },
+      {
+       "text": "Hotels near Kowloon Man's Hospital",
+       "url": "https://us.trip.com/hotels/shanghai-kowloon-man-s-hospital/hotels-c2m2561615/"
+      },
+      {
+       "text": "Hotels near Shanghai City God Temple Tourist Area",
+       "url": "https://us.trip.com/hotels/shanghai-shanghai-city-god-temple-tourist-area/hotels-c2m23185706/"
+      },
+      {
+       "text": "Hotels near Changyi Road",
+       "url": "https://us.trip.com/hotels/shanghai-changyi-road/hotels-c2r19587/"
+      },
+      {
+       "text": "Hotels near Jinhai Road",
+       "url": "https://us.trip.com/hotels/shanghai-jinhai-road/hotels-c2r17176/"
+      },
+      {
+       "text": "Hotels near Zhenping Road",
+       "url": "https://us.trip.com/hotels/shanghai-zhenping-road/hotels-c2r4247/"
+      }
+     ]
+    },
+    {
+     "title": "More Accommodation Types",
+     "linkItem": [
+      {
+       "text": "Resorts in Shanghai",
+       "url": "https://us.trip.com/hotels/resorts/city/cn/shanghai.html"
+      },
+      {
+       "text": "Bungalows in Shanghai",
+       "url": "https://us.trip.com/hotels/bungalows/city/cn/shanghai.html"
+      },
+      {
+       "text": "Condos in Shanghai",
+       "url": "https://us.trip.com/hotels/condos/city/cn/shanghai.html"
+      },
+      {
+       "text": "Cheap Hotels in Shanghai",
+       "url": "https://us.trip.com/hotels/cheap/city/cn/shanghai.html"
+      },
+      {
+       "text": "New Hotels in Shanghai",
+       "url": "https://us.trip.com/hotels/new/city/cn/shanghai.html"
+      },
+      {
+       "text": "Scenic Hotels in Shanghai",
+       "url": "https://us.trip.com/hotels/scenic/city/cn/shanghai.html"
+      },
+      {
+       "text": "Hotels with Private Pools in Shanghai",
+       "url": "https://us.trip.com/hotels/private-pools/city/cn/shanghai.html"
+      },
+      {
+       "text": "Hotels with Jacuzzi in Shanghai",
+       "url": "https://us.trip.com/hotels/jacuzzi/city/cn/shanghai.html"
+      },
+      {
+       "text": "Hotels with Water Park in Shanghai",
+       "url": "https://us.trip.com/hotels/water-park/city/cn/shanghai.html"
+      },
+      {
+       "text": "Hotels with Rooftop Pools in Shanghai",
+       "url": "https://us.trip.com/hotels/rooftop-pools/city/cn/shanghai.html"
+      },
+      {
+       "text": "Hotels with Infinity Pools in Shanghai",
+       "url": "https://us.trip.com/hotels/infinity-pools/city/cn/shanghai.html"
+      }
+     ]
+    },
+    {
+     "title": "Popular Hotels",
+     "linkItem": [
+      {
+       "text": "Best hotels in Shanghai",
+       "url": "https://us.trip.com/hotels/shanghai-hotels-list-2/"
+      },
+      {
+       "text": "Best hotels in Hong Kong",
+       "url": "https://us.trip.com/hotels/hong-kong-hotels-list-58/"
+      },
+      {
+       "text": "Best hotels in Las Vegas",
+       "url": "https://us.trip.com/hotels/las-vegas-hotels-list-26282/"
+      },
+      {
+       "text": "Best hotels in Bangkok",
+       "url": "https://us.trip.com/hotels/bangkok-hotels-list-359/"
+      },
+      {
+       "text": "Best hotels in Beijing",
+       "url": "https://us.trip.com/hotels/beijing-hotels-list-1/"
+      },
+      {
+       "text": "Best hotels in Guangzhou",
+       "url": "https://us.trip.com/hotels/guangzhou-hotels-list-32/"
+      },
+      {
+       "text": "Best hotels in NYC",
+       "url": "https://us.trip.com/hotels/new-york-hotels-list-633/"
+      },
+      {
+       "text": "Best hotels in Singapore",
+       "url": "https://us.trip.com/hotels/singapore-hotels-list-73/"
+      },
+      {
+       "text": "Best hotels in Kuala Lumpur",
+       "url": "https://us.trip.com/hotels/kuala-lumpur-hotels-list-315/"
+      },
+      {
+       "text": "Best hotels in Dubai",
+       "url": "https://us.trip.com/hotels/dubai-hotels-list-220/"
+      },
+      {
+       "text": "Best hotels in Chicago",
+       "url": "https://us.trip.com/hotels/chicago-hotels-list-549/"
+      },
+      {
+       "text": "Best hotels in San Diego",
+       "url": "https://us.trip.com/hotels/san-diego-hotels-list-698/"
+      },
+      {
+       "text": "Best hotels in Miami",
+       "url": "https://us.trip.com/hotels/miami-hotels-list-25773/"
+      },
+      {
+       "text": "Best hotels in New Orleans",
+       "url": "https://us.trip.com/hotels/new-orleans-hotels-list-1186/"
+      },
+      {
+       "text": "Best hotels in Nashville",
+       "url": "https://us.trip.com/hotels/nashville-hotels-list-3228/"
+      },
+      {
+       "text": "Best hotels in Boston",
+       "url": "https://us.trip.com/hotels/boston-hotels-list-26848/"
+      },
+      {
+       "text": "Best hotels in Orlando",
+       "url": "https://us.trip.com/hotels/orlando-hotels-list-1187/"
+      },
+      {
+       "text": "Best hotels in Savannah",
+       "url": "https://us.trip.com/hotels/savannah-hotels-list-26631/"
+      },
+      {
+       "text": "Best hotels in Charleston",
+       "url": "https://us.trip.com/hotels/charleston-hotels-list-4188/"
+      },
+      {
+       "text": "Best hotels in Los Angeles",
+       "url": "https://us.trip.com/hotels/los-angeles-hotels-list-347/"
+      },
+      {
+       "text": "Best hotels in Da Nang",
+       "url": "https://www.trip.com/hotels/da-nang-hotels-list-1356/"
+      }
+     ]
+    }
+   ]
+  },
+  "seoTdk": {
+   "title": "Grand Hyatt Shanghai in Lujiazui, Pudong | Trip.com",
+   "description": "Book your stay at Grand Hyatt Shanghai in Pudong with skyline views of the Bund and Oriental Pearl Tower, plus verified guest reviews and Trip.com rates.",
+   "keywords": "Grand Hyatt Shanghai",
+   "links": [
+    {
+     "href": "https://www.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "x-default"
+    },
+    {
+     "href": "https://uk.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "en-GB"
+    },
+    {
+     "href": "https://hk.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "zh-Hant-HK"
+    },
+    {
+     "href": "https://kr.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "ko"
+    },
+    {
+     "href": "https://jp.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "ja"
+    },
+    {
+     "href": "https://sg.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "en-SG"
+    },
+    {
+     "href": "https://au.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "en-AU"
+    },
+    {
+     "href": "https://de.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "de"
+    },
+    {
+     "href": "https://fr.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "fr"
+    },
+    {
+     "href": "https://es.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "es"
+    },
+    {
+     "href": "https://it.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "it"
+    },
+    {
+     "href": "https://ru.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "ru"
+    },
+    {
+     "href": "https://th.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "th"
+    },
+    {
+     "href": "https://id.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "id"
+    },
+    {
+     "href": "https://my.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "ms"
+    },
+    {
+     "href": "https://vn.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "vi"
+    },
+    {
+     "href": "https://nl.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "nl"
+    },
+    {
+     "href": "https://pl.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "pl"
+    },
+    {
+     "href": "https://gr.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "el"
+    },
+    {
+     "href": "https://tr.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "tr"
+    },
+    {
+     "href": "https://br.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "pt-BR"
+    },
+    {
+     "href": "https://tw.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "zh-Hant-TW"
+    },
+    {
+     "href": "https://nz.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "en-NZ"
+    },
+    {
+     "href": "https://ca.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "en-CA"
+    },
+    {
+     "href": "https://us.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "en-US"
+    },
+    {
+     "href": "https://pk.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "en-PK"
+    },
+    {
+     "href": "https://in.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "en-IN"
+    },
+    {
+     "href": "https://sa.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "ar-SA"
+    },
+    {
+     "href": "https://ae.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "en-AE"
+    },
+    {
+     "href": "https://at.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "de-AT"
+    },
+    {
+     "href": "https://dk.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "da"
+    },
+    {
+     "href": "https://fi.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "fi"
+    },
+    {
+     "href": "https://mx.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "es-MX"
+    },
+    {
+     "href": "https://ph.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "en-PH"
+    },
+    {
+     "href": "https://pt.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "pt"
+    },
+    {
+     "href": "https://se.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "alternate",
+     "hreflang": "sv"
+    },
+    {
+     "href": "https://us.trip.com/hotels/shanghai-hotel-detail-346403/grand-hyatt-shanghai/",
+     "rel": "canonical"
+    }
+   ]
+  },
+  "seoHotelRooms": {
+   "physicRoomMap": {
+    "479857": {
+     "id": 479857,
+     "name": "Diplomatic Suite",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/200w0n000000e7n3c9D4A.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2k12000dcm7pu50650.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0204u120008d25k41B604.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/200p0n000000e0hnn5D92.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4f12000rzzg4mc60F3.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "110m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 78-85"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "110m² | Floor: 78-85"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "479861": {
+     "id": 479861,
+     "name": "Grand Suite Room",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2c12000rzikqf9230F.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5i12000rzil1wj10E4.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5j12000rzil1jlDBE3.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4t12000dcm94lgCFD2.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/hotel/6000/5603/529dde2c51d6407db7fbd461df33cb25.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/20021e000001fs2iy4C02.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0201t1200081z64f8318B.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4f12000rzzg4mc60F3.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "64m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-85"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "64m² | Floor: 58-85"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "479862": {
+     "id": 479862,
+     "name": "Grand Executive River-view Suite",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5812000s00r9rw3C91.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4912000s00r7x28E8A.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5j12000rzil1jlDBE3.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/200f1e000001fl0g20C0E.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/hotel/6000/5603/828bfd74fb354295b17a334c7f8c5050.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0112000dcmdoep280C.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0204x120008d2650mD1CD.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4f12000rzzg4mc60F3.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "68m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-85"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "68m² | Floor: 58-85"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "479863": {
+     "id": 479863,
+     "name": "Club River-view King Room",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1312000s00t95i96BC.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6512000rzii35sE838.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3712000iwmq2ztFF63.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0202l120008d26ju7CA05.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0112000dcmdoep280C.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4f12000rzzg4mc60F3.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40-42m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-85"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40-42m² | Floor: 58-85"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "479866": {
+     "id": 479866,
+     "name": "Club Deluxe Room",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6012000rzyh4hs9601.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2h12000rzyh98l43DA.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0200x1200081z6hb97E98.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/fd/hotel/g3/M04/8E/CE/CggYGlbBRuaAA5iBAAzpALH7fS8305.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0112000dcmdoep280C.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4f12000rzzg4mc60F3.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "50m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 60-66"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "50m² | Floor: 60-66"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "1705110": {
+     "id": 1705110,
+     "name": "Grand Hyatt King Room",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4j12000rzihehi4046.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2u12000rzii29f97F7.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6512000rzii35sE838.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0200e120008cuho7aDE45.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/20050q000000gdf24117B.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40-42m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-79"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40-42m² | Floor: 58-79"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "14183069": {
+     "id": 14183069,
+     "name": "Club Deluxe River Room",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5o12000rzyhnv914D2.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6012000rzyh4hs9601.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3h12000rzivpirBCDB.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4f12000rzzg4mc60F3.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "50m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 60-66"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "50m² | Floor: 60-66"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "290565282": {
+     "id": 290565282,
+     "name": "Presidential Suite",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2812000rzip7m785DE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2o12000rzip6653E72.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6912000rziq88dB7E6.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0212000rzipmtdF0A3.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0x12000rziq1hqD203.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5e12000rzip9ov0C1F.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0583c12000spxpitnCA3E.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4s12000rzipwaf2370.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3r12000rzipr703624.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0203r1200084yaaw7DFF8.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4a12000rzip7yz8FF0.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1l12000rziq9ux8445.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2o12000rziq2tu3270.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0204s1200084y9uniF8A6.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0200d1200084ya3z0AE07.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/020101200084yac6g282E.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/020221200084ya4ea2692.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0204k1200084ya2n07F7A.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4f12000rzzg4mc60F3.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "175m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 83-84"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "175m² | Floor: 83-84"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "301750182": {
+     "id": 301750182,
+     "name": "Grand Queen Bed",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0612000rzib5k3F3FF.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4y12000rzibg86772C.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1e12000av5q8k86545.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3v12000rzic1nk30F6.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Double bed",
+      "hover": [
+       "1 Double bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-79"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40m² | Floor: 58-79"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "301750233": {
+     "id": 301750233,
+     "name": "Grand Twin Bed",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5s12000rzicgyu4886.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0206m120008d26uv98035.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3o12000dcma4rs45F1.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0203w120008qx6beg9A78.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0226l12000s1yivql0E7D.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "2 Single bed",
+      "hover": [
+       "2 Single bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40-42m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-79"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40-42m² | Floor: 58-79"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "301750303": {
+     "id": 301750303,
+     "name": "Double Queen City View",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/0203w120008qx6beg9A78.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0206m120008d26uv98035.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3o12000dcma4rs45F1.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0222w12000s14r9sgDB70.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "2 Double bed",
+      "hover": [
+       "2 Double bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40-42m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 67-72"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40-42m² | Floor: 67-72"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "301750419": {
+     "id": 301750419,
+     "name": "Club Room King Bed",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4j12000rzihehi4046.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2u12000rzii29f97F7.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6512000rzii35sE838.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0203y120008crslp6873A.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0202l120008d26ju7CA05.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0112000dcmdoep280C.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4f12000rzzg4mc60F3.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40-42m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-85"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40-42m² | Floor: 58-85"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "301750431": {
+     "id": 301750431,
+     "name": "Club Room Queen Bed",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2u12000rzii29f97F7.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4j12000rzihehi4046.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6512000rzii35sE838.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0112000dcmdoep280C.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0200e120008cuho7aDE45.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0203y120008crslp6873A.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4f12000rzzg4mc60F3.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Double bed",
+      "hover": [
+       "1 Double bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-85"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40m² | Floor: 58-85"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "301750445": {
+     "id": 301750445,
+     "name": "Club Room Twin Bed",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5a12000rzihnf19BBA.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1412000rzihopiE081.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0112000dcmdoep280C.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0206k120008d4x8fdBE15.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02032120008crsqik6721.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4f12000rzzg4mc60F3.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "2 Single bed",
+      "hover": [
+       "2 Single bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40-42m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-85"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40-42m² | Floor: 58-85"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "301750462": {
+     "id": 301750462,
+     "name": "Grand River-view King Room",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1312000s00t95i96BC.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6512000rzii35sE838.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3712000iwmq2ztFF63.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02003120008cuixsn3896.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3o12000dcma4rs45F1.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40-42m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-79"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40-42m² | Floor: 58-79"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "301750486": {
+     "id": 301750486,
+     "name": "Grand River-view Queen Room",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1v12000rzifbxz4B57.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0112000rzif42i8756.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4w12000rzif2qg7430.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4m12000rzifbyq4FB1.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3012000rziebs52743.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3612000iwmu1hbD994.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0200e120008cuho7aDE45.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0203y120008crslp6873A.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0220n12000s14qu1e36AE.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Double bed",
+      "hover": [
+       "1 Double bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-79"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40m² | Floor: 58-79"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "301750492": {
+     "id": 301750492,
+     "name": "Grand River-view Twin Room",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1o12000rzig48v1081.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0112000rzif42i8756.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5412000rzig585E3E5.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02032120008crsqik6721.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0206k120008d4x8fdBE15.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3s12000rzifeu04124.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0224512000s14qu1292BA.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "2 Single bed",
+      "hover": [
+       "2 Single bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40-42m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-77"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40-42m² | Floor: 58-77"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "301750868": {
+     "id": 301750868,
+     "name": "Club River-view Queen Room",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1v12000rzifbxz4B57.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0112000rzif42i8756.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4w12000rzif2qg7430.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4m12000rzifbyq4FB1.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3012000rziebs52743.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0201t1200082othui2B89.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0202l120008d26ju7CA05.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/02040120008d26lrqCFBE.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0112000dcmdoep280C.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4f12000rzzg4mc60F3.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0220n12000s14qu1e36AE.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Double bed",
+      "hover": [
+       "1 Double bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-85"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40m² | Floor: 58-85"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "488456513": {
+     "id": 488456513,
+     "name": "Deluxe Presidential Suite",
+     "person": 3,
+     "children": 2,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5n12000rzirkqi81EC.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4j12000rziqxqqAB94.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3112000rzirk141979.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3v12000rzirbzf5891.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6112000rziqsc07598.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4k12000rziqwlzC350.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3012000rzirbkwA906.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0712000rziquxo5E3F.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1r12000aexufimC9DC.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6k12000aexuln99833.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4q12000aexuk3c2F5F.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6l12000aexult4C4AA.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc7112000dzg3mrc4372.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1t12000aexufj366F5.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4f12000rzzg4mc60F3.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc7112000rzzfldg9D2C.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "2 Queen bed",
+      "hover": [
+       "2 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "277m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 82"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "277m² | Floor: 82"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "517275100": {
+     "id": 517275100,
+     "name": "Grand Pearl-view King Room",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc7012000rzjx3x5F092.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6o12000rzjx0o68782.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5712000rzjwwq23E4B.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3z12000rzjx0nv9C65.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1y12000rzjx5sf01AB.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0585e12000ssn4szc4E47.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6912000jp3oc28C61F.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0581312000sm94g34504D.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40-42m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 60-79"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40-42m² | Floor: 60-79"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "519446275": {
+     "id": 519446275,
+     "name": "Club Deluxe River-View Bund Panoramic Premier King Room",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6012000rzyh4hs9601.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5z12000se26kfdBB79.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5o12000rzyhnv914D2.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "50m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 60-66"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "50m² | Floor: 60-66"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "531565092": {
+     "id": 531565092,
+     "name": "Grand Family Connection",
+     "person": 4,
+     "children": 3,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzitxik2C6A.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3012000rzitzedAACA.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3012000rzitap37A21.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0q12000rzittfm681F.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2512000rzits7r7FEC.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0582612000snxlih387FB.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0585612000songwtfA9DC.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6r12000m3sjf0w59D3.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0580n12000sommq2dCDD8.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5k12000m3sj2660D65.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "Bedroom 1:1 Double bed ● Bedroom 2:2 Single bed",
+      "hover": [
+       "Bedroom 1:1 Double bed(1m wide) ● Bedroom 2:2 Single bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "80-84m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 60-74"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "80-84m² | Floor: 60-74"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "531568331": {
+     "id": 531568331,
+     "name": "Grand Family Room",
+     "person": 3,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc6h12000m3sbtwl88D6.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4x12000m3sbv15EDF4.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3o12000dcma4rs45F1.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed and 1 Single bed",
+      "hover": [
+       "1 Queen bed(1m wide) and 1 Single bed(0m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40-42m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-79"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40-42m² | Floor: 58-79"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "545078776": {
+     "id": 545078776,
+     "name": "Guestroom - River-View (King Bed)",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4512000p3gmvfi521E.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5q12000p3gkh219172.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc1412000p3gmv5p0C84.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40-42m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-59"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40-42m² | Floor: 58-59"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "545078779": {
+     "id": 545078779,
+     "name": "Guestroom (King Bed)",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc7312000p3gojlcCF21.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2312000p3gozn07A89.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc0a12000p3gojq51893.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc3i12000p3goj3z546B.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2312000p3goylj5976.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc5g12000rzibewx4D61.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Air conditioning",
+       "icon": "ic_new_fa_ac",
+       "name": "Air conditioning"
+      },
+      {
+       "title": "Private bathroom",
+       "icon": "ic_new_fa_shower",
+       "name": "Private bathroom"
+      },
+      {
+       "title": "Bathtub",
+       "icon": "ic_new_fa_bathtub",
+       "name": "Bathtub"
+      },
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Minibar",
+       "icon": "ic_new_fa_bar",
+       "name": "Minibar"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "40-42m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 58-59"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "40-42m² | Floor: 58-59"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    },
+    "571735354": {
+     "id": 571735354,
+     "name": "Club Deluxe River-View Room - Oriental Pearl Panoramic Premier",
+     "person": 2,
+     "children": 1,
+     "pictureInfo": [
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc4s12000rziwemc2DD2.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/1mc2112000rziwl8h3902.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0582g12000sochpe56516.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0582j12000snanlx351A7.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0580v12000socjbjx01EF.jpg",
+       "desc": ""
+      },
+      {
+       "url": "https://aw-d.tripcdn.com/images/0584d12000sn74fu8CBEC.jpg",
+       "desc": ""
+      }
+     ],
+     "encourageTag": [
+      {
+       "type": "SCENERY",
+       "title": "City view"
+      }
+     ],
+     "baseFacilityInfo": [
+      {
+       "title": "Refrigerator",
+       "icon": "ic_new_fa_fridge",
+       "name": "Refrigerator"
+      },
+      {
+       "title": "Toothbrushes",
+       "name": "Toothbrushes"
+      },
+      {
+       "title": "Conditioner",
+       "name": "Conditioner"
+      },
+      {
+       "title": "Shampoo",
+       "name": "Shampoo"
+      },
+      {
+       "title": "Wardrobe",
+       "name": "Wardrobe"
+      }
+     ],
+     "bedInfo": {
+      "icon": [
+       "ic_new_bed"
+      ],
+      "title": "1 Queen bed",
+      "hover": [
+       "1 Queen bed(1m wide)"
+      ]
+     },
+     "windowInfo": {
+      "icon": "ic_fa_window",
+      "type": 6,
+      "title": "Fixed window"
+     },
+     "smokeInfo": {
+      "icon": "ic_fa_no_smoking",
+      "type": 2,
+      "title": "Non-smoking"
+     },
+     "areaInfo": {
+      "icon": "ic_fa_acreage",
+      "title": "50m²"
+     },
+     "floorInfo": {
+      "icon": "ic_fa_floor",
+      "title": "Floor: 60-66"
+     },
+     "newFacilityList": [
+      {
+       "icon": "ic_roomspace",
+       "title": "50m² | Floor: 60-66"
+      },
+      {
+       "icon": "ic_fa_window",
+       "title": "Fixed window"
+      },
+      {
+       "icon": "ic_fa_no_smoking",
+       "title": "Non-smoking"
+      }
+     ]
+    }
+   },
+   "roomList": [
+    {
+     "key": "301750462"
+    },
+    {
+     "key": "14183069"
+    },
+    {
+     "key": "545078776"
+    },
+    {
+     "key": "545078779"
+    },
+    {
+     "key": "517275100"
+    },
+    {
+     "key": "531565092"
+    },
+    {
+     "key": "1705110"
+    },
+    {
+     "key": "301750445"
+    },
+    {
+     "key": "301750182"
+    },
+    {
+     "key": "488456513"
+    },
+    {
+     "key": "301750492"
+    },
+    {
+     "key": "301750303"
+    },
+    {
+     "key": "301750431"
+    },
+    {
+     "key": "531568331"
+    },
+    {
+     "key": "301750233"
+    },
+    {
+     "key": "301750868"
+    },
+    {
+     "key": "571735354"
+    },
+    {
+     "key": "301750486"
+    },
+    {
+     "key": "301750419"
+    },
+    {
+     "key": "479863"
+    },
+    {
+     "key": "479862"
+    },
+    {
+     "key": "479861"
+    },
+    {
+     "key": "290565282"
+    },
+    {
+     "key": "519446275"
+    },
+    {
+     "key": "479857"
+    },
+    {
+     "key": "479866"
+    }
+   ]
+  },
+  "productDescription": [],
+  "externalLinksData": {
+   "title": "International sites",
+   "flagList": [],
+   "gridProps": {
+    "columns": {
+     "lg": 4,
+     "md": 3,
+     "sm": 2,
+     "xs": 1
+    },
+    "gap": 12
+   }
+  },
+  "seoRecommendation": [
+   {
+    "dimensionType": "HotelDetailRecommend",
+    "recommendationData": {
+     "h1Header": "Experience Grand Hyatt Shanghai, a 5-star hotel in Shanghai. Highly rated at 9.4/10 from 18930 guests, it delivers exceptional comfort at a great value, with rates from $180.",
+     "textStructures": [
+      {
+       "h2Content": "Rooms",
+       "mainContent": [
+        "Grand River-view King Room",
+        "Club Deluxe River Room",
+        "Guestroom - River-View (King Bed)"
+       ]
+      },
+      {
+       "h2Content": "Check-In & Check-Out",
+       "mainContent": [
+        "From 15:00 until 12:00"
+       ]
+      },
+      {
+       "h2Content": "Nearby Attractions",
+       "mainContent": [
+        "Shanghai World Financial Center Observatory: 0.15 km away",
+        "Jinmao Tower Observation Deck: 0.12 km away",
+        "Jin Mao Tower: 0.04 km away"
+       ]
+      },
+      {
+       "h2Content": "Hotel Features",
+       "mainContent": [
+        "For Your Relaxation: Pool, Hair and beauty salon, and Gym",
+        "Pets policy: No pets allowed.",
+        "Breakfast style: Western,Chinese",
+        "Dining & Drinks: Room service, Cafe, Restaurant, Bar, Lobby bar"
+       ]
+      }
+     ],
+     "footer": "All prices shown are for stays within the next 7 days, as listed on Trip.com."
+    }
+   }
+  ],
+  "grayHitVersion": "TARGET"
+ },
+ "ResponseStatus": {
+  "Timestamp": "/Date(1794039028490+800)/",
+  "Ack": "Success",
+  "Errors": [],
+  "Extension": [
+   {
+    "Id": "CLOGGING_TRACE_ID",
+    "Value": ""
+   },
+   {
+    "Id": "TraceLogId",
+    "Value": "100025527-0a8eb3b0-498344-1407022"
+   },
+   {
+    "Id": "XRequestId",
+    "Value": "3f862c65-3c37-9c47-b9ac-0535fe53bac6"
+   },
+   {
+    "Id": "RootMessageId",
+    "Value": "100025527-0a8eb3b0-498344-1407027"
+   }
+  ]
+ }
+}

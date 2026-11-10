@@ -1,0 +1,159 @@
+{
+ "props": {
+  "pageProps": {
+   "initialState": {
+    "basicInfo": {
+     "header": {
+      "clientInfo": {
+       "currency": "USD",
+       "locale": "en-XX",
+       "pageId": "10650168200",
+       "channelId": 120,
+       "platformId": 24,
+       "channel": "",
+       "extension": [],
+       "cid": "09034128411062482775",
+       "oriSyscode": "09",
+       "syscode": "09",
+       "allianceId": "",
+       "siteId": "",
+       "ouid": "",
+       "location": {
+        "lat": "0.0",
+        "lon": "0.0",
+        "cityId": 0,
+        "locatedCityId": 0
+       }
+      },
+      "enviroment": "PROD"
+     },
+     "isFlyTest": false,
+     "union": {
+      "aid": "",
+      "sid": "",
+      "ouid": null
+     },
+     "query": {},
+     "productId": "",
+     "metaproductid": "",
+     "ppcproductid": "",
+     "url": "",
+     "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "pageInfo": {
+     "noindex": true,
+     "abTestList": []
+    },
+    "isServerData": true,
+    "quickOrder": {
+     "visible": false,
+     "isLoading": false,
+     "hasError": false,
+     "country": "",
+     "countries": [],
+     "dailyPackages": [],
+     "totalPackages": [],
+     "dayOptions": [],
+     "selectedDay": null,
+     "selectedFlowType": null,
+     "selectedFlow": null,
+     "dailyFlowOptions": [],
+     "totalFlowOptions": [],
+     "productInfo": null,
+     "productLoading": false,
+     "productId": "",
+     "detailVisible": false,
+     "citySelectorVisible": false,
+     "daysSelectorVisible": false,
+     "flowSelectorVisible": false,
+     "footer": {
+      "price": null,
+      "priceInfo": null,
+      "originalPriceInfo": null,
+      "otherDesc": "",
+      "promotionText": "",
+      "isLoading": false,
+      "isChoiced": false,
+      "detailPopVisible": false
+     },
+     "esimAbTestList": []
+    }
+   },
+   "key": "/xant/experiences/nosuchcityxyz",
+   "pathname": "/experiences",
+   "query": {
+    "renderPlatform": "",
+    "seo": 1,
+    "envObj": {
+     "env": "prod",
+     "isCtrip": false,
+     "pro": true,
+     "dev": false,
+     "routerParams": [
+      "experiences",
+      "nosuchcityxyz",
+      ""
+     ],
+     "routerObj": {},
+     "plat": "unknow",
+     "phoneModel": "",
+     "isSupportWebP": true,
+     "configData": null
+    }
+   },
+   "asPath": "/xant/experiences/nosuchcityxyz",
+   "realPath": "/xant/experiences/nosuchcityxyz/"
+  }
+ },
+ "page": "/experiences",
+ "query": {
+  "renderPlatform": "",
+  "seo": 1,
+  "envObj": {
+   "env": "prod",
+   "isCtrip": false,
+   "pro": true,
+   "dev": false,
+   "routerParams": [
+    "experiences",
+    "nosuchcityxyz",
+    ""
+   ],
+   "routerObj": {},
+   "plat": "unknow",
+   "phoneModel": "",
+   "isSupportWebP": true,
+   "configData": null
+  }
+ },
+ "buildId": "xxx",
+ "assetPrefix": "https://ak-s-cw.tripcdn.com/ares/NFES/100062186/1793932731000",
+ "runtimeConfig": {
+  "appPrefix": "/xant",
+  "routerConfig": [],
+  "AppID": "100062186",
+  "useAres2": true
+ },
+ "isFallback": false,
+ "customServer": true,
+ "gip": true,
+ "appGip": true,
+ "isSSR": true,
+ "isForceRender": false,
+ "isServerGetData": true,
+ "__pd": "{\"pd\":{\"r\":15,\"_d\":228,\"_p\":13}}",
+ "version": "6.15.6",
+ "i18nCaptchaURL": "https://ak-s-cw.tripcdn.com/modules/infosec/jigsawCaptcha/jigsaw-captcha.min.70c6e6893d555dd045d1a4110c14953a.macro.js",
+ "__nfesGlobalDatas": {
+  "nfesSharkData": {
+   "key.nfes.errorPage.tip": "Failed to load. Please try again later.",
+   "key.nfes.errorPage.retry": "Retry",
+   "key.nfes.errorPage.back": "Back"
+  }
+ },
+ "company": "",
+ "fullUrl": "https://www.trip.com/xant/experiences/nosuchcityxyz/",
+ "isRTL": "",
+ "webcore": {},
+ "scriptLoader": []
+}
