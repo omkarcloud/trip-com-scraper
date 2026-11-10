@@ -370,7 +370,10 @@ def _hotel_card(row):
             "city_id": _int(position.get("cityId")),
             "city": _text(position.get("cityName")),
             "country_id": _int(position.get("countryId")),
-            "zone": next((_text(z) for z in position.get("zoneNames") or [] if _text(z)), None),
+            # a hotel in no named zone gets "Near <landmark>|<landmark>" in
+            # zoneNames (3 of 21 Las Vegas cards, 2026-11-10): nearby places,
+            # already in `description`, not a zone
+            "zone": next((_text(z) for z in position.get("zoneNames") or [] if _text(z) and "|" not in _text(z)), None),
             "description": _text(position.get("positionDesc")),
             "descriptions": [d for d in position.get("positionDescs") or [] if _text(d)],
             "coordinate": _best_coordinate(position.get("mapCoordinate")),
@@ -691,7 +694,8 @@ def _review(row):
         "date": _iso(row.get("createDate")),
         "helpful_count": _int(row.get("usefulCount")),
         "images": [i for i in images if i],
-        "videos": [v for v in (_text(v.get("videoUrl")) if isinstance(v, dict) else _text(v)
+        # videoList items are {cover, url, duration, videoId} (2026-11-10)
+        "videos": [v for v in ((_text(v.get("url")) or _text(v.get("videoUrl"))) if isinstance(v, dict) else _text(v)
                                for v in row.get("videoList") or []) if v],
         # sourceName is the partner site for imported reviews ("ctrip") but a
         # language name ("English") on Trip.com's own reviews
@@ -700,7 +704,8 @@ def _review(row):
         "author": {
             "name": _text(user.get("nickName")),
             "country": _text(user.get("regionName")),
-            "country_code": _text(user.get("regionCode")),
+            # "XX" is Trip.com's placeholder for a reviewer whose region it hides
+            "country_code": None if (_text(user.get("regionCode")) or "XX").upper() == "XX" else _text(user.get("regionCode")),
             "avatar": _text(user.get("headPictureUrl")),
             "review_count": _int(user.get("commentCount")),
             "level": _text(_g(user, "grade", "title")),

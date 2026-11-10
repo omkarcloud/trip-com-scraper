@@ -178,6 +178,11 @@ def test_hotel_search_resort_fee_due_at_hotel():
     assert price["due_at_hotel_items"] == [{"name": "Resort fee", "amount": 79.1}]
     assert price["room_subtotal"] == 211.23 and price["taxes_and_fees"] == 25.82 and price["discounts"] == -12.66
     assert price["explanation"] == "Total price: $303 · 1 room × 2 nights incl. taxes & fees"
+    # zoneNames = "Near Santa Fe Station Bingo Room|Chrome Showroom": landmarks, not a zone
+    assert card["location"]["zone"] is None
+    assert card["location"]["description"] == "Near Santa Fe Station Bingo Room | Chrome Showroom"
+    assert {r["location"]["zone"] for r in lv["results"]} == {
+        None, "Las Vegas Strip", "East of the Strip", "West of The Strip", "Downtown - Fremont Street"}
     assert all(r["star_type"] in ("star", "diamond", "homes_and_apartments") for r in lv["results"])
     assert all(i.endswith(".jpg") for r in lv["results"] for i in r["images"])
 
@@ -340,6 +345,19 @@ def test_reviews_summary(reviews):
     assert len(reviews["languages"]) == 18 and len(reviews["rooms"]) == 23
     assert all(row["count"] is not None for row in reviews["traveler_types"] + reviews["languages"] + reviews["rooms"])
     assert reviews["ai_summary"][0]["topic"] == "Location" and reviews["ai_summary"][0]["is_positive"] is True
+
+
+def test_review_videos():
+    row = P._review({"id": 2167257249, "videoList": [
+        {"cover": "https://ak-d.tripcdn.com/images/0203s12000udwlxch5273_W_350_350_R5_Q70.jpg",
+         "url": "https://video.c-ctrip.com/videos/230ecn14x9b7qaw3r1672.mp4", "duration": "12.0", "videoId": 10442757}]})
+    assert row["videos"] == ["https://video.c-ctrip.com/videos/230ecn14x9b7qaw3r1672.mp4"]
+
+
+def test_review_hidden_region_is_null():
+    row = P._review({"id": 1, "userInfo": {"nickName": "Guest User", "regionCode": "XX", "regionName": ""}})
+    assert row["author"]["country_code"] is None and row["author"]["country"] is None
+    assert P._review({"userInfo": {"regionCode": "US"}})["author"]["country_code"] == "US"
 
 
 def test_reviews_sparse_and_unknown():
