@@ -71,6 +71,7 @@ import config
 import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
 from trip_com.refs import SITE
+from scraper_utils import retry, sessions as sessions_utils
 
 PROFILES = {"hotel": "chrome", "guide": "safari17_0"}
 JSON_TIMEOUT = 30
@@ -124,27 +125,13 @@ def _session(kind="hotel"):
 
 def _drop_session(kind):
     """Close the thread's session so the retry rides a fresh exit."""
-    sess = _sessions().pop(kind, None)
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions_utils.drop_keyed(_sessions(), kind)
 
 
 def _retrying(fn, kind="hotel"):
     """Run fn() under the shared retry policy (TripComUpstreamError only;
     NotFound / BadRequest surface immediately)."""
-    last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except TripComUpstreamError as e:
-            last = e
-            _drop_session(kind)
-            if attempt < config.MAX_RETRIES:
-                time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
+    return retry.run(fn, config, TripComUpstreamError, lambda e: _drop_session(kind))
 
 
 def _classify(resp, label):

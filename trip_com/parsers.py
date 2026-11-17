@@ -35,6 +35,8 @@ from datetime import datetime, timezone
 
 from trip_com.refs import (TRAVELER_TYPE_NAMES, PLACE_KINDS, attraction_link, experience_link,
                            experiences_link, hotel_link, hotel_list_link)
+from scraper_utils.values import num as _float, to_int as _int
+from scraper_utils.text import squashed_any as _text
 
 _RSC_CHUNK_RE = re.compile(r'self\.__next_f\.push\(\[1,("(?:[^"\\]|\\.)*")\]\)')
 _RSC_ROW_RE = re.compile(r"^([0-9a-zA-Z]+):(.*)$", re.S)
@@ -45,7 +47,7 @@ _MARKUP_RE = re.compile(r"\{/?\d+\}")          # {1}…{/1} highlight markers
 _NUM_RE = re.compile(r"-?\d[\d,]*(?:\.\d+)?")
 _COUNT_RE = re.compile(r"(\d[\d,]*(?:\.\d+)?)\s*([kKmM])?")
 _LOCAL_NAME_RE = re.compile(r":\s*(.+)$")
-_TODAY_OPEN_RE = re.compile(r"^Today\s*Open\s*:?\s*")
+_TODAY_OPEN_RE = re.compile(r"^(Today|Tomorrow)\s*Open\s*:?\s*")
 
 
 # ---- value helpers -------------------------------------------------------------------
@@ -63,31 +65,6 @@ def _g(obj, *keys, default=None):
         if cur is None:
             return default
     return cur
-
-
-def _text(value):
-    if value is None or isinstance(value, (dict, list)):
-        return None
-    text = " ".join(str(value).split())
-    return text or None
-
-
-def _int(value):
-    if value is None or isinstance(value, bool):
-        return None
-    try:
-        return int(float(str(value).replace(",", "")))
-    except (TypeError, ValueError):
-        return None
-
-
-def _float(value):
-    if value is None or isinstance(value, bool):
-        return None
-    try:
-        return float(str(value).replace(",", ""))
-    except (TypeError, ValueError):
-        return None
 
 
 def _count(value):
@@ -865,8 +842,10 @@ def _poi_card(data, currency=None):
         "recommend_reason": _text(_g(data, "rankingInfo", "recommendReason")),
         "price": {"amount": _float(price.get("price")) or None, "currency": currency,
                   "bookings": _count(price.get("salesVolumeDesc"))},
-        # the card glues its "Today" / "Open" labels: "TodayOpen 8:00 AM–12:00 AM"
-        "opening_hours": _TODAY_OPEN_RE.sub("Open today ", _text(data.get("openTimeDesc")) or "") or None,
+        # the card glues its day and "Open" labels: "TodayOpen 8:00 AM–12:00 AM",
+        # "TomorrowOpen: 8:30 AM–4:30 PM" (a place closed today)
+        "opening_hours": _TODAY_OPEN_RE.sub(lambda m: f"Open {m.group(1).lower()} ",
+                                            _text(data.get("openTimeDesc")) or "") or None,
         "open_status": _text(data.get("openStatus")),
         "duration": (_text(data.get("playSpendTime")) or "").replace("Duration:", "").strip() or None,
         "image": _text(data.get("coverImageUrl")),

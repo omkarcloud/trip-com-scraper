@@ -404,6 +404,10 @@ def test_attractions_page_new_york_hours_and_currency():
 def test_attractions_page_phrase_and_unknown():
     museum = P.parse_attractions_page(fixture("attractions_museum.json"))
     assert len(museum["results"]) == 12 and museum["total_count"] == 19564
+    # a place closed today glues "Tomorrow" the same way ("TomorrowOpen: 8:30 AM…")
+    hours = [r["opening_hours"] for r in museum["results"] if r["kind"] == "attraction" and r["opening_hours"]]
+    assert "Open tomorrow 8:30 AM–4:30 PM(Admission ends at 3:30 PM)" in hours
+    assert not any(h.startswith(("Today", "Tomorrow")) for h in hours)
     unknown = P.parse_attractions_page(fixture("attractions_unknown.json"))
     assert unknown == {"destination": None, "results": [], "total_count": 0}
     assert P.parse_attractions_page({})["results"] == []
